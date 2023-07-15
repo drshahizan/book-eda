@@ -4,7 +4,9 @@ Data exploration is the initial act of getting to know your data and what you’
 
 ## **ydata-profiling**
 
-<img src="../.gitbook/assets/github.png" alt=""> [GitHub](https://github.com/ydataai/ydata-profiling) |[Website](https://ydata-profiling.ydata.ai/docs/master/index.html)
+![](<../.gitbook/assets/github (1).png>) [GitHub](https://github.com/ydataai/ydata-profiling) |[Website](https://ydata-profiling.ydata.ai/docs/master/index.html)
+
+<figure><img src="../.gitbook/assets/github.png" alt=""><figcaption></figcaption></figure>
 
 The primary goal of ydata-profiling is to provide a one-line Exploratory Data Analysis (EDA) experience in a consistent and fast solution. ydata-profiling delivers an extended analysis of a DataFrame while allowing the data analysis to be exported in different formats such as HTML and JSON.
 
