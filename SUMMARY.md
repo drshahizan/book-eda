@@ -12,5 +12,5 @@
 ## Tools
 
 * [Data Exploration](tools/data-exploration.md)
-* [Page 2](tools/page-2.md)
-* [Page 3](tools/page-3.md)
+* [Data Quality](tools/data-quality.md)
+* [Data Profiling](tools/data-profiling.md)
