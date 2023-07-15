@@ -4,7 +4,7 @@ Now that you’ve learned more about your data and cleaned it up, it’s time to
 
 ## **Cleanlab**
 
-[GitHub](https://github.com/cleanlab/cleanlab) | [Website](https://cleanlab.ai/)
+🔗 [GitHub](https://github.com/cleanlab/cleanlab) | [Website](https://cleanlab.ai/)
 
 Cleanlab is focused on data-centric AI (DCAI), providing algorithms/interfaces to help companies (across all industries) improve the quality of their datasets and diagnose/fix various issues in them. This tool automatically detects problems in an ML dataset. This data-centric AI package facilitates machine learning with messy, real-world data by providing clean labels for robust training and flagging errors in your data.
 
@@ -14,7 +14,7 @@ Cleanlab’s Chief Scientist & Co-Founder, Jonas Mueller, will present more abou
 
 ## **Great Expectations**
 
-[GitHub](https://github.com/great-expectations/great\_expectations) | [Website](https://docs.greatexpectations.io/docs/)
+🔗 [GitHub](https://github.com/great-expectations/great\_expectations) | [Website](https://docs.greatexpectations.io/docs/)
 
 Great Expectations (GX) helps data teams build a shared understanding of their data through quality testing, documentation, and profiling. With [Great Expectations](https://opendatascience.com/building-a-robust-data-pipeline-with-the-dag-stack-dbt-airflow-and-great-expectations/), data teams can express what they “expect” from their data using simple assertions. Great Expectations provides support for different data backends such as flat file formats, SQL databases, Pandas dataframes and Sparks, and comes with built-in notification and data documentation functionality.
 
@@ -24,7 +24,7 @@ Sam Bail, technical lead at Superconductive (the core maintainers behind Great E
 
 ## **VisiData**
 
-[GitHub](https://github.com/saulpw/visidata) | [Website](https://www.visidata.org/)
+🔗 [GitHub](https://github.com/saulpw/visidata) | [Website](https://www.visidata.org/)
 
 VisiData is a free, open-source tool that lets you quickly open, explore, summarize, and analyze datasets in your computer’s terminal. VisiData works with CSV files, Excel spreadsheets, SQL databases, and many other data sources. It combines the clarity of a spreadsheet, the efficiency of the terminal, and the power of Python, into a lightweight utility that can handle millions of rows with ease.
 
