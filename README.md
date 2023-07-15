@@ -24,7 +24,7 @@ Exploratory Data Analysis (EDA) is a crucial step in the data science process. I
 
 ✅️ Developed by the American mathematician John Tukey in the 1970s, EDA techniques continue to be a widely used method in the data exploration process today.
 
-### Why is EDA so important in data science?
+## Why is EDA so important in data science?
 
 ✅️ The main purpose of EDA is to help you look at the data before making any assumptions. In addition to better understanding the patterns in the data or detecting unusual events, it also helps you find interesting relationships between variables.
 
@@ -38,7 +38,7 @@ Exploratory Data Analysis (EDA) is a crucial step in the data science process. I
 
 ![](https://github.com/drshahizan/Python\_EDA/blob/main/EDA.png)
 
-### Python
+## Python
 
 👉 Python is a popular programming language for data science and has several libraries and tools that are commonly used for EDA such as:
 
@@ -50,7 +50,7 @@ Exploratory Data Analysis (EDA) is a crucial step in the data science process. I
 
 In EDA, you might perform tasks such as cleaning the data, handling missing values, transforming variables, generating summary statistics, creating visualizations (e.g. histograms, scatter plots, box plots), and identifying outliers. All of these tasks can be done using the above libraries in Python.
 
-### 📖 Notes
+## 📖 Notes
 
 #### Basic Concept
 
@@ -64,7 +64,7 @@ In EDA, you might perform tasks such as cleaning the data, handling missing valu
 * [A Five-Step Guide for Conducting Exploratory Data Analysis](https://shopify.engineering/conducting-exploratory-data-analysis)
 * [I asked ChatGPT to do Exploratory Data Analysis with Visualizations](https://youtu.be/787VOGoqBzk)
 
-#### Code & Practice
+## Code & Practice
 
 * [simplilearn: What is Exploratory Data Analysis? Steps and Market Analysis](https://www.simplilearn.com/tutorials/data-analytics-tutorial/exploratory-data-analysis)
 * [Exploratory Data Analysis (EDA): Types, Tools, Process](https://www.knowledgehut.com/blog/data-science/eda-data-science)
@@ -74,7 +74,7 @@ In EDA, you might perform tasks such as cleaning the data, handling missing valu
 * [EDA - Exploratory Data Analysis: Using Python Functions](https://www.digitalocean.com/community/tutorials/exploratory-data-analysis-python)
 * [Step-by-Step Exploratory Data Analysis (EDA) using Python](https://www.analyticsvidhya.com/blog/2022/07/step-by-step-exploratory-data-analysis-eda-using-python/)
 
-#### Videos
+## Videos
 
 * [Exploratory Data Analysis Tutorial | What Is EDA | How EDA Works | EDA In Python | Intellipaat](https://www.youtube.com/watch?v=oS12x4GjLjM)
 * [Live Day 1-Live Session On EDA And Feature Engineering- Zomato Dataset](https://www.youtube.com/watch?v=F-X82zhIfBo\&t=91s)
@@ -86,7 +86,7 @@ In EDA, you might perform tasks such as cleaning the data, handling missing valu
 * [Exploratory Data Analysis with Pandas Python](https://www.youtube.com/watch?v=xi0vhXFPegw)
 * [How to Do Data Exploration (step-by-step tutorial on real-life dataset)](https://www.youtube.com/watch?v=OY4eQrekQvs)
 
-#### Kaggle: Notebook
+## Kaggle: Notebook
 
 * [Exploratory Data Analysis (Step by Step)](https://www.kaggle.com/code/prakharrathi25/exploratory-data-analysis-step-by-step)
 * [A Simple Tutorial on Exploratory Data Analysis](https://www.kaggle.com/code/spscientist/a-simple-tutorial-on-exploratory-data-analysis)
@@ -97,7 +97,7 @@ In EDA, you might perform tasks such as cleaning the data, handling missing valu
 * [Pandas: EDA of Cars Dataset](https://www.kaggle.com/code/danishasif/pandas-eda-of-cars-dataset)
 * [Step-by-step Data Preprocessing & EDA](https://www.kaggle.com/code/agrawaladitya/step-by-step-data-preprocessing-eda)
 
-#### Github
+## Github
 
 * [PacktPublishing/Hands on Exploratory Data analysis with Python](https://github.com/PacktPublishing/Hands-on-Exploratory-Data-Analysis-with-Python)
 * [code4kunal/eda-python-examples](https://github.com/code4kunal/eda-python-examples)
@@ -109,7 +109,7 @@ In EDA, you might perform tasks such as cleaning the data, handling missing valu
 * [sandyy2505/Cardio Good Fitness Project](https://github.com/sandyy2505/EDA)
 * [ajaymache/Data analysis of used car database](https://github.com/ajaymache/data-analysis-using-python)
 
-### 📖 Lab
+## 📖 Lab
 
 | No | Dataset                                | Colab                                                                                                                                                                                                                        | GitHub                                                                                                                                                                                                                        |
 | -- | -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -118,7 +118,7 @@ In EDA, you might perform tasks such as cleaning the data, handling missing valu
 | 3  | Housing Dataset                        | [![Open in Colab](https://img.shields.io/static/v1?label=\&message=Colab\&labelColor=grey\&color=blue\&logo=google-colab)](https://colab.research.google.com/drive/1p8GVSVIOFFJEcFdZZdbtVd3Rysd5MDyf#scrollTo=SvL9Oi6Jlw\_H) | [![Open in GitHub](https://img.shields.io/static/v1?label=\&message=GitHub\&labelColor=grey\&color=blue\&logo=github)](https://github.com/drshahizan/Python\_EDA/blob/main/lab/Lab\_3\_Housing\_Dataset.ipynb)                |
 | 4  | United Nations Development Corporation | [![Open in Colab](https://img.shields.io/static/v1?label=\&message=Colab\&labelColor=grey\&color=blue\&logo=google-colab)](https://colab.research.google.com/drive/1bMSLUmU-gSVJh0SF6CVWx1ddM17uBe\_n)                       | [![Open in GitHub](https://img.shields.io/static/v1?label=\&message=GitHub\&labelColor=grey\&color=blue\&logo=github)](https://github.com/drshahizan/Python\_EDA/blob/main/lab/lab4.ipynb)                                    |
 
-### 🌟 Case Study: Exploratory Data Analysis
+## 🌟 Case Study: Exploratory Data Analysis
 
 | Team      | Title                                                                               | Colab                                                                                                                                                                                                                                                 | GitHub                                                                                                                                                                                                                                                                 |
 | --------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
