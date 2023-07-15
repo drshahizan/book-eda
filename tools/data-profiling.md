@@ -4,13 +4,13 @@ Now that the data has been examined and some initial cleaning has taken place, i
 
 ## **Metabase**
 
-[GitHub](https://github.com/metabase/metabase) | [Website](https://www.metabase.com/)
+🔗 [GitHub](https://github.com/metabase/metabase) | [Website](https://www.metabase.com/)
 
 Metabase is an easy-to-use data exploration tool that allows even non-technical users to ask questions and gain insights. This business intelligence and user experience tool allows you to build interactive dashboards, models for cleaning tables, and set up alerts to notify users when your data changes. You can even connect directly to 20+ data sources to work with data within minutes.
 
 ## **Lightdash**
 
-[GitHub](https://github.com/lightdash/lightdash) | [Website](https://www.lightdash.com/)
+🔗 [GitHub](https://github.com/lightdash/lightdash) | [Website](https://www.lightdash.com/)
 
 A popular open-source business intelligence tool, Lightdash is designed for [dbt](https://www.getdbt.com/) (data build tool), and allows data analysts and engineers to control all of their business intelligence tools in a single place, bridging the gap between the transformation and visualization layers. The tool is a full-stack BI platform, so analysts can write their metrics in-house, enabling the entire business to work with the data with ease.
 
@@ -18,7 +18,7 @@ A popular open-source business intelligence tool, Lightdash is designed for [dbt
 
 ## **Perspective**
 
-[GitHub](https://github.com/finos/perspective) | [Website](https://perspective.finos.org/)
+🔗 [GitHub](https://github.com/finos/perspective) | [Website](https://perspective.finos.org/)
 
 Perspective is an interactive analytics and data visualization component, which is especially well-suited for large and/or streaming datasets. This tool allows users to create easily-configurable reports, dashboards, notebooks, and applications.
 
@@ -26,7 +26,7 @@ Perspective is an interactive analytics and data visualization component, which 
 
 ## **Apache Doris**
 
-[GitHub](https://github.com/apache/doris) | [Website](https://doris.apache.org/)
+🔗 [GitHub](https://github.com/apache/doris) | [Website](https://doris.apache.org/)
 
 Built on an MPP (massively parallel processing) architecture, this tool from Apache is a high-performance, real-time analytics database, known for speed and ease of use. Apache Doris can better meet the scenarios of report analysis, ad-hoc query, unified data warehouse, Data Lake Query Acceleration, etc. Users can build user behavior analysis, AB test platform, log retrieval analysis, user portrait analysis, order analysis, and other applications on top of this.
 
