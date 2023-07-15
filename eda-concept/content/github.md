@@ -1,9 +1,9 @@
 # Github
 
 
-1. {% embed url="https://github.com/PacktPublishing/Hands-on-Exploratory-Data-Analysis-with-Python" %}
+{% embed url="https://github.com/PacktPublishing/Hands-on-Exploratory-Data-Analysis-with-Python" %}
 
-2. {% embed url="https://github.com/code4kunal/eda-python-examples" %}
+{% embed url="https://github.com/code4kunal/eda-python-examples" %}
 
 {% embed url="https://github.com/SouRitra01/Exploratory-Data-Analysis-EDA-in-Banking-Python-Project-" %}
 
