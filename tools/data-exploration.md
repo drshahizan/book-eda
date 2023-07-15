@@ -3,7 +3,7 @@
 Data exploration is the initial act of getting to know your data and what you’re working with, often working with raw data to find any initial characteristics and patterns. Data visualization can help here by visualizing your datasets. It’s also part of the initial process of preparing your data, and may involve cleaning, transforming, and working with any anomalies. These tools will help make your initial data exploration process easy.
 
 ## **ydata-profiling**
-<img width="24" height="24" src="https://img.icons8.com/sf-black-filled/64/github.png" alt="github"/>[GitHub](https://github.com/ydataai/ydata-profiling) | [Website](https://ydata-profiling.ydata.ai/docs/master/index.html)
+<img width="24" height="24" src="https://img.icons8.com/sf-black-filled/64/github.png" alt="github"/>[GitHub](https://github.com/ydataai/ydata-profiling) |[Website](https://ydata-profiling.ydata.ai/docs/master/index.html)
 
 The primary goal of ydata-profiling is to provide a one-line Exploratory Data Analysis (EDA) experience in a consistent and fast solution. ydata-profiling delivers an extended analysis of a DataFrame while allowing the data analysis to be exported in different formats such as HTML and JSON.
 
