@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Welcome!](README.md)
-* [Quick Start](quick-start.md)
 
 ## EDA Concept
 
@@ -17,23 +16,26 @@
 
 * [Kaggle](dataset/kaggle.md)
 
-## Python
-
-* [Libraries and tools](python/kaggle/README.md)
-  * [Pandas](python/kaggle/pandas.md)
-  * [Numpy](python/kaggle/numpy.md)
-  * [Matplotlib](python/kaggle/matplotlib.md)
-  * [Seaborn](python/kaggle/seaborn.md)
-  * [Plotly](python/kaggle/plotly.md)
-
 ## Tools
 
 * [Data Exploration](tools/data-exploration.md)
 * [Data Quality](tools/data-quality.md)
 * [Data Profiling](tools/data-profiling.md)
+* [Python Libraries](tools/kaggle/README.md)
+  * [Pandas](tools/kaggle/pandas.md)
+  * [Numpy](tools/kaggle/numpy.md)
+  * [Matplotlib](tools/kaggle/matplotlib.md)
+  * [Seaborn](tools/kaggle/seaborn.md)
+  * [Plotly](tools/kaggle/plotly.md)
+
+## Lab & Case Study
+
+* [Lab](lab-and-case-study/lab.md)
+* [Case Study](lab-and-case-study/case-study.md)
 
 ## Reference
 
 * [API Reference](reference/api-reference/README.md)
   * [Pets](reference/api-reference/pets.md)
   * [Users](reference/api-reference/users.md)
+  * [Quick Start](reference/api-reference/quick-start.md)
