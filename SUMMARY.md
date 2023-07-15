@@ -9,7 +9,7 @@
 
 ## Tools
 
-*
+* [Data Quality](tools/data-quality.md)
 * [Data Quality](tools/data-quality.md)
 * [Data Profiling](tools/data-profiling.md)
 
