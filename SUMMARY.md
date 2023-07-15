@@ -13,8 +13,6 @@
 * [Data Quality](tools/data-quality.md)
 * [Data Profiling](tools/data-profiling.md)
 
-## Case Study
-
 ## Reference
 
 * [API Reference](reference/api-reference/README.md)
