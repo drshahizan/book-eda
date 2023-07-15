@@ -10,4 +10,8 @@
 * [sandyy2505/Cardio Good Fitness Project](https://github.com/sandyy2505/EDA)
 * [ajaymache/Data analysis of used car database](https://github.com/ajaymache/data-analysis-using-python)
 
-[https://github.com/ajaymache/data-analysis-using-python](https://github.com/ajaymache/data-analysis-using-python)
+
+
+{% embed url="https://github.com/sandyy2505/EDA" %}
+
+{% embed url="https://github.com/ajaymache/data-analysis-using-python" %}

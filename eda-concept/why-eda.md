@@ -1,6 +1,6 @@
 # Why EDA?
 
-<figure><img src="../../.gitbook/assets/EDA.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/EDA.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ✅️ The main purpose of EDA is to help you look at the data before making any assumptions. In addition to better understanding the patterns in the data or detecting unusual events, it also helps you find interesting relationships between variables.
 
