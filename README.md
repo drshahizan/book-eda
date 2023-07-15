@@ -1,6 +1,8 @@
 # Welcome!
 
-[![Stars Badge](https://img.shields.io/github/stars/drshahizan/Python\_EDA)](https://github.com/drshahizan/Python\_EDA/stargazers) [![Forks Badge](https://img.shields.io/github/forks/drshahizan/Python\_EDA)](https://github.com/drshahizan/Python\_EDA/network/members) [![Pull Requests Badge](https://img.shields.io/github/issues-pr/drshahizan/Python\_EDA)](https://github.com/drshahizan/Python\_EDA/pulls) [![Issues Badge](https://img.shields.io/github/issues/drshahizan/Python\_EDA)](https://github.com/drshahizan/Python\_EDA/issues) [![GitHub contributors](https://img.shields.io/github/contributors/drshahizan/Python\_EDA?color=2b9348)](https://github.com/drshahizan/Python\_EDA/graphs/contributors) ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2FPython\_EDA\&labelColor=%23d9e3f0\&countColor=%23697689\&style=flat)
+[![Stars Badge](https://img.shields.io/github/stars/drshahizan/Python\_EDA)](https://github.com/drshahizan/Python\_EDA/stargazers) 
+[![Forks Badge](https://img.shields.io/github/forks/drshahizan/Python\_EDA)](https://github.com/drshahizan/Python\_EDA/network/members) 
+[![GitHub contributors](https://img.shields.io/github/contributors/drshahizan/Python\_EDA?color=2b9348)](https://github.com/drshahizan/Python\_EDA/graphs/contributors) ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2FPython\_EDA\&labelColor=%23d9e3f0\&countColor=%23697689\&style=flat)
 
 ## About Us
 
