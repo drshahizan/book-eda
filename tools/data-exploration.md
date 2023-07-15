@@ -4,7 +4,7 @@ Data exploration is the initial act of getting to know your data and what you’
 
 ## **ydata-profiling**
 
-![](<../.gitbook/assets/github (1).png>) [GitHub](https://github.com/ydataai/ydata-profiling) |[Website](https://ydata-profiling.ydata.ai/docs/master/index.html)
+![](<../.gitbook/assets/github.png>) [GitHub](https://github.com/ydataai/ydata-profiling) |[Website](https://ydata-profiling.ydata.ai/docs/master/index.html)
 
 <figure><img src="../.gitbook/assets/github.png" alt=""><figcaption></figcaption></figure>
 
