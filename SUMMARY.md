@@ -12,6 +12,15 @@
 
 * [Kaggle](dataset/kaggle.md)
 
+## Python
+
+* [Libraries and tools](python/kaggle/README.md)
+  * [Pandas](python/kaggle/pandas.md)
+  * [Numpy](python/kaggle/numpy.md)
+  * [Matplotlib](python/kaggle/matplotlib.md)
+  * [Seaborn](python/kaggle/seaborn.md)
+  * [Plotly](python/kaggle/plotly.md)
+
 ## Tools
 
 * [Data Exploration](tools/data-exploration.md)
