@@ -3,6 +3,11 @@
 * [Welcome!](README.md)
 * [Quick Start](quick-start.md)
 
+## EDA Concept
+
+* [What is EDA?](eda-concept/kaggle.md)
+* [Why EDA?](eda-concept/why-eda.md)
+
 ## Dataset
 
 * [Kaggle](dataset/kaggle.md)
