@@ -14,14 +14,14 @@
 
 ## Dataset
 
-* [Kaggle](dataset/kaggle.md)
+* [ℹ Kaggle](dataset/kaggle.md)
 
 ## Tools
 
-* [Data Exploration](tools/data-exploration.md)
-* [Data Quality](tools/data-quality.md)
-* [Data Profiling](tools/data-profiling.md)
-* [Python Libraries](tools/kaggle/README.md)
+* [👩💻 Data Exploration](tools/data-exploration.md)
+* [🎯 Data Quality](tools/data-quality.md)
+* [📔 Data Profiling](tools/data-profiling.md)
+* [🐍 Python Libraries](tools/kaggle/README.md)
   * [Pandas](tools/kaggle/pandas.md)
   * [Numpy](tools/kaggle/numpy.md)
   * [Matplotlib](tools/kaggle/matplotlib.md)
@@ -30,8 +30,8 @@
 
 ## Lab & Case Study
 
-* [Lab](lab-and-case-study/lab.md)
-* [Case Study](lab-and-case-study/case-study.md)
+* [🔬 Lab](lab-and-case-study/lab.md)
+* [💼 Case Study](lab-and-case-study/case-study.md)
 
 ## Reference
 
