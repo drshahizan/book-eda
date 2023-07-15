@@ -33,5 +33,3 @@ Apache Superset is a must-try project for any ML engineer, data scientist, or da
 Algorithm Visualizer is an interactive online platform that visualizes algorithms from code. It offers visualization tools in various languages including JavaScript, Java, and C++. The project was inspired by a group of coders looking to visualize what they’re working on, thus creating a tool that can show algorithms and descriptions of algorithms in real time.
 
 <figure><img src="https://miro.medium.com/v2/resize:fit:1400/0*6bpXdPHqbXgfj4-D.png" alt="" width="563"><figcaption></figcaption></figure>
-
-\
