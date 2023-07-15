@@ -8,29 +8,9 @@ The information on this e-book is part of the materials for the subject High Per
 
 <figure><img src=".gitbook/assets/hpdp1.jpeg" alt=""><figcaption></figcaption></figure>
 
-## 📖 Notes
+##
 
-#### Basic Concept
 
-* [developers.google: Good Data Analysis](https://developers.google.com/machine-learning/guides/good-data-analysis)
-* [Datascience using Python: Exploratory\_Data\_Analysis](https://github.com/drshahizan/Python\_EDA/blob/main/images/Datascience\_using\_Python\_EDA.pdf)
-* [Towardsdatascience: What is Exploratory Data Analysis?](https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15)
-* [Wikipedia: Exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory\_data\_analysis)
-* [r4ds: Exploratory Data Analysis](https://r4ds.had.co.nz/exploratory-data-analysis.html)
-* [careerfoundry:What Is Exploratory Data Analysis?](https://careerfoundry.com/en/blog/data-analytics/exploratory-data-analysis/)
-* [How To Conduct Exploratory Data Analysis in 6 Steps](https://www.indeed.com/career-advice/career-development/how-to-conduct-exploratory-data-analysis)
-* [A Five-Step Guide for Conducting Exploratory Data Analysis](https://shopify.engineering/conducting-exploratory-data-analysis)
-* [I asked ChatGPT to do Exploratory Data Analysis with Visualizations](https://youtu.be/787VOGoqBzk)
-
-## Code & Practice
-
-* [simplilearn: What is Exploratory Data Analysis? Steps and Market Analysis](https://www.simplilearn.com/tutorials/data-analytics-tutorial/exploratory-data-analysis)
-* [Exploratory Data Analysis (EDA): Types, Tools, Process](https://www.knowledgehut.com/blog/data-science/eda-data-science)
-* [projectpro: Exploratory Data Analysis in Python-Stop, Drop and Explore](https://www.projectpro.io/article/exploratory-data-analysis-in-python-stop-drop-and-explore/427)
-* [medium.com: 10 Things to do when conducting your Exploratory Data Analysis (EDA)](https://medium.com/data-folks-indonesia/10-things-to-do-when-conducting-your-exploratory-data-analysis-eda-7e3b2dfbf812)
-* [towardsdatascience.com: An Extensive Step by Step Guide to Exploratory Data Analysis](https://towardsdatascience.com/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e)
-* [EDA - Exploratory Data Analysis: Using Python Functions](https://www.digitalocean.com/community/tutorials/exploratory-data-analysis-python)
-* [Step-by-Step Exploratory Data Analysis (EDA) using Python](https://www.analyticsvidhya.com/blog/2022/07/step-by-step-exploratory-data-analysis-eda-using-python/)
 
 ## Videos
 
@@ -44,16 +24,7 @@ The information on this e-book is part of the materials for the subject High Per
 * [Exploratory Data Analysis with Pandas Python](https://www.youtube.com/watch?v=xi0vhXFPegw)
 * [How to Do Data Exploration (step-by-step tutorial on real-life dataset)](https://www.youtube.com/watch?v=OY4eQrekQvs)
 
-## Kaggle: Notebook
 
-* [Exploratory Data Analysis (Step by Step)](https://www.kaggle.com/code/prakharrathi25/exploratory-data-analysis-step-by-step)
-* [A Simple Tutorial on Exploratory Data Analysis](https://www.kaggle.com/code/spscientist/a-simple-tutorial-on-exploratory-data-analysis)
-* [Intro to Exploratory data analysis (EDA) in Python](https://www.kaggle.com/code/imoore/intro-to-exploratory-data-analysis-eda-in-python)
-* [Topic 1. Exploratory Data Analysis with Pandas](https://www.kaggle.com/code/kashnitsky/topic-1-exploratory-data-analysis-with-pandas)
-* [Detailed exploratory data analysis with python](https://www.kaggle.com/code/ekami66/detailed-exploratory-data-analysis-with-python)
-* [EDA using Python Pandas](https://www.kaggle.com/code/olgaberezovsky/eda-using-python-pandas)
-* [Pandas: EDA of Cars Dataset](https://www.kaggle.com/code/danishasif/pandas-eda-of-cars-dataset)
-* [Step-by-step Data Preprocessing & EDA](https://www.kaggle.com/code/agrawaladitya/step-by-step-data-preprocessing-eda)
 
 ## Github
 

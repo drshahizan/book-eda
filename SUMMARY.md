@@ -5,9 +5,13 @@
 
 ## EDA Concept
 
-* [What is EDA?](eda-concept/kaggle.md)
-* [Why EDA?](eda-concept/why-eda.md)
-* [Content](eda-concept/content.md)
+* [Content](eda-concept/content/README.md)
+  * [What is EDA?](eda-concept/content/kaggle.md)
+  * [Why EDA?](eda-concept/content/why-eda.md)
+  * [Basic Concept](eda-concept/content/basic-concept.md)
+  * [Code & Practice](eda-concept/content/code-and-practice.md)
+  * [Kaggle](eda-concept/content/kaggle-1.md)
+  * [Github](eda-concept/content/github.md)
 
 ## Dataset
 
