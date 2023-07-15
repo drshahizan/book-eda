@@ -36,15 +36,7 @@ Exploratory Data Analysis (EDA) is a crucial step in the data science process. I
 
 ✅️ After the exploratory analysis is completed and the predictions are determined, its features can be used for more complex data analysis or modeling, including machine learning.
 
-<div>
-
-<img src="https://github.com/drshahizan/Python_EDA/blob/main/EDA.png" alt="">
-
- 
-
 <figure><img src=".gitbook/assets/EDA.png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
 
 ## Python
 
