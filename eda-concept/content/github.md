@@ -16,7 +16,3 @@
 {% embed url="https://github.com/sandyy2505/EDA" %}
 
 {% embed url="https://github.com/ajaymache/data-analysis-using-python" %}
-
-{% content-ref url="https://github.com/ajaymache/data-analysis-using-python" %}
-[data-analysis-using-python](https://github.com/ajaymache/data-analysis-using-python)
-{% endcontent-ref %}
