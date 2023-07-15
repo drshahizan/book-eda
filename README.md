@@ -8,35 +8,7 @@ The information on this e-book is part of the materials for the subject High Per
 
 <figure><img src=".gitbook/assets/hpdp1.jpeg" alt=""><figcaption></figcaption></figure>
 
-## Exploratory Data Analysis
 
-Exploratory Data Analysis (EDA) is a crucial step in the data science process. It involves the visual and statistical examination of a dataset to better understand its characteristics, patterns, and relationships.
-
-✅️ EDA involves using graphics and visualizations to explore and analyze a data set. The goal is to explore, investigate and learn, as opposed to confirming statistical hypotheses.
-
-✅️ EDA is used by data scientists to analyze and explore datasets and summarize the main characteristics of them.
-
-✅️ EDA makes it easier for data scientists to discover patterns, spot anomalies, test a hypothesis, or check assumptions.
-
-✅️ EDA is primarily used to provide a better understanding of dataset's variables and their relationships.
-
-✅️ EDA can also help determine whether the statistical techniques you are considering are appropriate for data analysis.
-
-✅️ Developed by the American mathematician John Tukey in the 1970s, EDA techniques continue to be a widely used method in the data exploration process today.
-
-## Why is EDA so important in data science?
-
-✅️ The main purpose of EDA is to help you look at the data before making any assumptions. In addition to better understanding the patterns in the data or detecting unusual events, it also helps you find interesting relationships between variables.
-
-✅️ Data scientists can use exploratory analysis to ensure that the results they produce are valid and relevant to desired business outcomes and goals.
-
-✅️ EDA also helps stakeholders by verifying that they are asking the right questions.
-
-✅️ EDA can help to answer questions about standard deviations, categorical variables, and confidence intervals.
-
-✅️ After the exploratory analysis is completed and the predictions are determined, its features can be used for more complex data analysis or modeling, including machine learning.
-
-<figure><img src=".gitbook/assets/EDA.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Python
 
