@@ -15,8 +15,6 @@
 
 ## Case Study
 
-*
-
 ## Reference
 
 * [API Reference](reference/api-reference/README.md)
