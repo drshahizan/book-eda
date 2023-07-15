@@ -7,6 +7,7 @@
 
 * [What is EDA?](eda-concept/kaggle.md)
 * [Why EDA?](eda-concept/why-eda.md)
+* [Content](eda-concept/content.md)
 
 ## Dataset
 
