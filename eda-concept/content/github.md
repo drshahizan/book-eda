@@ -11,7 +11,7 @@
 
 {% embed url="https://github.com/demonpratapdemon/Exploratory-Data-Analysis-EDA-and-PreProcessing" %}
 
-{% embed url="https://github.com/PacktPublishing/Python-for-Data-Analysis-step-by-step-with-projects-/blob/main/Solution\_practice\_exercise%2B\(eda\).ipynb" %}
+{% embed url="https://github.com/PacktPublishing/Python-for-Data-Analysis-step-by-step-with-projects-/blob/main/Solution_practice_exercise%2B(eda).ipynb" %}
 
 {% embed url="https://github.com/sandyy2505/EDA" %}
 
