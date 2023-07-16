@@ -22,6 +22,8 @@ In summary, the motivation behind AutoViz is to make data visualization more eff
 
 D-Tale is the combination of a Flask back-end and a React front-end to bring you an easy way to view & analyze Pandas data structures. It integrates seamlessly with ipython notebooks & python/ipython terminals. Currently this tool supports such Pandas objects as DataFrame, Series, MultiIndex, DatetimeIndex & RangeIndex.
 
+D-Tale was the product of a SAS to Python conversion.  What was originally a perl script wrapper on top of SAS's `insight` function is now a lightweight web client on top of Pandas data structures.
+
 ## **DataPrep**
 
 🔗 [GitHub](https://github.com/sfu-db/dataprep) | [Website](https://docs.dataprep.ai/)
