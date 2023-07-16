@@ -6,12 +6,12 @@
 
 * [Content](eda-concept/content/README.md)
   * [What is EDA?](eda-concept/content/what-eda.md)
+  * [Why EDA?](eda-concept/why-eda.md)
   * [Types of EDA](eda-concept/content/types-of-eda.md)
   * [Basic Concept](eda-concept/content/basic-concept.md)
   * [Code & Practice](eda-concept/content/code-and-practice.md)
   * [Kaggle](eda-concept/content/kaggle.md)
   * [Github](eda-concept/content/github.md)
-  * [Why EDA?](eda-concept/why-eda.md)
 
 ## Dataset
 
