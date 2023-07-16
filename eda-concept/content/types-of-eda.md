@@ -2,7 +2,7 @@
 
 There are four primary types of exploratory data analysis (EDA):
 
-## **1. Univariate non-graphical**:
+## **1. Univariate non-graphical**
 
 * Univariate non-graphical analysis is the simplest form of data analysis that focuses on a single variable.
 * The main objective is to describe the data and identify patterns within it.
@@ -26,7 +26,7 @@ Some ways you can describe patterns found in univariate data include looking at 
   * **Histograms**: They provide a bar plot representation of the frequency or proportion of cases for different value ranges.
   * **Box plots**: These graphs display the five-number summary, including the minimum, first quartile, median, third quartile, and maximum values.
 
-## **3. Multivariate non-graphical**:
+## **3. Multivariate non-graphical**
 
 * Multivariate non-graphical analysis deals with data that involves multiple variables.
 * It focuses on exploring the relationships between two or more variables through cross-tabulation or statistical techniques.
