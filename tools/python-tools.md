@@ -31,6 +31,17 @@ DataPrep lets you prepare your data using a single library with a few lines of c
 - Do your exploratory data analysis through `dataprep.eda`
 - Clean and standardize data through `dataprep.clean`
 
+`DataPrep.EDA` is the fastest and the easiest EDA (Exploratory Data Analysis) tool in Python. It allows you to understand a Pandas/Dask DataFrame with a few lines of code in seconds.
+
+#### Create Profile Reports, Fast
+
+You can create a beautiful profile report from a Pandas/Dask DataFrame with the `create_report` function. DataPrep.EDA has the following advantages compared to other tools:
+
+- **[10X Faster](https://arxiv.org/abs/2104.00841)**: DataPrep.EDA can be 10X faster than Pandas-based profiling tools due to its highly optimized Dask-based computing module.
+- **Interactive Visualization**: DataPrep.EDA generates interactive visualizations in a report, which makes the report look more appealing to end users.
+- **Big Data Support**: DataPrep.EDA naturally supports big data stored in a Dask cluster by accepting a Dask dataframe as input.
+
+
 ## **Datatile**
 
 🔗 [GitHub](https://github.com/) | [Website](https:/)
