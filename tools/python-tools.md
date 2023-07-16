@@ -3,6 +3,8 @@
 ## **AutoViz**
 🔗 [GitHub](https://github.com/AutoViML/AutoViz) | [Website](https:)
 
+![](https://github.com/AutoViML/AutoViz/blob/master/images/logo.png)
+
 Automatically visualizes the dataset using a single line of code. Generates a wide range of charts and graphs to explore the data, such as scatter plots, bar plots, and histograms.
 
 AutoViz addresses these challenges by providing an easy-to-use, automated solution for generating meaningful visualizations with minimal effort. Its key motivations are:
