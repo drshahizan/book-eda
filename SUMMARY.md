@@ -19,7 +19,7 @@
 
 ## Tools
 
-* [👩💻 Data Exploration](tools/data-exploration.md)
+* [👩💻 👩💻 Data Exploration](tools/data-exploration.md)
 * [🎯 Data Quality](tools/data-quality.md)
 * [📔 Data Profiling](tools/data-profiling.md)
 * [🐍 Python Library](tools/python/README.md)
@@ -28,7 +28,7 @@
   * [📊 Matplotlib](tools/python/matplotlib.md)
   * [📈 Seaborn](tools/python/seaborn.md)
   * [📶 Plotly](tools/python/plotly.md)
-* [® R](tools/r.md)
+* [® ® R](tools/r.md)
 * [⚒ Automated EDA Tools](tools/automated-eda-tools.md)
 * [⛏ Python tools](tools/python-tools.md)
 
