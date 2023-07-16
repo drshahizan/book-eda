@@ -42,12 +42,6 @@ You can create a beautiful profile report from a Pandas/Dask DataFrame with the 
 - **Big Data Support**: DataPrep.EDA naturally supports big data stored in a Dask cluster by accepting a Dask dataframe as input.
 
 
-## **Datatile**
-
-🔗 [GitHub](https://github.com/) | [Website](https:/)
-
-Enables efficient interactive visual data exploration with fast data aggregation, filtering, and querying capabilities. Offers various visualizations to analyze and understand the data.
-
 ## **ExploriPy**
 
 🔗 [GitHub](https://github.com/) | [Website](https:/)
