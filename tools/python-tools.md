@@ -31,17 +31,17 @@ Provides interactive visualizations and statistical analysis for exploring and u
 Provides an interactive and visual approach to EDA. Offers recommendations for visualizations based on the data and allows users to explore the dataset through an intuitive interface.	
 
 ## **Pandas Profiling**
-🔗 [GitHub](https://github.com/ | [Website](https:)
+🔗 [GitHub](https://github.com/) | [Website](https:)
 
 Generates a detailed report with statistics, visualizations, and insights about the dataset. Provides information about missing values, data types, correlations, and distribution of variables.
 
 ## **QuickDA**
-🔗 [GitHub](https://github.com/ | [Website](https:)
+🔗 [GitHub](https://github.com/) | [Website](https:)
 
 Offers automated data cleaning, preprocessing, visualization, and statistical analysis. Supports interactive exploration and provides insights into the dataset quickly.	
 
 ## **dabl**
-🔗 [GitHub](https://github.com/ | [Website](https:)
+🔗 [GitHub](https://github.com/) | [Website](https:)
 
 Simplifies the process of data analysis by automating common tasks such as data cleaning, feature selection, and model evaluation. Offers visualizations and model explanations.	
 
