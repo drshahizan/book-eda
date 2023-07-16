@@ -29,6 +29,7 @@
   * [📈 Seaborn](tools/python/seaborn.md)
   * [📶 Plotly](tools/python/plotly.md)
 * [® R](tools/r.md)
+* [Automated EDA Tools](tools/automated-eda-tools.md)
 
 ## Lab & Case Study
 
