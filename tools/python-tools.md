@@ -1,9 +1,23 @@
 # ⛏ Python tools
 
 ## **AutoViz**
-🔗 [GitHub](https://github.com/) | [Website](https:)
+🔗 [GitHub](https://github.com/AutoViML/AutoViz) | [Website](https:)
 
 Automatically visualizes the dataset using a single line of code. Generates a wide range of charts and graphs to explore the data, such as scatter plots, bar plots, and histograms.
+
+AutoViz addresses these challenges by providing an easy-to-use, automated solution for generating meaningful visualizations with minimal effort. Its key motivations are:
+
+1. **Save time and effort**: AutoViz simplifies the visualization process by requiring just a single line of code to generate multiple insightful plots, eliminating the need to write multiple lines of code for each chart.
+
+2. **Handle large datasets**: AutoViz is designed to work with datasets of any size, intelligently sampling the data when necessary to ensure that the visualizations are generated quickly and efficiently, without compromising on the insights.
+
+3. **Democratize Data Science**: AutoViz makes data visualization accessible to a broader audience, including non-experts and beginners in data analysis, by abstracting away the complexities of various plotting libraries.
+
+4. **Automate EDA**: AutoViz now automatically analyzes and fixes Data Quality issues in your dataset. This will help users to quickly go from insights to action without having to manually analyze each variable. AutoViz uses the new `pandas-dq` library created by `autoviml` to perform data quality and cleaning.
+
+5. **Customization and interactivity**: AutoViz offers various options for customization, enabling users to tailor the generated visualizations to their specific needs and preferences. Moreover, with interactive chart formats like Bokeh, users can explore the data more dynamically.
+
+In summary, the motivation behind AutoViz is to make data visualization more efficient, accessible, and automated, enabling users to quickly gain valuable insights from their data and focus on making data-driven decisions.
 
 ## **D-Tale**
 🔗 [GitHub](https://github.com/) | [Website](https:)
