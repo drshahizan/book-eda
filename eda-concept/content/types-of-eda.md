@@ -23,3 +23,5 @@ There are four primary types of exploratory data analysis (EDA):
      * **Run charts**: These line graphs display data plotted over time, providing insights into trends and patterns.
      * **Bubble charts**: This visualization displays multiple circles (bubbles) on a two-dimensional plot, representing different data points.
      * **Heat maps**: Heat maps present data using color to represent values, providing a visual depiction of patterns or variations.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
