@@ -40,6 +40,16 @@ Here, the relation between the missing values and the dependent variable is clea
 
 In-depth exploration of **numerical variables** is conducted. This entails analyzing statistical characteristics such as **mean**, **median**, and **standard deviation** to gain insights into central tendency, dispersion, and variability of these variables.
 
+Get the list of Numerical variables and visualize columns.
+
+<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*pSsv3ico1sE8R0mHKebx1w.png" alt="" width="563"><figcaption></figcaption></figure>
+
+**Temporal Variables(Eg: Datetime Variables):** From a Dataset, we may have year variables. We can extract information from the datetime variables like number of years or number of days.
+
+<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*whUvRt2fJ7h2qdKobIb53Q.png" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*PGYjaEuwUfKhzaxF8EcloA.png" alt="" width="563"><figcaption></figcaption></figure>
+
 ## **Distribution of Numerical Variables**
 
 Understanding the distribution of **numerical variables** is essential for accurate data interpretation. Visualizations and statistical techniques are employed to examine the **shape**, **skewness**, and **kurtosis** of these variables.
