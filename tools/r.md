@@ -49,7 +49,7 @@ You can also refer to the [package documentation](https://cran.r-project.org/pac
 - `ggally_density()` – To plot Density Plot.
 - `ggally_points()` – To plot the ScatterPlot, etc.
 
-which reduces the complexity of plotting graphs with the geoms like in ggplot2. So, let’s dive into some graphs which can be plotted using GGally in R Programming Language.
+which reduces the complexity of plotting graphs with the geoms like in `ggplot2`. So, let’s dive into some graphs which can be plotted using GGally in R Programming Language.
 
 ### Installation
 
@@ -87,7 +87,7 @@ Here, we will use the ‘op\_file’ function to name the report.html file. This
 
 <figure><img src="https://editor.analyticsvidhya.com/uploads/50666smartEDA.gif" alt="R Libraries" width="563"><figcaption></figcaption></figure>
 
-Here are a few sample plots from the report –
+Here are a few sample plots from the report:
 
 ![R Libraries](https://lh5.googleusercontent.com/2TB\_S2Xbhgxn0dcB2rJaIoqGUpAEkxp\_G7MMNOTdQHZvprCikcj8-MR9HKdWrvV9tOnFPCiC1QCxqDCTgD93J2JxlG3AtWzioGH2S\_T4AwJhm-iF8ttGA1jGr8IWiont584puD6lVBoLP3zmyaJCXqeVtqbft80gSCuDYo7zffZwctg-UxtDK8Ln\_g)
 
@@ -95,10 +95,21 @@ From the .html report, we can see that it contains several plots generated with 
 
 ## tableone
 
-🔗 [GitHub](https:/) | [Website](https:/)
+🔗 [GitHub](https://github.com/kaz-yos/tableone) | [Website](https://cran.r-project.org/web/packages/tableone/)
+
+An R package to create “Table 1”, description of baseline characteristics
+
+Table 1 is a common format to show summary statistics of data that is used in medical research papers. You can use a various data wrangling mehods such as Group By, Summarize, etc. to calculate such statistics. But, in R, there is a package called ‘tableone’, which is designed to generate the Table 1 information. This means, you can quickly use the package to generate Table 1 information in Exploratory.
+
+There are two ways to use this package.
+1. One way is to use Note, which is based on RMarkdown, where you can directly write R script with the ‘tableone’ package and produce the result as output. This is a simple and quick solution if you are ok with the output in Note.
+2. Another is to create a custom R function with the ‘tableone’ package and call it as a data wrangling step. This would take a bit of steps, but since you will get the result in a data frame format you will be able to use the data in a more flexible way.
+
+tableone was inspired by descriptive statistics functions in Deducer , a Java-based GUI package by Ian Fellows. This package does not require GUI or Java, and intended for command-line users.
+
 
 ## dataMaid
-🔗 [GitHub](https:/) | [Website](https://cran.r-project.org/web/packages/dataMaid/index.html)
+🔗 [GitHub](https://github.com/ekstroem/dataMaid) | [Website](https://cran.r-project.org/web/packages/dataMaid/index.html)
 
 The dataMaid package creates a report in different formats, such as PDF, DOCX, or HTML. The generated report checks and neatly simply summarizes the dataset. It is a good tool for checking errors in the dataset.
 
