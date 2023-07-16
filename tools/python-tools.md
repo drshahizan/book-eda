@@ -22,13 +22,14 @@ In summary, the motivation behind AutoViz is to make data visualization more eff
 
 D-Tale is the combination of a Flask back-end and a React front-end to bring you an easy way to view & analyze Pandas data structures. It integrates seamlessly with ipython notebooks & python/ipython terminals. Currently this tool supports such Pandas objects as DataFrame, Series, MultiIndex, DatetimeIndex & RangeIndex.
 
-
-
 ## **DataPrep**
 
-🔗 [GitHub](https://github.com/) | [Website](https:/)
+🔗 [GitHub](https://github.com/sfu-db/dataprep) | [Website](https://docs.dataprep.ai/)
 
-Provides functions for data cleaning, preprocessing, and exploratory analysis. Offers intuitive APIs for tasks such as handling missing values, transforming variables, and analyzing data quality.
+DataPrep lets you prepare your data using a single library with a few lines of code. Currently, you can use DataPrep to:
+- Collect data from common data sources through `dataprep.connector`
+- Do your exploratory data analysis through `dataprep.eda`
+- Clean and standardize data through `dataprep.clean`
 
 ## **Datatile**
 
