@@ -14,9 +14,9 @@ Automated Exploratory Data Analysis packages that will be described consist of D
 
 ## DataExplorer
 
-🔗 [GitHub](https:/) | [Website](https:/)
+🔗 [GitHub](https://github.com/boxuancui/DataExplorer) | [Website](https://cran.r-project.org/web/packages/DataExplorer/)
 
-This is one of the most commonly used AutoEDA packages in R. With DataExplorer, we can simplify the EDA process and report generation. This library automatically scans the dataset for variables, performs data profiling, and provides many useful functions to create various charts on both discrete and continuous features in the dataset.
+Automated data exploration process for analytic tasks and predictive modeling, so that users could focus on understanding data and extracting insights. The package scans and analyzes each variable, and visualizes them with typical graphical techniques. Common data processing methods are also available to treat and format data. This library automatically scans the dataset for variables, performs data profiling, and provides many useful functions to create various charts on both discrete and continuous features in the dataset.
 
 Let us look at the code we need to install and use the DataExplorer library
 
