@@ -6,7 +6,9 @@ Data exploration is the initial act of getting to know your data and what you’
 
 🔗 [GitHub](https://github.com/ydataai/ydata-profiling) | [Website](https://ydata-profiling.ydata.ai/docs/master/index.html)
 
-The primary goal of ydata-profiling is to provide a one-line Exploratory Data Analysis (EDA) experience in a consistent and fast solution. ydata-profiling delivers an extended analysis of a DataFrame while allowing the data analysis to be exported in different formats such as HTML and JSON.
+`ydata-profiling` primary goal is to provide a one-line Exploratory Data Analysis (EDA) experience in a consistent and fast solution. Like pandas `df.describe()` function, that is so handy, ydata-profiling delivers an extended analysis of a DataFrame while allowing the data analysis to be exported in different formats such as **html** and **json**.
+
+The package outputs a simple and digested analysis of a dataset, including **time-series** and **text**.
 
 <figure><img src="https://miro.medium.com/v2/resize:fit:1400/0*L7WFbwwqwKwgvuyv" alt="" width="188"><figcaption></figcaption></figure>
 
