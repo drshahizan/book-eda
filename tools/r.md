@@ -93,6 +93,7 @@ From the .html report, we can see that it contains several plots generated with 
 🔗 [GitHub](https:/) | [Website](https:/)
 
 ## dataMaid
+🔗 [GitHub](https:/) | [Website](https://cran.r-project.org/web/packages/dataMaid/index.html)
 
 The dataMaid package creates a report in different formats, such as PDF, DOCX, or HTML. The generated report checks and neatly simply summarizes the dataset. It is a good tool for checking errors in the dataset.
 
