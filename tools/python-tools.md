@@ -43,7 +43,6 @@ You can create a beautiful profile report from a Pandas/Dask DataFrame with the 
 - **Interactive Visualization**: DataPrep.EDA generates interactive visualizations in a report, which makes the report look more appealing to end users.
 - **Big Data Support**: DataPrep.EDA naturally supports big data stored in a Dask cluster by accepting a Dask dataframe as input.
 
-
 ## **ExploriPy**
 
 🔗 [GitHub](https://github.com/ExploriPy/ExploriPy) | [Website](https://pypi.org/project/ExploriPy/)
@@ -51,7 +50,6 @@ You can create a beautiful profile report from a Pandas/Dask DataFrame with the 
 Exploratory Data Analysis (EDA) is one of the crucial steps in data science that facilitates generating insights and statistical measures which are essential for building predictive models. EDA is always a time-consuming activity and require a thorough analysis of datasets to summarize their main characteristics. It is always required to do an initial analysis on the data, and then deep dive on further domain specific analysis, based on the initial insights. Currently, there is no comprehensive library in Python, which could do the initial Data Analysis and statistical tests, and present in an output, which could be easily interpreted shared across the stakeholders. Though there are several individual packages available for statistical tests, interpretation of the output requires certain level of statistical knowledge.
 
 **ExploriPy** reduces a data analyst’s efforts significantly in the initial EDA. It is designed in a way to perform automated EDA, and statistical tests including **Analysis of Variance**, **Chi Square Test of Independence**, **Weight of Evidence**, **Information Value** and **Tukey Honest Significance Difference**. It provides easy interpretation on these statistical test results, based on industry standard assumptions. It expects a **Pandas DataFrame**, along with a list of **categorical variables**, as input. Output will be a presentable **HTML document**, with the result of analysis and statistical tests, represented through several interactive charts, and tables (with option to download as CSV). The ExploriPy package is available in the **Python Package Index**.
-
 
 ## **Lux**
 
@@ -61,9 +59,10 @@ Lux is a Python library that facilitate fast and easy data exploration by automa
 
 ## **QuickDA**
 
-🔗 [GitHub](https://github.com/) | [Website](https:/)
+🔗 [GitHub](https://github.com/sid-the-coder/QuickDA/tree/master) | [Website](https://pypi.org/project/quickda/)
 
-Offers automated data cleaning, preprocessing, visualization, and statistical analysis. Supports interactive exploration and provides insights into the dataset quickly.
+Simple & Easy-to-use python modules to perform Quick Exploratory Data Analysis for any structured dataset!. Enter [QuickDA](https://pypi.org/project/quickda/), a simple, low-code & easy-to-use EDA library in Python to help you quickly explore, clean and visualise data with just few lines of customisable codes! One thing to remember is that QuickDA is supposed to be a starting point for quick exploratory analysis, and in no way a replacement to traditional EDA approaches. 
+
 
 ## **dabl**
 
