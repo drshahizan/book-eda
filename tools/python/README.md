@@ -11,3 +11,5 @@ Python is a popular programming language for data science and has several librar
 5. **Plotly**: an interactive data visualization library.
 
 In EDA, you might perform tasks such as cleaning the data, handling missing values, transforming variables, generating summary statistics, creating visualizations (e.g. histograms, scatter plots, box plots), and identifying outliers. All of these tasks can be done using the above libraries in Python.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
