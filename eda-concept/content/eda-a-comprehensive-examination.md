@@ -2,13 +2,60 @@
 
 In the field of data analysis, the following aspects are investigated to derive meaningful insights:
 
-1. Dataset's Shape and Overview: The initial step involves examining the structure of the dataset, including its dimensions and composition. This provides a foundational understanding of the dataset's shape and overall characteristics.
-2. Missing Values: Identifying missing values is crucial for ensuring data quality. An analysis is performed to detect any missing values within the dataset and determine the extent of their presence. This enables informed decision-making regarding appropriate handling strategies for missing data.
-3. Numerical Variables: Emphasis is placed on exploring the characteristics of numerical variables present in the dataset. Statistical measures, such as mean, median, and standard deviation, are computed to gain insights into central tendency, dispersion, and variability of these variables.
-4. Distribution of Numerical Variables: Understanding the distribution of numerical variables is essential for accurate data interpretation. Visualizations and statistical techniques are employed to examine the shape, skewness, and kurtosis of these variables.
-5. Outliers: Outliers, which significantly deviate from the majority of observations, are examined within the numerical variables. Their detection and investigation enable assessment of their impact on the analysis. Depending on the dataset's nature, appropriate actions such as exclusion, transformation, or handling are determined.
-6. Categorical Variables: Analysis of categorical variables is conducted to gain insights into their composition and distribution. This involves exploring the various categories and their corresponding frequencies.
-7. Cardinality of Categorical Variables: The cardinality, or the number of unique values, within categorical variables is assessed. This evaluation provides an understanding of the level of diversity within each variable, aiding in decisions related to variable transformation or feature engineering, if deemed necessary.
-8. Relationship Between Independent and Dependent Features: The relationship between independent features and the dependent feature of interest is examined. Distributions of the independent features are plotted and analyzed to uncover potential patterns, correlations, or dependencies within the data.
+## **Dataset's Shape and Overview:**&#x20;
 
-By conducting these comprehensive analyses, meaningful insights can be derived, leading to informed decision-making throughout the data analysis process.
+The initial step involves examining the **shape** of the dataset, encompassing the number of **rows** and **columns**. This provides a comprehensive **overview** of the dataset's structure and composition.
+
+<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*Ww5zm7vOtW_YahtL_nJlXw.png" alt="" height="146" width="700"><figcaption></figcaption></figure>
+
+## **Missing Values**
+
+Identifying and addressing missing values is critical to ensuring data quality. The analysis entails determining the presence and extent of **missing values** within the dataset. This step aids in making informed decisions regarding the appropriate treatment of missing data.
+
+Here we will check the percentage of NaN values present in each feature:\
+1\) make the list of features which has missing values\
+2\) print the feature name and the percentage of missing values
+
+<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*7hwVf0ih9vT_HBN_hH6cbw.png" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*RyitaXsi1a0aNMgVNiaKuw.png" alt="" width="563"><figcaption></figcaption></figure>
+
+We can use heatmap and visualize missing values.
+
+<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*bapx7HhSHv2Ie-NJAxXtfQ.png" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*WJl_dcj5EE3x9HZ-O8AwiQ.png" alt="" width="563"><figcaption></figcaption></figure>
+
+We need to find the relationship between missing values and the target feature. Let’s plot some diagram for this relationship.
+
+<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*AUBSqrjcgNMmmjN7vkALsw.png" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*ZPOexSZ5OXjByujUumtCbw.png" alt="" width="563"><figcaption></figcaption></figure>
+
+Here, the relation between the missing values and the dependent variable is clearly visible. So we need to replace these NaN values with something meaningful which we will do in Feature Engineering. From the above dataset some of the features might not be required, which we will drop.
+
+## **Numerical Variables**
+
+In-depth exploration of **numerical variables** is conducted. This entails analyzing statistical characteristics such as **mean**, **median**, and **standard deviation** to gain insights into central tendency, dispersion, and variability of these variables.
+
+## **Distribution of Numerical Variables**
+
+Understanding the distribution of **numerical variables** is essential for accurate data interpretation. Visualizations and statistical techniques are employed to examine the **shape**, **skewness**, and **kurtosis** of these variables.
+
+## **Outliers**
+
+The identification and examination of **outliers**, which are observations that significantly deviate from the majority, are essential. This analysis aids in assessing the impact of outliers on the dataset. Based on the dataset's nature, appropriate actions such as exclusion, transformation, or handling of outliers can be determined.
+
+## **Categorical Variables**
+
+The analysis encompasses an exploration of **categorical variables** within the dataset. This involves examining the different **categories** and their respective **frequencies** to gain insights into the composition and distribution of these variables.
+
+## **Cardinality of Categorical Variables**
+
+Evaluating the **cardinality**, i.e., the number of unique values, within categorical variables is crucial. Assessing the level of diversity within each variable helps guide decision-making regarding variable transformation or feature engineering, if required.
+
+## **Relationship Between Independent and Dependent Features**
+
+The relationship between **independent features** and the **dependent feature** of interest is scrutinized. This involves **plotting** and analyzing the distributions of independent features in relation to the dependent feature. This analysis aids in uncovering potential **patterns**, **correlations**, or **dependencies** present in the data.
+
+By thoroughly examining these aspects, valuable insights can be gleaned, leading to informed decision-making throughout the data analysis process.
