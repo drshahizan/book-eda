@@ -57,7 +57,7 @@ Exploratory Data Analysis (EDA) is one of the crucial steps in data science that
 
 🔗 [GitHub](https://github.com/) | [Website](https:/)
 
-Provides an interactive and visual approach to EDA. Offers recommendations for visualizations based on the data and allows users to explore the dataset through an intuitive interface.
+Lux is a Python library that facilitate fast and easy data exploration by automating the visualization and data analysis process. By simply printing out a dataframe in a Jupyter notebook, Lux recommends a set of visualizations highlighting interesting trends and patterns in the dataset. Visualizations are displayed via [an interactive widget](https://github.com/lux-org/lux-widget) that enables users to quickly browse through large collections of visualizations and make sense of their data.
 
 ## **Pandas Profiling**
 
