@@ -22,12 +22,12 @@
 * [👩💻 Data Exploration](tools/data-exploration.md)
 * [🎯 Data Quality](tools/data-quality.md)
 * [📔 Data Profiling](tools/data-profiling.md)
-* [🐍 Python Libraries](tools/kaggle/README.md)
-  * [Pandas](tools/kaggle/pandas.md)
-  * [Numpy](tools/kaggle/numpy.md)
-  * [Matplotlib](tools/kaggle/matplotlib.md)
-  * [Seaborn](tools/kaggle/seaborn.md)
-  * [Plotly](tools/kaggle/plotly.md)
+* [🐍 Python Libraries](tools/python/README.md)
+  * [🐼 Pandas](tools/python/pandas.md)
+  * [🧊 Numpy](tools/python/numpy.md)
+  * [📊 Matplotlib](tools/python/matplotlib.md)
+  * [📈 Seaborn](tools/python/seaborn.md)
+  * [📶 Plotly](tools/python/plotly.md)
 * [® R](tools/r.md)
 
 ## Lab & Case Study
