@@ -1,12 +1,14 @@
 # EDA: A Comprehensive Examination
 
+Data analysis plays a vital role in extracting valuable insights from datasets. To ensure a thorough and accurate analysis, it is essential to consider various aspects. This article provides a comprehensive examination of the essential analysis considerations in data analysis. By understanding and addressing these key factors, analysts can derive meaningful and reliable insights from their data.
+
 In the field of data analysis, the following aspects are investigated to derive meaningful insights:
 
 ## **Dataset's Shape and Overview:**&#x20;
 
 The initial step involves examining the **shape** of the dataset, encompassing the number of **rows** and **columns**. This provides a comprehensive **overview** of the dataset's structure and composition.
 
-<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*Ww5zm7vOtW_YahtL_nJlXw.png" alt="" height="146" width="700"><figcaption></figcaption></figure>
+<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*Ww5zm7vOtW_YahtL_nJlXw.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## **Missing Values**
 
