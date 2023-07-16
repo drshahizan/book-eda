@@ -46,8 +46,8 @@ You can also refer to the [package documentation](https://cran.r-project.org/pac
 
 [`ggplot2`](https://ggplot2.tidyverse.org/) is a plotting system for R based on the grammar of graphics. [`GGally`](https://ggobi.github.io/ggally/) extends ggplot2 by adding several functions to reduce the complexity of combining geoms with transformed data.  Some of these functions include a pairwise plot matrix, a scatterplot plot matrix, a parallel coordinates plot, a survival plot, and several functions to plot networks. When using the ggplot() function to create charts, the 'geom()' object must be used to determine the plot type. In the case of the gGally package, however, it includes pre-built features such as:
 
-- ggally_density() – To plot Density Plot.
-- ggally_points() – To plot the ScatterPlot, etc.
+- `ggally_density()` – To plot Density Plot.
+- `ggally_points()` – To plot the ScatterPlot, etc.
 
 which reduces the complexity of plotting graphs with the geoms like in ggplot2. So, let’s dive into some graphs which can be plotted using GGally in R Programming Language.
 
