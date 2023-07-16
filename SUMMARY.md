@@ -28,7 +28,7 @@
   * [📊 Matplotlib](tools/python/matplotlib.md)
   * [📈 Seaborn](tools/python/seaborn.md)
   * [📶 Plotly](tools/python/plotly.md)
-* [® ® ® ® R](tools/r.md)
+* [® R](tools/r.md)
 
 ## Lab & Case Study
 
