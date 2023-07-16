@@ -18,14 +18,12 @@ R is commonly used within **RStudio**, an **integrated development environment (
 
 This is one of the most commonly used AutoEDA packages in R. With DataExplorer, we can simplify the EDA process and report generation. This library automatically scans the dataset for variables, performs data profiling, and provides many useful functions to create various charts on both discrete and continuous features in the dataset.
 
-Let us look at the code we need to install and use the DataExplorer library-
+Let us look at the code we need to install and use the DataExplorer library
 
 ```
 # Installing the package
-```
-
-```
 install.packages("DataExplorer")
+
 # Importing the library
 library(DataExplorer)
 create_report(mtcars)
