@@ -28,7 +28,7 @@
   * [Matplotlib](tools/kaggle/matplotlib.md)
   * [Seaborn](tools/kaggle/seaborn.md)
   * [Plotly](tools/kaggle/plotly.md)
-* [R](tools/r.md)
+* [® R](tools/r.md)
 
 ## Lab & Case Study
 
