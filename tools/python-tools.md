@@ -18,9 +18,11 @@ In summary, the motivation behind AutoViz is to make data visualization more eff
 
 ## **D-Tale**
 
-🔗 [GitHub](https://github.com/) | [Website](https:/)
+🔗 [GitHub](https://github.com/man-group/dtale) | [Website](https://pypi.org/project/dtale/)
 
-Provides an interactive web-based interface for exploring and analyzing data. Allows users to visualize data, view summary statistics, handle missing data, and filter data interactively.
+D-Tale is the combination of a Flask back-end and a React front-end to bring you an easy way to view & analyze Pandas data structures. It integrates seamlessly with ipython notebooks & python/ipython terminals. Currently this tool supports such Pandas objects as DataFrame, Series, MultiIndex, DatetimeIndex & RangeIndex.
+
+
 
 ## **DataPrep**
 
