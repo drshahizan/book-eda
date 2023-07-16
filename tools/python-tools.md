@@ -63,11 +63,11 @@ Lux is a Python library that facilitate fast and easy data exploration by automa
 
 Simple & Easy-to-use python modules to perform Quick Exploratory Data Analysis for any structured dataset!. Enter [QuickDA](https://pypi.org/project/quickda/), a simple, low-code & easy-to-use EDA library in Python to help you quickly explore, clean and visualise data with just few lines of customisable codes! One thing to remember is that QuickDA is supposed to be a starting point for quick exploratory analysis, and in no way a replacement to traditional EDA approaches. 
 
-
 ## **dabl**
 
-🔗 [GitHub](https://github.com/) | [Website](https:/)
+🔗 [GitHub](https://github.com/dabl/dabl) | [Website](https://dabl.github.io/dev/)
 
-Simplifies the process of data analysis by automating common tasks such as data cleaning, feature selection, and model evaluation. Offers visualizations and model explanations.
+This project tries to help make supervised machine learning more accessible for beginners, and reduce boiler plate for common tasks. Current code focuses mostly on exploratory visualization and preprocessing. There are also drop-in replacements for GridSearchCV and RandomizedSearchCV using successive halfing. There are preliminary portfolios in the style of POSH auto-sklearn to find strong models quickly. In essence that boils down to a quick search over different gradient boosting models and other tree ensembles and potentially kernel methods. This library is in very active development, so it’s not recommended for production use.
+
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
