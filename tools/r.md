@@ -12,7 +12,7 @@ R is commonly used within **RStudio**, an **integrated development environment (
 
 ## Automated Exploratory Data Analysis packages
 
-### DataExplorer
+## DataExplorer
 
 🔗 [GitHub](https:/) | [Website](https:/)
 
@@ -40,11 +40,27 @@ From the above .gif image of the report, we can see that the table of contents i
 
 You can also refer to the [package documentation](https://cran.r-project.org/package=DataExplorer) on the CRAN-R website for additional details
 
-### GGally
+## GGally
 
-🔗 [GitHub](https:/) | [Website](https:/)
+🔗 [GitHub](https://github.com/ggobi/ggally/tree/master) | [Website](https://cran.r-project.org/web/packages/GGally/index.html)
 
-### SmartEDA
+[`ggplot2`](https://ggplot2.tidyverse.org/) is a plotting system for R based on the grammar of graphics. [`GGally`](https://ggobi.github.io/ggally/) extends ggplot2 by adding several functions to reduce the complexity of combining geoms with transformed data.  Some of these functions include a pairwise plot matrix, a scatterplot plot matrix, a parallel coordinates plot, a survival plot, and several functions to plot networks.
+
+### Installation
+
+To install this package from GitHub or [CRAN](https://cran.r-project.org/package=GGally), do the following from the R console:
+
+```r
+# Github
+library(devtools)
+install_github("ggobi/ggally")
+```
+
+```r
+# CRAN
+install.packages("GGally")
+```
+## SmartEDA
 
 🔗 [GitHub](https:/) | [Website](https:/)
 
@@ -72,11 +88,11 @@ Here are a few sample plots from the report –
 
 From the .html report, we can see that it contains several plots generated with just one line of code and these plots are useful in understanding the dataset better. The documentation for SmartEDA can be found [here](https://cran.r-project.org/web/packages/SmartEDA/index.html).
 
-### tableone
+## tableone
 
 🔗 [GitHub](https:/) | [Website](https:/)
 
-### dataMaid
+## dataMaid
 
 The dataMaid package creates a report in different formats, such as PDF, DOCX, or HTML. The generated report checks and neatly simply summarizes the dataset. It is a good tool for checking errors in the dataset.
 
