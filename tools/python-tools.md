@@ -1,19 +1,46 @@
 # ⛏ Python tools
 
-AutoViz
+## **AutoViz**
+🔗 [GitHub](https://github.com/ | [Website](https:)
 
-D-Tale
+abc
 
-DataPrep
+## **D-Tale**
+🔗 [GitHub](https://github.com/ | [Website](https:)
 
-Datatile
+abc
 
-ExploriPy
+## **DataPrep**
+🔗 [GitHub](https://github.com/ | [Website](https:)
 
-Lux
+abc
 
-Pandas Profiling
+## **Datatile**
+🔗 [GitHub](https://github.com/ | [Website](https:)
 
-QuickDA
+abc
 
-dabl
+## **ExploriPy**
+🔗 [GitHub](https://github.com/ | [Website](https:)
+
+abc
+
+## **Lux**
+🔗 [GitHub](https://github.com/ | [Website](https:)
+
+abc
+
+## **Pandas Profiling**
+🔗 [GitHub](https://github.com/ | [Website](https:)
+
+abc
+
+## **QuickDA**
+🔗 [GitHub](https://github.com/ | [Website](https:)
+
+abc
+
+## **dabl**
+🔗 [GitHub](https://github.com/ | [Website](https:)
+
+abc
