@@ -31,3 +31,5 @@ Perspective is an interactive analytics and data visualization component, which 
 Built on an MPP (massively parallel processing) architecture, this tool from Apache is a high-performance, real-time analytics database, known for speed and ease of use. Apache Doris can better meet the scenarios of report analysis, ad-hoc query, unified data warehouse, Data Lake Query Acceleration, etc. Users can build user behavior analysis, AB test platform, log retrieval analysis, user portrait analysis, order analysis, and other applications on top of this.
 
 <figure><img src="https://miro.medium.com/v2/resize:fit:1400/0*V-JSNztg2vmUvBcJ.png" alt="" width="563"><figcaption></figcaption></figure>
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
