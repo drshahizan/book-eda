@@ -74,17 +74,17 @@ Here are a few sample plots from the report –
 
 From the .html report, we can see that it contains several plots generated with just one line of code and these plots are useful in understanding the dataset better. The documentation for SmartEDA can be found [here](https://cran.r-project.org/web/packages/SmartEDA/index.html).
 
-#### tableone
+### tableone
 
 🔗 [GitHub](https:/) | [Website](https:/)
 
 
 
-**1. dataMaid**
+### dataMaid
 
 The dataMaid package creates a report in different formats, such as PDF, DOCX, or HTML. The generated report checks and neatly simply summarizes the dataset. It is a good tool for checking errors in the dataset.
 
-We will install, import, and run the dataMaid package using the following command
+To utilize the dataMaid package, one can execute the given command to install, import, and run it.
 
 ```
 # Install package
