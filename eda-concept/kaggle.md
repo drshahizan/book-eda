@@ -13,3 +13,5 @@ Exploratory data analysis (EDA) is used by data scientists to analyze and invest
 ✅️ EDA can also help determine whether the statistical techniques you are considering are appropriate for data analysis.
 
 ✅️ Developed by the American mathematician John Tukey in the 1970s, EDA techniques continue to be a widely used method in the data exploration process today.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
