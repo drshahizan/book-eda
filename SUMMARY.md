@@ -5,12 +5,12 @@
 ## EDA Concept
 
 * [Content](eda-concept/content/README.md)
-  * [What is EDA?](eda-concept/kaggle.md)
+  * [What is EDA?](eda-concept/content/what-eda.md)
   * [Why EDA?](eda-concept/why-eda.md)
   * [Types of EDA](eda-concept/content/types-of-eda.md)
   * [Basic Concept](eda-concept/content/basic-concept.md)
   * [Code & Practice](eda-concept/content/code-and-practice.md)
-  * [Kaggle](eda-concept/content/kaggle-1.md)
+  * [Kaggle](eda-concept/content/kaggle.md)
   * [Github](eda-concept/content/github.md)
 
 ## Dataset
@@ -19,7 +19,7 @@
 
 ## Tools
 
-* [💻 Data Exploration](tools/data-exploration.md)
+* [👩💻 Data Exploration](tools/data-exploration.md)
 * [🎯 Data Quality](tools/data-quality.md)
 * [📔 Data Profiling](tools/data-profiling.md)
 * [🐍 Python Libraries](tools/python/README.md)
@@ -28,7 +28,7 @@
   * [📊 Matplotlib](tools/python/matplotlib.md)
   * [📈 Seaborn](tools/python/seaborn.md)
   * [📶 Plotly](tools/python/plotly.md)
-* [® R](tools/r.md)
+* [® ® R](tools/r.md)
 
 ## Lab & Case Study
 
