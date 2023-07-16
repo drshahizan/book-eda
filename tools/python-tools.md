@@ -2,9 +2,7 @@
 
 ## **AutoViz**
 
-🔗 [GitHub](https://github.com/AutoViML/AutoViz) | [Website](https:/)
-
-<figure><img src="https://github.com/AutoViML/AutoViz/blob/master/images/logo.png" alt="" width="375"><figcaption></figcaption></figure>
+🔗 [GitHub](https://github.com/AutoViML/AutoViz) | [Website](https://pypi.org/project/autoviz/0.0.6/)
 
 Automatically visualizes the dataset using a single line of code. Generates a wide range of charts and graphs to explore the data, such as scatter plots, bar plots, and histograms.
 
