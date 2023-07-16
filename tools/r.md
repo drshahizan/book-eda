@@ -1,4 +1,4 @@
-# ⛏ R
+# ® R
 
 R is an **open source** programming language that’s optimized for **statistical analysis** and **data visualization**. Developed in 1992, R has a rich ecosystem with complex data models and elegant tools for **data reporting**. At last count, more than **13,000 R packages** were available via the **Comprehensive R Archive Network (CRAN)** for **deep analytics**.
 
@@ -77,8 +77,6 @@ From the .html report, we can see that it contains several plots generated with 
 ### tableone
 
 🔗 [GitHub](https:/) | [Website](https:/)
-
-
 
 ### dataMaid
 
