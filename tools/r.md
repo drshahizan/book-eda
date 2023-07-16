@@ -30,7 +30,7 @@ create_report(mtcars)
 data()
 ```
 
-The DataExplorer library generates a complete HTML report in the working directory for the EDA on the dataset using the create\_report function. This function also accepts additional arguments to customize the EDA report. The report HTML file, when opened with a browser, looks like the following –
+The DataExplorer library generates a complete HTML report in the working directory for the EDA on the dataset using the create\_report function. This function also accepts additional arguments to customize the EDA report. The report HTML file, when opened with a browser, looks like the following:
 
 <figure><img src="https://editor.analyticsvidhya.com/uploads/53359dataexplorer.gif" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -67,11 +67,11 @@ install.packages("GGally")
 ```
 ## SmartEDA
 
-🔗 [GitHub](https:/) | [Website](https:/)
+🔗 [GitHub](https://github.com/daya6489/SmartEDA/) | [Website](https://cran.r-project.org/web/packages/SmartEDA/)
 
-The next AutoEDA library is SmartEDA which is a powerful package for automating most EDA tasks through functions for Descriptive statistics, Data visualization, Custom tables, and HTML reports.
+SmartEDA is a comprehensive programme for automating most EDA activities including descriptive statistics, data visualisation, custom tables, and HTML reports.
 
-Similar to the previous DataExplorer package, the SmartEDA library also allows us to generate a complete HTML report using the ExpReport function. Let us install and import the package as well as run the ExpReport function to perform the EDA, as shown below.
+Using the ExpReport method in the SmartEDA package, we can also generate a full HTML report. As indicated below, we will install and import the package, as well as run the ExpReport function to perform the EDA.
 
 ```
 # Install package
