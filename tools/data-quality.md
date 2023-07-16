@@ -30,4 +30,4 @@ VisiData is a free, open-source tool that lets you quickly open, explore, summar
 
 <figure><img src="https://miro.medium.com/v2/resize:fit:1180/0*RSfmU5g7Ml2PWN6O.jpeg" alt="" width="563"><figcaption></figcaption></figure>
 
-\\
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
