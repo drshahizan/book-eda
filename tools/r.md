@@ -10,7 +10,7 @@ Popular among **data science scholars** and **researchers**, R provides a broad 
 * **Creating visualizations**
 * **Training** and **evaluating machine learning** and **deep learning algorithms**
 
-R is commonly used within **RStudio**, an **integrated development environment (IDE)** for simplified statistical analysis, visualization, and reporting. R applications can be used directly and interactively on the web via **Shiny**.
+R is commonly used within **RStudio**, an **integrated development environment (IDE)** for simplified statistical analysis, visualization, and reporting. R applications can be used directly and interactively on the web via **Shiny**. R beginners can also use these libraries as they are easy to use and can help them quickly understand the dataset with a few code lines.
 
 ## Automated Exploratory Data Analysis packages
 
