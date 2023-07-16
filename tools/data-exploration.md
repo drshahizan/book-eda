@@ -2,6 +2,8 @@
 
 Data exploration is the initial act of getting to know your data and what you’re working with, often working with raw data to find any initial characteristics and patterns. Data visualization can help here by visualizing your datasets. It’s also part of the initial process of preparing your data, and may involve cleaning, transforming, and working with any anomalies. These tools will help make your initial data exploration process easy.
 
+[![Stars Badge](https://img.shields.io/github/stars/drshahizan/Python\_EDA)](https://github.com/drshahizan/Python\_EDA/stargazers) [![Forks Badge](https://img.shields.io/github/forks/drshahizan/Python\_EDA)](https://github.com/drshahizan/Python\_EDA/network/members) [![GitHub contributors](https://img.shields.io/github/contributors/drshahizan/Python\_EDA?color=2b9348)](https://github.com/drshahizan/Python\_EDA/graphs/contributors) ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2FPython\_EDA\&labelColor=%23d9e3f0\&countColor=%23697689\&style=flat)
+
 ## **ydata-profiling**
 
 🔗 [GitHub](https://github.com/ydataai/ydata-profiling) | [Website](https://ydata-profiling.ydata.ai/docs/master/index.html)
