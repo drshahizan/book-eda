@@ -10,7 +10,7 @@ Popular among **data science scholars** and **researchers**, R provides a broad 
 
 R is commonly used within **RStudio**, an **integrated development environment (IDE)** for simplified statistical analysis, visualization, and reporting. R applications can be used directly and interactively on the web via **Shiny**. R beginners can also use these libraries as they are easy to use and can help them quickly understand the dataset with a few code lines.
 
-## Automated Exploratory Data Analysis packages
+Automated Exploratory Data Analysis packages that will be described consist of DataExplorer, GGally, SmartEDA, tableone and dataMaid.
 
 ## DataExplorer
 
@@ -102,7 +102,7 @@ An R package to create “Table 1”, description of baseline characteristics
 Table 1 is a common format to show summary statistics of data that is used in medical research papers. You can use a various data wrangling mehods such as Group By, Summarize, etc. to calculate such statistics. But, in R, there is a package called ‘tableone’, which is designed to generate the Table 1 information. This means, you can quickly use the package to generate Table 1 information in Exploratory.
 
 There are two ways to use this package.
-1. One way is to use Note, which is based on RMarkdown, where you can directly write R script with the ‘tableone’ package and produce the result as output. This is a simple and quick solution if you are ok with the output in Note.
+1. Use Note, which is built on RMarkdown and allows you to construct R scripts directly using the ‘tableone‘ package and output the results. This is a simple and quick solution if you are ok with the output in Note.
 2. Another is to create a custom R function with the ‘tableone’ package and call it as a data wrangling step. This would take a bit of steps, but since you will get the result in a data frame format you will be able to use the data in a more flexible way.
 
 tableone was inspired by descriptive statistics functions in Deducer , a Java-based GUI package by Ian Fellows. This package does not require GUI or Java, and intended for command-line users.
