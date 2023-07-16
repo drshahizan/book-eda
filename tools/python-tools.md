@@ -16,6 +16,4 @@ Pandas Profiling
 
 QuickDA
 
-Sweetviz
-
 dabl
