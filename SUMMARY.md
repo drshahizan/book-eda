@@ -22,7 +22,7 @@
 * [👩💻 Data Exploration](tools/data-exploration.md)
 * [🎯 Data Quality](tools/data-quality.md)
 * [📔 Data Profiling](tools/data-profiling.md)
-* [🐍 Python Libraries](tools/python/README.md)
+* [🐍 Python Library](tools/python/README.md)
   * [🐼 Pandas](tools/python/pandas.md)
   * [🧊 Numpy](tools/python/numpy.md)
   * [📊 Matplotlib](tools/python/matplotlib.md)
@@ -30,6 +30,7 @@
   * [📶 Plotly](tools/python/plotly.md)
 * [® R](tools/r.md)
 * [⚒ Automated EDA Tools](tools/automated-eda-tools.md)
+* [⛏ Python tools](tools/python-tools.md)
 
 ## Lab & Case Study
 
