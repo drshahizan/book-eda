@@ -1,4 +1,4 @@
-# Data Profiling
+# 📔 Data Profiling
 
 Now that the data has been examined and some initial cleaning has taken place, it’s time to assess the quality of the characteristics of the dataset. This includes its structure, content, and relationships between variables. This step is important because it’s used to identify any issues or inconsistencies in the data. Data analysts can use these tools to examine the data and produce reports on key aspects, such as data types, ranges, distributions, and so on. To differentiate from data exploration, data profiling is focused on the quality of the data, whereas data exploration is meant to better understand the data.
 

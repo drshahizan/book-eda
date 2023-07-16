@@ -1,4 +1,4 @@
-# Types of exploratory data analysis
+# Types of EDA
 
 There are four primary types of exploratory data analysis (EDA):
 

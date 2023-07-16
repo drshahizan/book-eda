@@ -1,4 +1,4 @@
-# Data Quality
+# 🎯 Data Quality
 
 Now that you’ve learned more about your data and cleaned it up, it’s time to ensure the quality of your data is up to par. With these data exploration tools, you can determine if your data is accurate, consistent, and reliable. High-quality data is essential for making informed decisions, as well as for the effective operation of systems and processes that rely on it. Maintaining high-quality data is critical for organizations in order to avoid negative impacts on decision-making and business operations.
 
@@ -30,4 +30,4 @@ VisiData is a free, open-source tool that lets you quickly open, explore, summar
 
 <figure><img src="https://miro.medium.com/v2/resize:fit:1180/0*RSfmU5g7Ml2PWN6O.jpeg" alt="" width="563"><figcaption></figcaption></figure>
 
-\
+\\
