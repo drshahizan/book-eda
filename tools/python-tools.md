@@ -1,5 +1,7 @@
 # ⛏ Python tools
 
+Automated Exploratory Data Analysis (EDA) tools are software or frameworks that facilitate the process of analyzing and understanding a dataset automatically, without requiring manual effort or extensive coding. These tools leverage various statistical and visualization techniques to provide insights into the data, detect patterns, and identify potential issues or anomalies.
+
 ## **AutoViz**
 
 🔗 [GitHub](https://github.com/AutoViML/AutoViz) | [Website](https://pypi.org/project/autoviz/0.0.6/)
@@ -22,16 +24,17 @@ In summary, the motivation behind AutoViz is to make data visualization more eff
 
 D-Tale is the combination of a Flask back-end and a React front-end to bring you an easy way to view & analyze Pandas data structures. It integrates seamlessly with ipython notebooks & python/ipython terminals. Currently this tool supports such Pandas objects as DataFrame, Series, MultiIndex, DatetimeIndex & RangeIndex.
 
-D-Tale was the product of a SAS to Python conversion.  What was originally a perl script wrapper on top of SAS's `insight` function is now a lightweight web client on top of Pandas data structures.
+D-Tale was the product of a SAS to Python conversion. What was originally a perl script wrapper on top of SAS's `insight` function is now a lightweight web client on top of Pandas data structures.
 
 ## **DataPrep**
 
 🔗 [GitHub](https://github.com/sfu-db/dataprep) | [Website](https://docs.dataprep.ai/)
 
 DataPrep lets you prepare your data using a single library with a few lines of code. Currently, you can use DataPrep to:
-- Collect data from common data sources through `dataprep.connector`
-- Do your exploratory data analysis through `dataprep.eda`
-- Clean and standardize data through `dataprep.clean`
+
+* Collect data from common data sources through `dataprep.connector`
+* Do your exploratory data analysis through `dataprep.eda`
+* Clean and standardize data through `dataprep.clean`
 
 `DataPrep.EDA` is the fastest and the easiest EDA (Exploratory Data Analysis) tool in Python. It allows you to understand a Pandas/Dask DataFrame with a few lines of code in seconds.
 
@@ -39,9 +42,9 @@ DataPrep lets you prepare your data using a single library with a few lines of c
 
 You can create a beautiful profile report from a Pandas/Dask DataFrame with the `create_report` function. DataPrep.EDA has the following advantages compared to other tools:
 
-- **[10X Faster](https://arxiv.org/abs/2104.00841)**: DataPrep.EDA can be 10X faster than Pandas-based profiling tools due to its highly optimized Dask-based computing module.
-- **Interactive Visualization**: DataPrep.EDA generates interactive visualizations in a report, which makes the report look more appealing to end users.
-- **Big Data Support**: DataPrep.EDA naturally supports big data stored in a Dask cluster by accepting a Dask dataframe as input.
+* [**10X Faster**](https://arxiv.org/abs/2104.00841): DataPrep.EDA can be 10X faster than Pandas-based profiling tools due to its highly optimized Dask-based computing module.
+* **Interactive Visualization**: DataPrep.EDA generates interactive visualizations in a report, which makes the report look more appealing to end users.
+* **Big Data Support**: DataPrep.EDA naturally supports big data stored in a Dask cluster by accepting a Dask dataframe as input.
 
 ## **ExploriPy**
 
@@ -61,13 +64,12 @@ Lux is a Python library that facilitate fast and easy data exploration by automa
 
 🔗 [GitHub](https://github.com/sid-the-coder/QuickDA/tree/master) | [Website](https://pypi.org/project/quickda/)
 
-Simple & Easy-to-use python modules to perform Quick Exploratory Data Analysis for any structured dataset!. Enter [QuickDA](https://pypi.org/project/quickda/), a simple, low-code & easy-to-use EDA library in Python to help you quickly explore, clean and visualise data with just few lines of customisable codes! One thing to remember is that QuickDA is supposed to be a starting point for quick exploratory analysis, and in no way a replacement to traditional EDA approaches. 
+Simple & Easy-to-use python modules to perform Quick Exploratory Data Analysis for any structured dataset!. Enter [QuickDA](https://pypi.org/project/quickda/), a simple, low-code & easy-to-use EDA library in Python to help you quickly explore, clean and visualise data with just few lines of customisable codes! One thing to remember is that QuickDA is supposed to be a starting point for quick exploratory analysis, and in no way a replacement to traditional EDA approaches.
 
 ## **dabl**
 
 🔗 [GitHub](https://github.com/dabl/dabl) | [Website](https://dabl.github.io/dev/)
 
 This project tries to help make supervised machine learning more accessible for beginners, and reduce boiler plate for common tasks. Current code focuses mostly on exploratory visualization and preprocessing. There are also drop-in replacements for GridSearchCV and RandomizedSearchCV using successive halfing. There are preliminary portfolios in the style of POSH auto-sklearn to find strong models quickly. In essence that boils down to a quick search over different gradient boosting models and other tree ensembles and potentially kernel methods. This library is in very active development, so it’s not recommended for production use.
-
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
