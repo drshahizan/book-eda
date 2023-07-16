@@ -18,18 +18,18 @@
 * [ℹ Kaggle](dataset/kaggle.md)
 
 ## Tools
-
-* [👩💻 Data Exploration](tools/data-exploration.md)
-* [🎯 Data Quality](tools/data-quality.md)
-* [📔 Data Profiling](tools/data-profiling.md)
 * [🐍 Python Library](tools/python/README.md)
   * [🐼 Pandas](tools/python/pandas.md)
   * [🧊 Numpy](tools/python/numpy.md)
   * [📊 Matplotlib](tools/python/matplotlib.md)
   * [📈 Seaborn](tools/python/seaborn.md)
   * [📶 Plotly](tools/python/plotly.md)
-* [® R](tools/r.md)
 * [⛏ Python tools](tools/python-tools.md)
+* [Data Exploration](tools/data-exploration.md)
+* [🎯 Data Quality](tools/data-quality.md)
+* [📔 Data Profiling](tools/data-profiling.md)
+* [R](tools/r.md)
+
 
 ## Lab & Case Study
 
