@@ -4,7 +4,7 @@ Data analysis plays a vital role in extracting valuable insights from datasets. 
 
 In the field of data analysis, the following aspects are investigated to derive meaningful insights:
 
-## **Dataset's Shape and Overview:**&#x20;
+## **Dataset's Shape and Overview**
 
 The initial step involves examining the **shape** of the dataset, encompassing the number of **rows** and **columns**. This provides a comprehensive **overview** of the dataset's structure and composition.
 
