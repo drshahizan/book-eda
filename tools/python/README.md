@@ -18,9 +18,7 @@ An interpreted, object-oriented programming language with dynamic semantics. Its
 
 8. **Statsmodels**: Statsmodels is a statistical modeling library that provides a comprehensive set of tools for estimating and analyzing statistical models. It offers a wide range of statistical tests, regression models, time series analysis, and more. Statsmodels is particularly useful for conducting advanced statistical analyses and hypothesis testing.
 
-9. **Dask**: Dask is a library for parallel computing and distributed computing in Python. It allows you to work with larger-than-memory datasets and perform operations in parallel, making it useful for handling big data in EDA. Dask provides similar functionality to Pandas and NumPy, but with the ability to scale computations across multiple cores or even multiple machines.
-
-10. **Yellowbrick**: Yellowbrick is a visualization library that focuses on creating visual diagnostic tools for machine learning. It provides a high-level interface for creating visualizations that help in understanding model behavior, evaluating performance, and debugging models. Yellowbrick offers visualizations for tasks like feature analysis, model selection, clustering evaluation, and more.
+9. **Yellowbrick**: Yellowbrick is a visualization library that focuses on creating visual diagnostic tools for machine learning. It provides a high-level interface for creating visualizations that help in understanding model behavior, evaluating performance, and debugging models. Yellowbrick offers visualizations for tasks like feature analysis, model selection, clustering evaluation, and more.
 
 In EDA, you might perform tasks such as cleaning the data, handling missing values, transforming variables, generating summary statistics, creating visualizations (e.g. histograms, scatter plots, box plots), and identifying outliers. All of these tasks can be done using the above libraries in Python.
 
