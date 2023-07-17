@@ -54,13 +54,45 @@ Get the list of Numerical variables and visualize columns.
 
 Understanding the distribution of **numerical variables** is essential for accurate data interpretation. Visualizations and statistical techniques are employed to examine the **shape**, **skewness**, and **kurtosis** of these variables.
 
+Numerical variables are usually of 2 types: Discrete Variable and Continuous variable.
+
+<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*5fLFudMfa4qLdcLbhOPl7g.png" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*gLHXSxj8hRnxL6WvonfZ4Q.png" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*11Dph-QAK3xowDGI75xuBQ.png" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*6XElpqL1LAO5wD5O8Xm3Rg.png" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*CT_bX7g0TqgLC37iVG8Vkg.png" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*2YnYo-iiIYVEH13igHr0oQ.png" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*gK1yszew6uBY98RJS3ig5g.png" alt="" width="563"><figcaption></figcaption></figure>
+
 ## **Outliers**
 
 The identification and examination of **outliers**, which are observations that significantly deviate from the majority, are essential. This analysis aids in assessing the impact of outliers on the dataset. Based on the dataset's nature, appropriate actions such as exclusion, transformation, or handling of outliers can be determined.
 
+Let’s find outliers in continuous variables using Boxplot.
+
+<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*JGCVN7BK0Kc8LSKdNOZl9A.png" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*V6LE4tnF8qCtG1moXdVl6Q.png" alt="" width="563"><figcaption></figcaption></figure>
+
 ## **Categorical Variables**
 
 The analysis encompasses an exploration of **categorical variables** within the dataset. This involves examining the different **categories** and their respective **frequencies** to gain insights into the composition and distribution of these variables.
+
+<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*KvsEQSXqjjXDplM8fxpmVw.png" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*jhE6lg9PXmIa8Hqfi5DhzQ.png" alt="" width="563"><figcaption></figcaption></figure>
+
+Let’s find out the relationship between categorical variable and dependent feature.
+
+<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*m_T-uns-thB4y_9RYQfdTQ.png" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*vRqYUKUQ2qQvCkIHKSExyw.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## **Cardinality of Categorical Variables**
 
