@@ -14,23 +14,23 @@ Pandas is a powerful library for data manipulation and analysis. It provides dat
 
 NumPy is a fundamental library for numerical computing in Python. It provides a multidimensional array object, along with functions for mathematical operations on arrays. NumPy is widely used for tasks such as array manipulation, linear algebra, statistical operations, and random number generation.
 
-# Library: Matplotlib
+# 3. Matplotlib
 🗂️ **Category: Visualization**
 Matplotlib is a versatile plotting library that allows you to create a wide range of static visualizations. It provides a low-level interface for creating plots and supports various plot types, including line plots, scatter plots, bar plots, histograms, and more. Matplotlib is highly customizable and widely used in the data science community.
 
-# Library: Seaborn
+# 4. Seaborn
 🗂️ **Category: Visualization**
 Seaborn is a statistical data visualization library built on top of Matplotlib. It provides a higher-level interface and offers a set of additional plot types and themes that make it easier to create aesthetically pleasing visualizations. Seaborn is particularly useful for creating statistical graphics and exploring relationships between variables.
 
-# Library: Plotly
+# 5. Plotly
 🗂️ **Category: Visualization**
 Plotly is an interactive data visualization library that allows you to create highly customizable and interactive plots. It supports a wide range of plot types, including scatter plots, line plots, bar plots, 3D plots, maps, and more. Plotly can be used in both Python and other programming languages, and it provides features like hover tooltips, zooming, panning, and exporting plots.
 
-# Library: SciPy
+# 6. SciPy
 🗂️ **Category: Statistical Analysis**
 Scipy is a scientific computing library that provides functions for advanced mathematical operations, statistical analysis, optimization, interpolation, and more. It is particularly useful for performing statistical tests, fitting models, and working with numerical data.
 
-# Library: Statsmodels
+# 7. Statsmodels
 🗂️ **Category: Statistical Modeling**
 Statsmodels is a statistical modeling library that provides a comprehensive set of tools for estimating and analyzing statistical models. It offers a wide range of statistical tests, regression models, time series analysis, and more. Statsmodels is particularly useful for conducting advanced statistical analyses and hypothesis testing.
 
