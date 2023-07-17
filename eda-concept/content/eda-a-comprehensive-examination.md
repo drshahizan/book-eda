@@ -98,7 +98,7 @@ Let’s find out the relationship between categorical variable and dependent fea
 
 Evaluating the **cardinality**, i.e., the number of unique values, within categorical variables is crucial. Assessing the level of diversity within each variable helps guide decision-making regarding variable transformation or feature engineering, if required.
 
-## **8. Relationship Between Independent and Dependent Features**
+## **8. Relationship Between Independent & Dependent Features**
 
 The relationship between **independent features** and the **dependent feature** of interest is scrutinized. This involves **plotting** and analyzing the distributions of independent features in relation to the dependent feature. This analysis aids in uncovering potential **patterns**, **correlations**, or **dependencies** present in the data.
 
