@@ -1,4 +1,4 @@
-# Exploration
+# 🌀 Data Exploration
 
 Data exploration is the initial act of getting to know your data and what you’re working with, often working with raw data to find any initial characteristics and patterns. Data visualization can help here by visualizing your datasets. It’s also part of the initial process of preparing your data, and may involve cleaning, transforming, and working with any anomalies. These tools will help make your initial data exploration process easy.
 

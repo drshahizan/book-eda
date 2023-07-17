@@ -36,10 +36,12 @@
 * [📔 Data Profiling](tools/data-profiling.md)
 * [® The R Project](tools/the-r-project.md)
 
-## Lab & Case Study
+## Tech Exploration
 
-* [🔬 Lab](lab-and-case-study/lab.md)
-* [💼 Case Study](lab-and-case-study/case-study.md)
+* [Youtube](tech-exploration/youtube.md)
+* [Github](tech-exploration/github.md)
+* [🔬 Lab](tech-exploration/lab.md)
+* [💼 Case Study](tech-exploration/case-study.md)
 
 ## Reference
 
