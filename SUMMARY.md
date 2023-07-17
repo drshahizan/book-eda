@@ -12,7 +12,7 @@
   * [Code & Practice](eda-concept/content/code-and-practice.md)
   * [Kaggle](eda-concept/content/kaggle.md)
   * [Github](eda-concept/content/github.md)
-  * [EDA: A Comprehensive Examination](eda-concept/content/eda-a-comprehensive-examination.md)
+  * [Essential Analysis Considerations in Data Analysis: A Comprehensive Examination](eda-concept/content/essential-analysis-considerations-in-data-analysis-a-comprehensive-examination.md)
 
 ## Dataset
 
