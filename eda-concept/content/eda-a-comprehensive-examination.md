@@ -4,13 +4,13 @@ Data analysis plays a vital role in extracting valuable insights from datasets. 
 
 In the field of data analysis, the following aspects are investigated to derive meaningful insights:
 
-## **Dataset's Shape and Overview**
+## **1. Dataset's Shape and Overview**
 
 The initial step involves examining the **shape** of the dataset, encompassing the number of **rows** and **columns**. This provides a comprehensive **overview** of the dataset's structure and composition.
 
 <figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*Ww5zm7vOtW_YahtL_nJlXw.png" alt="" width="563"><figcaption></figcaption></figure>
 
-## **Missing Values**
+## **2. Missing Values**
 
 Identifying and addressing missing values is critical to ensuring data quality. The analysis entails determining the presence and extent of **missing values** within the dataset. This step aids in making informed decisions regarding the appropriate treatment of missing data.
 
@@ -36,7 +36,7 @@ We need to find the relationship between missing values and the target feature. 
 
 Here, the relation between the missing values and the dependent variable is clearly visible. So we need to replace these NaN values with something meaningful which we will do in Feature Engineering. From the above dataset some of the features might not be required, which we will drop.
 
-## **Numerical Variables**
+## **3. Numerical Variables**
 
 In-depth exploration of **numerical variables** is conducted. This entails analyzing statistical characteristics such as **mean**, **median**, and **standard deviation** to gain insights into central tendency, dispersion, and variability of these variables.
 
@@ -50,7 +50,7 @@ Get the list of Numerical variables and visualize columns.
 
 <figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*PGYjaEuwUfKhzaxF8EcloA.png" alt="" width="563"><figcaption></figcaption></figure>
 
-## **Distribution of Numerical Variables**
+## **4. Distribution of Numerical Variables**
 
 Understanding the distribution of **numerical variables** is essential for accurate data interpretation. Visualizations and statistical techniques are employed to examine the **shape**, **skewness**, and **kurtosis** of these variables.
 
@@ -70,7 +70,7 @@ Numerical variables are usually of 2 types: Discrete Variable and Continuous var
 
 <figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*gK1yszew6uBY98RJS3ig5g.png" alt="" width="563"><figcaption></figcaption></figure>
 
-## **Outliers**
+## **5. Outliers**
 
 The identification and examination of **outliers**, which are observations that significantly deviate from the majority, are essential. This analysis aids in assessing the impact of outliers on the dataset. Based on the dataset's nature, appropriate actions such as exclusion, transformation, or handling of outliers can be determined.
 
@@ -80,7 +80,7 @@ Let’s find outliers in continuous variables using Boxplot.
 
 <figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*V6LE4tnF8qCtG1moXdVl6Q.png" alt="" width="563"><figcaption></figcaption></figure>
 
-## **Categorical Variables**
+## **6. Categorical Variables**
 
 The analysis encompasses an exploration of **categorical variables** within the dataset. This involves examining the different **categories** and their respective **frequencies** to gain insights into the composition and distribution of these variables.
 
@@ -94,12 +94,16 @@ Let’s find out the relationship between categorical variable and dependent fea
 
 <figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*vRqYUKUQ2qQvCkIHKSExyw.png" alt="" width="563"><figcaption></figcaption></figure>
 
-## **Cardinality of Categorical Variables**
+## **7. Cardinality of Categorical Variables**
 
 Evaluating the **cardinality**, i.e., the number of unique values, within categorical variables is crucial. Assessing the level of diversity within each variable helps guide decision-making regarding variable transformation or feature engineering, if required.
 
-## **Relationship Between Independent and Dependent Features**
+## **8. Relationship Between Independent and Dependent Features**
 
 The relationship between **independent features** and the **dependent feature** of interest is scrutinized. This involves **plotting** and analyzing the distributions of independent features in relation to the dependent feature. This analysis aids in uncovering potential **patterns**, **correlations**, or **dependencies** present in the data.
 
 By thoroughly examining these aspects, valuable insights can be gleaned, leading to informed decision-making throughout the data analysis process.
+
+## Conclusion
+
+A comprehensive examination of essential analysis considerations enhances the quality and reliability of data analysis. By focusing on the dataset's shape, missing values, numerical and categorical variables, distributions, outliers, and the relationship between features, analysts can derive meaningful insights and make informed decisions. Considering these factors ensures robust analysis and enables data-driven decision-making.
