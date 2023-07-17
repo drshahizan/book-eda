@@ -4,7 +4,7 @@ An interpreted, object-oriented programming language with dynamic semantics. Its
 
 Python is a popular programming language for data science and has several libraries and tools that are commonly used for EDA such as:
 
-1. **Pandas**: a library for data manipulation and analysis.
+1. **[Pandas](pandas.md)**: a library for data manipulation and analysis.
 2. **Numpy**: a library for numerical computing in Python.
 3. **Matplotlib**: a plotting library for creating visualizations.
 4. **Seaborn**: a library based on matplotlib for creating visualizations with a higher-level interface.
