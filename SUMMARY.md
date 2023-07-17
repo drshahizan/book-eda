@@ -32,6 +32,7 @@
   * [🗳 Yellowbrick](tools/python/yellowbrick.md)
 * [⛏ Python tools](tools/python-tools.md)
 * [👩💻 👩💻 Data Exploration](tools/data-exploration.md)
+* [Exploration](tools/exploration.md)
 * [🎯 Data Quality](tools/data-quality.md)
 * [📔 Data Profiling](tools/data-profiling.md)
 * [® ® R](tools/r.md)
