@@ -13,6 +13,7 @@ NumPy empowers data analysts and scientists to perform a wide range of mathemati
 
 One of the main advantages of NumPy is its ability to handle **large datasets** efficiently. By leveraging NumPy's arrays, data analysts can perform **data manipulations** and computations in a **vectorized** manner, which means operating on entire arrays instead of individual elements. This approach significantly improves **performance** and reduces the need for explicit loops, leading to more concise and **efficient code**.
 
+Numpy and Exploratory Data Analysis (EDA)
 When it comes to **Exploratory Data Analysis (EDA)**, NumPy plays a crucial role in **data preprocessing**, **manipulation**, and **statistical computations**. In EDA, data analysts strive to gain **insights**, identify **patterns**, and understand the **characteristics** of the dataset. NumPy provides a solid foundation for achieving these goals.
 
 **Data preprocessing** is an essential step in EDA, and NumPy offers various functions to handle **missing values**, **clean data**, and perform **feature scaling**. With NumPy, analysts can efficiently handle missing or corrupted data by replacing or imputing values based on predefined strategies. Additionally, NumPy enables feature scaling techniques such as **standardization** (mean normalization) or **normalization** (scaling to a specific range), which are often employed to ensure fair comparisons and improved performance in machine learning algorithms.
