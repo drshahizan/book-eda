@@ -34,7 +34,7 @@
 * [👩💻 Data Exploration](tools/data-exploration.md)
 * [🎯 Data Quality](tools/data-quality.md)
 * [📔 Data Profiling](tools/data-profiling.md)
-* [® ® ® R](tools/r.md)
+* [® R](tools/r.md)
 
 ## Lab & Case Study
 
