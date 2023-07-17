@@ -31,10 +31,10 @@
   * [👂 Scikit-learn](tools/python/scikit-learn.md)
   * [🗳 Yellowbrick](tools/python/yellowbrick.md)
 * [⛏ Python tools](tools/python-tools.md)
-* [Data Exploration](tools/exploration.md)
+* [🌀 Data Exploration](tools/exploration.md)
 * [🎯 Data Quality](tools/data-quality.md)
 * [📔 Data Profiling](tools/data-profiling.md)
-* [The R Project](tools/the-r-project.md)
+* [® The R Project](tools/the-r-project.md)
 
 ## Lab & Case Study
 
