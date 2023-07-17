@@ -18,31 +18,45 @@ NumPy is a fundamental library for numerical computing in Python. It provides a 
 
 ## 3. [Matplotlib](matplotlib.md)
 
-🗂️ **Category: Visualization** Matplotlib is a versatile plotting library that allows you to create a wide range of static visualizations. It provides a low-level interface for creating plots and supports various plot types, including line plots, scatter plots, bar plots, histograms, and more. Matplotlib is highly customizable and widely used in the data science community.
+🗂️ **Category: Visualization** 
+
+Matplotlib is a versatile plotting library that allows you to create a wide range of static visualizations. It provides a low-level interface for creating plots and supports various plot types, including line plots, scatter plots, bar plots, histograms, and more. Matplotlib is highly customizable and widely used in the data science community.
 
 ## 4. [Seaborn](seaborn.md)
 
-🗂️ **Category: Visualization** Seaborn is a statistical data visualization library built on top of Matplotlib. It provides a higher-level interface and offers a set of additional plot types and themes that make it easier to create aesthetically pleasing visualizations. Seaborn is particularly useful for creating statistical graphics and exploring relationships between variables.
+🗂️ **Category: Visualization** 
+
+Seaborn is a statistical data visualization library built on top of Matplotlib. It provides a higher-level interface and offers a set of additional plot types and themes that make it easier to create aesthetically pleasing visualizations. Seaborn is particularly useful for creating statistical graphics and exploring relationships between variables.
 
 ## 5. [Plotly](plotly.md)
 
-🗂️ **Category: Visualization** Plotly is an interactive data visualization library that allows you to create highly customizable and interactive plots. It supports a wide range of plot types, including scatter plots, line plots, bar plots, 3D plots, maps, and more. Plotly can be used in both Python and other programming languages, and it provides features like hover tooltips, zooming, panning, and exporting plots.
+🗂️ **Category: Visualization** 
+
+Plotly is an interactive data visualization library that allows you to create highly customizable and interactive plots. It supports a wide range of plot types, including scatter plots, line plots, bar plots, 3D plots, maps, and more. Plotly can be used in both Python and other programming languages, and it provides features like hover tooltips, zooming, panning, and exporting plots.
 
 ## 6. [SciPy](scipy.md)
 
-🗂️ **Category: Statistical Analysis** Scipy is a scientific computing library that provides functions for advanced mathematical operations, statistical analysis, optimization, interpolation, and more. It is particularly useful for performing statistical tests, fitting models, and working with numerical data.
+🗂️ **Category: Statistical Analysis** 
+
+Scipy is a scientific computing library that provides functions for advanced mathematical operations, statistical analysis, optimization, interpolation, and more. It is particularly useful for performing statistical tests, fitting models, and working with numerical data.
 
 ## 7. [Statsmodels](statsmodels.md)
 
-🗂️ **Category: Statistical Modeling** Statsmodels is a statistical modeling library that provides a comprehensive set of tools for estimating and analyzing statistical models. It offers a wide range of statistical tests, regression models, time series analysis, and more. Statsmodels is particularly useful for conducting advanced statistical analyses and hypothesis testing.
+🗂️ **Category: Statistical Modeling** 
+
+Statsmodels is a statistical modeling library that provides a comprehensive set of tools for estimating and analyzing statistical models. It offers a wide range of statistical tests, regression models, time series analysis, and more. Statsmodels is particularly useful for conducting advanced statistical analyses and hypothesis testing.
 
 ## 8. [Scikit-learn](scikit-learn.md)
 
-🗂️ **Category: Machine Learning** Scikit-learn is a machine learning library that provides a wide range of algorithms for classification, regression, clustering, dimensionality reduction, and more. It also offers tools for preprocessing data, model evaluation, and model selection. Scikit-learn is often used in EDA for tasks like feature extraction, dimensionality reduction, and building predictive models.
+🗂️ **Category: Machine Learning** 
+
+Scikit-learn is a machine learning library that provides a wide range of algorithms for classification, regression, clustering, dimensionality reduction, and more. It also offers tools for preprocessing data, model evaluation, and model selection. Scikit-learn is often used in EDA for tasks like feature extraction, dimensionality reduction, and building predictive models.
 
 ## 9. [Yellowbrick](yellowbrick.md)
 
-🗂️ **Category: Visual Diagnostic Tools** Yellowbrick is a visualization library that focuses on creating visual diagnostic tools for machine learning. It provides a high-level interface for creating visualizations that help in understanding model behavior, evaluating performance, and debugging models. Yellowbrick offers visualizations for tasks like feature analysis, model selection, clustering evaluation, and more.
+🗂️ **Category: Visual Diagnostic Tools** 
+
+Yellowbrick is a visualization library that focuses on creating visual diagnostic tools for machine learning. It provides a high-level interface for creating visualizations that help in understanding model behavior, evaluating performance, and debugging models. Yellowbrick offers visualizations for tasks like feature analysis, model selection, clustering evaluation, and more.
 
 In EDA, you might perform tasks such as cleaning the data, handling missing values, transforming variables, generating summary statistics, creating visualizations (e.g. histograms, scatter plots, box plots), and identifying outliers. All of these tasks can be done using the above libraries in Python.
 
