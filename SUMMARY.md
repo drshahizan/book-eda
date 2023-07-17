@@ -34,12 +34,12 @@
 * [🌀 Data Exploration](tools/exploration.md)
 * [🎯 Data Quality](tools/data-quality.md)
 * [📔 Data Profiling](tools/data-profiling.md)
-* [® The R Project](tools/the-r-project.md)
+* [® ® The R Project](tools/the-r-project.md)
 
 ## Tech Exploration
 
-* [Youtube](tech-exploration/youtube.md)
-* [Github](tech-exploration/github.md)
+* [🎬 Youtube](tech-exploration/youtube.md)
+* [☁ Github](tech-exploration/github.md)
 * [🔬 Lab](tech-exploration/lab.md)
 * [💼 Case Study](tech-exploration/case-study.md)
 
