@@ -1,10 +1,10 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [👋 Welcome!](README.md)
 
 ## EDA Concept
 
-* [Content](eda-concept/content/README.md)
+* [📑 Content](eda-concept/content/README.md)
   * [What is EDA?](eda-concept/content/what-eda.md)
   * [Why EDA?](eda-concept/content/why-eda.md)
   * [Types of EDA](eda-concept/content/types-of-eda.md)
