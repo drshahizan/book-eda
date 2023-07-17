@@ -27,18 +27,21 @@ Moreover, NumPy seamlessly integrates with data visualization libraries like **M
 ## Efficient Data Analysis with Numpy
 
 ### 1. Data Manipulation
-
 Numpy offers efficient data structures such as arrays and matrices, which enable analysts to store and manipulate data effectively. Numpy arrays provide fast and vectorized operations, allowing for seamless data transformations, filtering, and indexing.
 
-2. Descriptive Statistics
-3. Numpy provides a comprehensive set of functions to compute various descriptive statistics. Analysts can calculate measures such as mean, median, mode, variance, standard deviation, percentiles, and more. These statistics provide insights into the central tendency, dispersion, and distribution of the data.
-4. Missing Data Handling: Numpy facilitates handling missing data within a dataset. The `numpy.nan` value can be used to represent missing or undefined values. Numpy functions like `np.isnan()` and `np.nanmean()` allow analysts to handle missing data effectively, ensuring accurate analysis and calculations.
-5. Data Distribution: Numpy functions can be utilized to examine the distribution of numerical data. Analysts can generate histograms, density plots, or kernel density estimates using functions like `np.histogram()` and `np.histogramdd()`. These visualizations provide insights into the shape, skewness, and kurtosis of the data.
-6. Data Sampling and Randomization: Numpy includes functions for data sampling and randomization, allowing analysts to generate random numbers or select random subsets of data. This capability is particularly useful for creating random samples for hypothesis testing or bootstrapping.
-7. Mathematical Operations: Numpy supports a wide range of mathematical operations that can be applied to numerical data. Analysts can perform element-wise calculations, matrix operations, linear algebra, and statistical computations using functions like `np.mean()`, `np.sum()`, `np.dot()`, `np.cov()`, and many more.
-8. Array Broadcasting: Numpy's array broadcasting functionality allows for efficient computation and manipulation of arrays with different shapes. This feature simplifies operations such as adding or multiplying arrays with different dimensions, enabling analysts to work with data of varying shapes and sizes.
-9. Data Transformation and Cleaning: Numpy provides functions for data transformation and cleaning. Analysts can apply mathematical functions, handle outliers, perform scaling or normalization, and apply mathematical transformations to the data using functions like `np.log()`, `np.exp()`, `np.clip()`, and more.
-
-Conclusion: Numpy's powerful functions and tools make it a valuable resource for performing Exploratory Data Analysis. By leveraging Numpy's capabilities, analysts can manipulate and transform data efficiently, compute descriptive statistics, handle missing values, visualize data distributions, and perform mathematical operations. Numpy's versatility and efficiency contribute to a comprehensive and insightful EDA process, enabling analysts to gain a deeper understanding of the data and extract meaningful insights for further analysis.
+### 2. Descriptive Statistics
+Numpy provides a comprehensive set of functions to compute various descriptive statistics. Analysts can calculate measures such as mean, median, mode, variance, standard deviation, percentiles, and more. These statistics provide insights into the central tendency, dispersion, and distribution of the data.
+### 3. Missing Data Handling
+Numpy facilitates handling missing data within a dataset. The `numpy.nan` value can be used to represent missing or undefined values. Numpy functions like `np.isnan()` and `np.nanmean()` allow analysts to handle missing data effectively, ensuring accurate analysis and calculations.
+### 4. Data Distribution
+Numpy functions can be utilized to examine the distribution of numerical data. Analysts can generate histograms, density plots, or kernel density estimates using functions like `np.histogram()` and `np.histogramdd()`. These visualizations provide insights into the shape, skewness, and kurtosis of the data.
+### 5. Data Sampling and Randomization
+Numpy includes functions for data sampling and randomization, allowing analysts to generate random numbers or select random subsets of data. This capability is particularly useful for creating random samples for hypothesis testing or bootstrapping.
+### 6. Mathematical Operations
+Numpy supports a wide range of mathematical operations that can be applied to numerical data. Analysts can perform element-wise calculations, matrix operations, linear algebra, and statistical computations using functions like `np.mean()`, `np.sum()`, `np.dot()`, `np.cov()`, and many more.
+### 7. Array Broadcasting
+Numpy's array broadcasting functionality allows for efficient computation and manipulation of arrays with different shapes. This feature simplifies operations such as adding or multiplying arrays with different dimensions, enabling analysts to work with data of varying shapes and sizes.
+### 8. Data Transformation and Cleaning
+Numpy provides functions for data transformation and cleaning. Analysts can apply mathematical functions, handle outliers, perform scaling or normalization, and apply mathematical transformations to the data using functions like `np.log()`, `np.exp()`, `np.clip()`, and more.
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
