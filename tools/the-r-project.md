@@ -1,3 +1,7 @@
+---
+description: for Statistical Computing
+---
+
 # The R Project
 
 R is an **open source** programming language that’s optimized for **statistical analysis** and **data visualization**. Developed in 1992, R has a rich ecosystem with complex data models and elegant tools for **data reporting**. At last count, more than **13,000 R packages** were available via the **Comprehensive R Archive Network (CRAN)** for **deep analytics**.
@@ -44,10 +48,10 @@ You can also refer to the [package documentation](https://cran.r-project.org/pac
 
 🔗 [GitHub](https://github.com/ggobi/ggally/tree/master) | [Website](https://cran.r-project.org/web/packages/GGally/index.html)
 
-[`ggplot2`](https://ggplot2.tidyverse.org/) is a plotting system for R based on the grammar of graphics. [`GGally`](https://ggobi.github.io/ggally/) extends ggplot2 by adding several functions to reduce the complexity of combining geoms with transformed data.  Some of these functions include a pairwise plot matrix, a scatterplot plot matrix, a parallel coordinates plot, a survival plot, and several functions to plot networks. When using the ggplot() function to create charts, the 'geom()' object must be used to determine the plot type. In the case of the gGally package, however, it includes pre-built features such as:
+[`ggplot2`](https://ggplot2.tidyverse.org/) is a plotting system for R based on the grammar of graphics. [`GGally`](https://ggobi.github.io/ggally/) extends ggplot2 by adding several functions to reduce the complexity of combining geoms with transformed data. Some of these functions include a pairwise plot matrix, a scatterplot plot matrix, a parallel coordinates plot, a survival plot, and several functions to plot networks. When using the ggplot() function to create charts, the 'geom()' object must be used to determine the plot type. In the case of the gGally package, however, it includes pre-built features such as:
 
-- `ggally_density()` – To plot Density Plot.
-- `ggally_points()` – To plot the ScatterPlot, etc.
+* `ggally_density()` – To plot Density Plot.
+* `ggally_points()` – To plot the ScatterPlot, etc.
 
 which reduces the complexity of plotting graphs with the geoms like in `ggplot2`. So, let’s dive into some graphs which can be plotted using GGally in R Programming Language.
 
@@ -65,6 +69,7 @@ install_github("ggobi/ggally")
 # CRAN
 install.packages("GGally")
 ```
+
 ## SmartEDA
 
 🔗 [GitHub](https://github.com/daya6489/SmartEDA/) | [Website](https://cran.r-project.org/web/packages/SmartEDA/)
@@ -102,13 +107,14 @@ An R package to create “Table 1”, description of baseline characteristics
 Table 1 is a common format to show summary statistics of data that is used in medical research papers. You can use a various data wrangling mehods such as Group By, Summarize, etc. to calculate such statistics. But, in R, there is a package called ‘tableone’, which is designed to generate the Table 1 information. This means, you can quickly use the package to generate Table 1 information in Exploratory.
 
 There are two ways to use this package.
+
 1. Use Note, which is built on RMarkdown and allows you to construct R scripts directly using the ‘tableone‘ package and output the results. This is a simple and quick solution if you are ok with the output in Note.
 2. Another is to create a custom R function with the ‘tableone’ package and call it as a data wrangling step. This would take a bit of steps, but since you will get the result in a data frame format you will be able to use the data in a more flexible way.
 
 tableone was inspired by descriptive statistics functions in Deducer , a Java-based GUI package by Ian Fellows. This package does not require GUI or Java, and intended for command-line users.
 
-
 ## dataMaid
+
 🔗 [GitHub](https://github.com/ekstroem/dataMaid) | [Website](https://cran.r-project.org/web/packages/dataMaid/index.html)
 
 The dataMaid package creates a report in different formats, such as PDF, DOCX, or HTML. The generated report checks and neatly simply summarizes the dataset. It is a good tool for checking errors in the dataset.
