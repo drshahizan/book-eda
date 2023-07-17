@@ -12,6 +12,6 @@ Built on top of [plotly.js](https://github.com/plotly/plotly.js), `plotly.py` is
 
 `plotly.py` is [MIT Licensed](https://github.com/plotly/plotly.py/blob/master/LICENSE.txt). Plotly graphs can be viewed in Jupyter notebooks, standalone HTML files, or integrated into [Dash applications](https://dash.plotly.com/).
 
-[![](https://raw.githubusercontent.com/cldougl/plot\_images/add\_r\_img/plotly\_2017.png)](https://plotly.com/python/)
+<figure><img src="https://raw.githubusercontent.com/cldougl/plot\_images/add\_r\_img/plotly\_2017.png)](https://plotly.com/python/" alt="" width="563"><figcaption></figcaption></figure>
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
