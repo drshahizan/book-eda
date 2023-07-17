@@ -1,3 +1,7 @@
+---
+description: Fundamental algorithms for scientific computing in Python
+---
+
 # 🤹 SciPy
 
 🔗 [GitHub](https://github.com/scipy/scipy) | [Website](https://scipy.org/)
