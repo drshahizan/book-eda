@@ -4,6 +4,44 @@ An interpreted, object-oriented programming language with dynamic semantics. Its
 
 The libraries are arranged based on their relevance to different activities in EDA. The first five libraries primarily focus on data manipulation, numerical computations, and visualization. The next two libraries, SciPy and Statsmodels, are more focused on statistical analysis and modeling. Scikit-learn is included for machine learning tasks, and Yellowbrick offers visual diagnostic tools.
 
+# Library: Pandas
+**Category: Data Manipulation and Analysis**
+Pandas is a powerful library for data manipulation and analysis. It provides data structures and functions to efficiently work with structured data, such as tables or data frames. Pandas is widely used for tasks like data cleaning, filtering, grouping, merging, and more.
+
+# Library: NumPy
+**Category: Numerical Computing**
+NumPy is a fundamental library for numerical computing in Python. It provides a multidimensional array object, along with functions for mathematical operations on arrays. NumPy is widely used for tasks such as array manipulation, linear algebra, statistical operations, and random number generation.
+
+# Library: Matplotlib
+**Category: Visualization**
+Matplotlib is a versatile plotting library that allows you to create a wide range of static visualizations. It provides a low-level interface for creating plots and supports various plot types, including line plots, scatter plots, bar plots, histograms, and more. Matplotlib is highly customizable and widely used in the data science community.
+
+# Library: Seaborn
+**Category: Visualization**
+Seaborn is a statistical data visualization library built on top of Matplotlib. It provides a higher-level interface and offers a set of additional plot types and themes that make it easier to create aesthetically pleasing visualizations. Seaborn is particularly useful for creating statistical graphics and exploring relationships between variables.
+
+# Library: Plotly
+**Category: Visualization**
+Plotly is an interactive data visualization library that allows you to create highly customizable and interactive plots. It supports a wide range of plot types, including scatter plots, line plots, bar plots, 3D plots, maps, and more. Plotly can be used in both Python and other programming languages, and it provides features like hover tooltips, zooming, panning, and exporting plots.
+
+# Library: SciPy
+**Category: Statistical Analysis**
+Scipy is a scientific computing library that provides functions for advanced mathematical operations, statistical analysis, optimization, interpolation, and more. It is particularly useful for performing statistical tests, fitting models, and working with numerical data.
+
+# Library: Statsmodels
+**Category: Statistical Modeling**
+Statsmodels is a statistical modeling library that provides a comprehensive set of tools for estimating and analyzing statistical models. It offers a wide range of statistical tests, regression models, time series analysis, and more. Statsmodels is particularly useful for conducting advanced statistical analyses and hypothesis testing.
+
+# Library: Scikit-learn
+**Category: Machine Learning**
+Scikit-learn is a machine learning library that provides a wide range of algorithms for classification, regression, clustering, dimensionality reduction, and more. It also offers tools for preprocessing data, model evaluation, and model selection. Scikit-learn is often used in EDA for tasks like feature extraction, dimensionality reduction, and building predictive models.
+
+# Library: Yellowbrick
+**Category: Visual Diagnostic Tools**
+Yellowbrick is a visualization library that focuses on creating visual diagnostic tools for machine learning. It provides a high-level interface for creating visualizations that help in understanding model behavior, evaluating performance, and debugging models. Yellowbrick offers visualizations for tasks like feature analysis, model selection, clustering evaluation, and more.
+
+Note: The table format was changed to individual statements for better readability.
+
 <table><thead><tr><th width="49">No.</th><th width="110">Library</th><th width="207">Category</th><th>Description</th></tr></thead><tbody><tr><td>1</td><td>Pandas</td><td>Data Manipulation and Analysis</td><td>Pandas is a powerful library for data manipulation and analysis. It provides data structures and functions to efficiently work with structured data, such as tables or data frames. Pandas is widely used for tasks like data cleaning, filtering, grouping, merging, and more.</td></tr><tr><td>2</td><td>NumPy</td><td>Numerical Computing</td><td>NumPy is a fundamental library for numerical computing in Python. It provides a multidimensional array object, along with functions for mathematical operations on arrays. NumPy is widely used for tasks such as array manipulation, linear algebra, statistical operations, and random number generation.</td></tr><tr><td>3</td><td>Matplotlib</td><td>Visualization</td><td>Matplotlib is a versatile plotting library that allows you to create a wide range of static visualizations. It provides a low-level interface for creating plots and supports various plot types, including line plots, scatter plots, bar plots, histograms, and more. Matplotlib is highly customizable and widely used in the data science community.</td></tr><tr><td>4</td><td>Seaborn</td><td>Visualization</td><td>Seaborn is a statistical data visualization library built on top of Matplotlib. It provides a higher-level interface and offers a set of additional plot types and themes that make it easier to create aesthetically pleasing visualizations. Seaborn is particularly useful for creating statistical graphics and exploring relationships between variables.</td></tr><tr><td>5</td><td>Plotly</td><td>Visualization</td><td>Plotly is an interactive data visualization library that allows you to create highly customizable and interactive plots. It supports a wide range of plot types, including scatter plots, line plots, bar plots, 3D plots, maps, and more. Plotly can be used in both Python and other programming languages, and it provides features like hover tooltips, zooming, panning, and exporting plots.</td></tr><tr><td>6</td><td>SciPy</td><td>Statistical Analysis</td><td>Scipy is a scientific computing library that provides functions for advanced mathematical operations, statistical analysis, optimization, interpolation, and more. It is particularly useful for performing statistical tests, fitting models, and working with numerical data.</td></tr><tr><td>7</td><td>Statsmodels</td><td>Statistical Modeling</td><td>Statsmodels is a statistical modeling library that provides a comprehensive set of tools for estimating and analyzing statistical models. It offers a wide range of statistical tests, regression models, time series analysis, and more. Statsmodels is particularly useful for conducting advanced statistical analyses and hypothesis testing.</td></tr><tr><td>8</td><td>Scikit-learn</td><td>Machine Learning</td><td>Scikit-learn is a machine learning library that provides a wide range of algorithms for classification, regression, clustering, dimensionality reduction, and more. It also offers tools for preprocessing data, model evaluation, and model selection. Scikit-learn is often used in EDA for tasks like feature extraction, dimensionality reduction, and building predictive models.</td></tr><tr><td>9</td><td>Yellowbrick</td><td>Visual Diagnostic Tools</td><td>Yellowbrick is a visualization library that focuses on creating visual diagnostic tools for machine learning. It provides a high-level interface for creating visualizations that help in understanding model behavior, evaluating performance, and debugging models. Yellowbrick offers visualizations for tasks like feature analysis, model selection, clustering evaluation, and more.</td></tr></tbody></table>
 
 In EDA, you might perform tasks such as cleaning the data, handling missing values, transforming variables, generating summary statistics, creating visualizations (e.g. histograms, scatter plots, box plots), and identifying outliers. All of these tasks can be done using the above libraries in Python.
