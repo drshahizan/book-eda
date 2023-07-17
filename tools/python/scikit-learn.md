@@ -12,13 +12,9 @@ for a list of core contributors.
 
 It is currently maintained by a team of volunteers.
 
-Website: https://scikit-learn.org
-
-Installation
-------------
+## Installation
 
 Dependencies
-~~~~~~~~~~~~
 
 scikit-learn requires:
 
@@ -27,8 +23,6 @@ scikit-learn requires:
 - SciPy (>= |SciPyMinVersion|)
 - joblib (>= |JoblibMinVersion|)
 - threadpoolctl (>= |ThreadpoolctlMinVersion|)
-
-=======
 
 **Scikit-learn 0.20 was the last version to support Python 2.7 and Python 3.4.**
 scikit-learn 1.0 and later require Python 3.7 or newer.
@@ -41,47 +35,27 @@ A few examples require scikit-image >= |Scikit-ImageMinVersion|, a few examples
 require pandas >= |PandasMinVersion|, some examples require seaborn >=
 |SeabornMinVersion| and plotly >= |PlotlyMinVersion|.
 
-User installation
-~~~~~~~~~~~~~~~~~
+## User installation
 
 If you already have a working installation of numpy and scipy,
-the easiest way to install scikit-learn is using `pip`::
+the easiest way to install scikit-learn is using `pip`
 
     pip install -U scikit-learn
 
-or `conda`::
+or `conda`
 
     conda install -c conda-forge scikit-learn
 
 The documentation includes more detailed `installation instructions <https://scikit-learn.org/stable/install.html>`_.
 
 
-Changelog
----------
-
-See the `changelog <https://scikit-learn.org/dev/whats_new.html>`__
-for a history of notable changes to scikit-learn.
-
-Development
------------
-
-We welcome new contributors of all experience levels. The scikit-learn
-community goals are to be helpful, welcoming, and effective. The
-`Development Guide <https://scikit-learn.org/stable/developers/index.html>`_
-has detailed information about contributing code, documentation, tests, and
-more. We've included some basic information in this README.
-
-Important links
-~~~~~~~~~~~~~~~
-
+## Important links
 - Official source code repo: https://github.com/scikit-learn/scikit-learn
 - Download releases: https://pypi.org/project/scikit-learn/
 - Issue tracker: https://github.com/scikit-learn/scikit-learn/issues
 
-Source code
-~~~~~~~~~~~
-
-You can check the latest sources with the command::
+## Source code
+You can check the latest sources with the command
 
     git clone https://github.com/scikit-learn/scikit-learn.git
 
