@@ -14,10 +14,6 @@ The information on this e-book is part of the materials for the subject High Per
 
 <figure><img src=".gitbook/assets/hpdp1.jpeg" alt=""><figcaption></figcaption></figure>
 
-##
-
-
-
 ## Videos
 
 * [Exploratory Data Analysis Tutorial | What Is EDA | How EDA Works | EDA In Python | Intellipaat](https://www.youtube.com/watch?v=oS12x4GjLjM)
@@ -29,8 +25,6 @@ The information on this e-book is part of the materials for the subject High Per
 * [Exploratory Data Analysis (EDA) Using Python | Python Data Analysis | Python Training | Edureka](https://www.youtube.com/watch?v=-o3AxdVcUtQ)
 * [Exploratory Data Analysis with Pandas Python](https://www.youtube.com/watch?v=xi0vhXFPegw)
 * [How to Do Data Exploration (step-by-step tutorial on real-life dataset)](https://www.youtube.com/watch?v=OY4eQrekQvs)
-
-
 
 ## Github
 
