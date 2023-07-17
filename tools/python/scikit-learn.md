@@ -28,13 +28,6 @@ scikit-learn requires:
 scikit-learn 1.0 and later require Python 3.7 or newer.
 scikit-learn 1.1 and later require Python 3.8 or newer.
 
-Scikit-learn plotting capabilities (i.e., functions start with ``plot_`` and
-classes end with "Display") require Matplotlib (>= |MatplotlibMinVersion|).
-For running the examples Matplotlib >= |MatplotlibMinVersion| is required.
-A few examples require scikit-image >= |Scikit-ImageMinVersion|, a few examples
-require pandas >= |PandasMinVersion|, some examples require seaborn >=
-|SeabornMinVersion| and plotly >= |PlotlyMinVersion|.
-
 ## User installation
 
 If you already have a working installation of numpy and scipy,
