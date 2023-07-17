@@ -31,13 +31,8 @@ python -mpip install -U matplotlib
 
 Matplotlib comes with a wide variety of plots. Plots helps to understand trends, patterns, and to make correlations. They’re typically instruments for reasoning about quantitative information. Some of the sample plots are covered here. **Line plot :**&#x20;
 
-### Python3
-
-| `# importing matplotlib modulefrom` `matplotlib import` `pyplot as plt` `# x-axis valuesx =` `[5, 2, 9, 4, 7]` `# Y-axis valuesy =` `[10, 5, 8, 4, 2]` `# Function to plotplt.plot(x,y)` `# function to show the plotplt.show()` |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-Output : ![](https://media.geeksforgeeks.org/wp-content/uploads/line-plot-300x254.png)
-
+{% tabs %}
+{% tab title="Python3" %}
 ```
 # importing matplotlib module
 from matplotlib import pyplot as plt
@@ -53,7 +48,14 @@ plt.plot(x,y)
  
 # function to show the plot
 plt.show()
-Output : 
 ```
+{% endtab %}
+
+{% endtabs %}
+
+Output : ![](https://media.geeksforgeeks.org/wp-content/uploads/line-plot-300x254.png)
+
+```
+
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
