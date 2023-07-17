@@ -4,43 +4,43 @@ An interpreted, object-oriented programming language with dynamic semantics. Its
 
 The libraries are arranged based on their relevance to different activities in EDA. The first five libraries primarily focus on data manipulation, numerical computations, and visualization. The next two libraries, SciPy and Statsmodels, are more focused on statistical analysis and modeling. Scikit-learn is included for machine learning tasks, and Yellowbrick offers visual diagnostic tools.
 
-## 1. Pandas
+## 1. [Pandas](pandas.md)
 
 🗂️ **Category: Data Manipulation and Analysis**
 
 Pandas is a powerful library for data manipulation and analysis. It provides data structures and functions to efficiently work with structured data, such as tables or data frames. Pandas is widely used for tasks like data cleaning, filtering, grouping, merging, and more.
 
-## 2. NumPy
+## 2. [NumPy](numpy.md)
 
 🗂️ **Category: Numerical Computing**
 
 NumPy is a fundamental library for numerical computing in Python. It provides a multidimensional array object, along with functions for mathematical operations on arrays. NumPy is widely used for tasks such as array manipulation, linear algebra, statistical operations, and random number generation.
 
-## 3. Matplotlib
+## 3. [Matplotlib](matplotlib.md)
 
 🗂️ **Category: Visualization** Matplotlib is a versatile plotting library that allows you to create a wide range of static visualizations. It provides a low-level interface for creating plots and supports various plot types, including line plots, scatter plots, bar plots, histograms, and more. Matplotlib is highly customizable and widely used in the data science community.
 
-## 4. Seaborn
+## 4. [Seaborn](seaborn.md)
 
 🗂️ **Category: Visualization** Seaborn is a statistical data visualization library built on top of Matplotlib. It provides a higher-level interface and offers a set of additional plot types and themes that make it easier to create aesthetically pleasing visualizations. Seaborn is particularly useful for creating statistical graphics and exploring relationships between variables.
 
-## 5. Plotly
+## 5. [Plotly](plotly.md)
 
 🗂️ **Category: Visualization** Plotly is an interactive data visualization library that allows you to create highly customizable and interactive plots. It supports a wide range of plot types, including scatter plots, line plots, bar plots, 3D plots, maps, and more. Plotly can be used in both Python and other programming languages, and it provides features like hover tooltips, zooming, panning, and exporting plots.
 
-## 6. SciPy
+## 6. [SciPy](scipy.md)
 
 🗂️ **Category: Statistical Analysis** Scipy is a scientific computing library that provides functions for advanced mathematical operations, statistical analysis, optimization, interpolation, and more. It is particularly useful for performing statistical tests, fitting models, and working with numerical data.
 
-## 7. Statsmodels
+## 7. [Statsmodels](statsmodels.md)
 
 🗂️ **Category: Statistical Modeling** Statsmodels is a statistical modeling library that provides a comprehensive set of tools for estimating and analyzing statistical models. It offers a wide range of statistical tests, regression models, time series analysis, and more. Statsmodels is particularly useful for conducting advanced statistical analyses and hypothesis testing.
 
-## Library: Scikit-learn
+## 8. [Scikit-learn](scikit-learn.md)
 
 🗂️ **Category: Machine Learning** Scikit-learn is a machine learning library that provides a wide range of algorithms for classification, regression, clustering, dimensionality reduction, and more. It also offers tools for preprocessing data, model evaluation, and model selection. Scikit-learn is often used in EDA for tasks like feature extraction, dimensionality reduction, and building predictive models.
 
-## Library: Yellowbrick
+## 9. [Yellowbrick](yellowbrick.md)
 
 🗂️ **Category: Visual Diagnostic Tools** Yellowbrick is a visualization library that focuses on creating visual diagnostic tools for machine learning. It provides a high-level interface for creating visualizations that help in understanding model behavior, evaluating performance, and debugging models. Yellowbrick offers visualizations for tasks like feature analysis, model selection, clustering evaluation, and more.
 
