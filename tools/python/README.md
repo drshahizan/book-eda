@@ -2,6 +2,22 @@
 
 An interpreted, object-oriented programming language with dynamic semantics. Its high-level, built-in data structures, combined with dynamic typing and dynamic binding, make it very attractive for rapid application development, as well as for use as a scripting or glue language to connect existing components together. Python and EDA can be used together to identify missing values in a data set, which is important so you can decide how to handle missing values for machine learning.
 
+Sure! Here's the table sorted based on the activities in exploratory data analysis (EDA):
+
+| No. | Library   | Category         | Description                                                                                                       |
+|-----|-----------|------------------|-------------------------------------------------------------------------------------------------------------------|
+| 1   | Pandas    | Data Manipulation and Analysis | A library for data manipulation and analysis, providing data structures and functions for working with structured data. |
+| 2   | NumPy     | Numerical Computing | A library for numerical computing in Python, offering multidimensional arrays and mathematical functions. |
+| 3   | Matplotlib | Visualization    | A plotting library for creating static visualizations, providing a low-level interface for various plot types. |
+| 4   | Seaborn    | Visualization    | A library based on Matplotlib, offering a higher-level interface and additional plot types for statistical visualizations. |
+| 5   | Plotly     | Visualization    | An interactive data visualization library supporting a wide range of plot types, including interactive features. |
+| 6   | SciPy      | Statistical Analysis | A scientific computing library with functions for mathematical operations, statistical analysis, and optimization. |
+| 7   | Statsmodels | Statistical Modeling | A library for estimating and analyzing statistical models, providing a comprehensive set of tools. |
+| 8   | Scikit-learn | Machine Learning | A machine learning library offering a variety of algorithms for classification, regression, clustering, and more. |
+| 9   | Yellowbrick | Visual Diagnostic Tools | A library for creating visual diagnostic tools to aid in understanding machine learning models. |
+
+The libraries are arranged based on their relevance to different activities in EDA. The first five libraries primarily focus on data manipulation, numerical computations, and visualization. The next two libraries, SciPy and Statsmodels, are more focused on statistical analysis and modeling. Scikit-learn is included for machine learning tasks, and Yellowbrick offers visual diagnostic tools. 
+
 1. **Pandas**: Pandas is a powerful library for data manipulation and analysis. It provides data structures and functions to efficiently work with structured data, such as tables or data frames. Pandas is widely used for tasks like data cleaning, filtering, grouping, merging, and more.
 
 2. **NumPy**: NumPy is a fundamental library for numerical computing in Python. It provides a multidimensional array object, along with functions for mathematical operations on arrays. NumPy is widely used for tasks such as array manipulation, linear algebra, statistical operations, and random number generation.
