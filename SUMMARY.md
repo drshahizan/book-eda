@@ -26,6 +26,7 @@
   * [📊 Matplotlib](tools/python/matplotlib.md)
   * [📈 Seaborn](tools/python/seaborn.md)
   * [📶 Plotly](tools/python/plotly.md)
+* [SciPy](tools/scipy.md)
 * [⛏ Python tools](tools/python-tools.md)
 * [👩💻 Data Exploration](tools/data-exploration.md)
 * [🎯 Data Quality](tools/data-quality.md)
