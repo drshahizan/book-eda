@@ -5,7 +5,7 @@
 ## EDA Concept
 
 * [📑 Content](eda-concept/content/README.md)
-  * [Exploratory Data Analysis (EDA): Uncovering Insights and Patterns](eda-concept/content/what-eda.md)
+  * [EDA: Uncovering Insights and Patterns](eda-concept/content/what-eda.md)
   * [Why EDA?](eda-concept/content/why-eda.md)
   * [Types of EDA](eda-concept/content/types-of-eda.md)
   * [Basic Concept](eda-concept/content/basic-concept.md)
