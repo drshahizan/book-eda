@@ -4,9 +4,6 @@
 
 ## Course Content
 
-* [📑 Content](eda-concept/content/README.md)
-  * [Kaggle](eda-concept/content/kaggle.md)
-  * [Github](eda-concept/content/github.md)
 * [Lifecycle](course-content/lifecycle/README.md)
   * [Data Science](course-content/lifecycle/data-science.md)
   * [EDA](course-content/lifecycle/eda.md)
@@ -17,6 +14,9 @@
   * [A Comprehensive Examination](course-content/basic-concept/a-comprehensive-examination.md)
   * [Code & Practice](course-content/basic-concept/code-and-practice.md)
   * [Basic Concept](course-content/basic-concept/basic-concept.md)
+* [📑 Content](eda-concept/content/README.md)
+  * [Kaggle](eda-concept/content/kaggle.md)
+  * [Github](eda-concept/content/github.md)
 
 ## Dataset
 
