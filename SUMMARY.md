@@ -5,7 +5,7 @@
 ## Course Content
 
 * [1. Introduction](course-content/introduction.md)
-  * [EDA: Uncovering Insights and Patterns](course-content/basic-concept/what-eda.md)
+  * [EDA: Uncovering Insights and Patterns](course-content/introduction/eda-insights.md)
   * [Why EDA?](course-content/basic-concept/why-eda.md)
   * [A Comprehensive Examination](course-content/basic-concept/a-comprehensive-examination.md)
   * [Code & Practice](course-content/basic-concept/code-and-practice.md)

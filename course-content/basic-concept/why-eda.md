@@ -1,15 +1,17 @@
 # Why EDA?
 
-<figure><img src="../../eda-concept/.gitbook/assets/EDA.png" alt="" width="563"><figcaption></figcaption></figure>
+The main purpose of **Exploratory Data Analysis (EDA)** is to help analysts **examine** the data before making any assumptions. By visually and statistically **exploring** the dataset, analysts can uncover **patterns**, **trends**, and **distributions** within the data. This understanding is crucial for making informed decisions about **data preprocessing**, **feature engineering**, and selecting appropriate **modeling techniques**.
 
-✅️ The main purpose of EDA is to help you look at the data before making any assumptions. In addition to better understanding the patterns in the data or detecting unusual events, it also helps you find interesting relationships between variables.
+EDA plays a vital role in identifying and detecting **unusual events** or **outliers**. Outliers are data points that deviate significantly from the majority of observations and can have a significant impact on the analysis and modeling results. By identifying and understanding outliers, analysts can decide how to handle them, such as **removal**, **transformation**, or other appropriate methods.
 
-✅️ Data scientists can use exploratory analysis to ensure that the results they produce are valid and relevant to desired business outcomes and goals.
+EDA helps analysts discover interesting **relationships** between variables by examining **correlations**, **associations**, and **dependencies**. These insights are crucial for **feature selection**, identifying important predictors, and understanding the data's dynamics.
 
-✅️ EDA also helps stakeholders by verifying that they are asking the right questions.
+Data scientists rely on exploratory analysis to ensure the **validity** and **relevance** of the results they produce, aligning them with desired **business outcomes** and **goals**. By thoroughly exploring the data, they can verify if the right questions are being asked and refine their research objectives accordingly. EDA acts as a validating mechanism, aiding stakeholders in framing appropriate inquiries and making well-informed decisions.
 
-✅️ EDA can help to answer questions about standard deviations, categorical variables, and confidence intervals.
+EDA helps answer specific questions about the data, such as **standard deviations**, **categorical variables**, and **confidence intervals**. It provides insights into the spread, variability, distribution, and frequency of the data, enabling analysts to make informed decisions.
 
-✅️ After the exploratory analysis is completed and the predictions are determined, its features can be used for more complex data analysis or modeling, including machine learning.
+After completing EDA, the insights and derived features can be used for more complex data analysis and modeling tasks, including **machine learning**. The identified patterns, relationships, and outliers guide **feature selection**, inform model assumptions, and enhance the accuracy and interpretability of predictive models.
+
+In summary, EDA is a critical step in data analysis that helps analysts examine the data, uncover patterns and outliers, discover relationships, ensure validity, answer specific questions, and provide a foundation for advanced analysis and modeling. It empowers analysts to make informed decisions and derive meaningful insights from the data, facilitating successful data-driven decision-making processes.
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
