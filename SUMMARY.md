@@ -15,6 +15,8 @@
   * [Data Science](course-content/lifecycle/data-science.md)
   * [EDA](course-content/lifecycle/eda.md)
 * [3. Dataset Selection and Understanding](course-content/3.-dataset-selection-and-understanding.md)
+  * [Kaggle](eda-concept/content/kaggle.md)
+  * [Github](eda-concept/content/github.md)
 * [4. Data Cleaning and Preprocessing](course-content/data-cleaning-and-preprocessing.md)
 * [5. EDA Techniques and Approaches](course-content/eda-techniques-and-approaches.md)
   * [Types of EDA](course-content/basic-concept/types-of-eda.md)
@@ -23,9 +25,6 @@
 * [9. Case Studies and Real-World Examples](tech-exploration/case-studies-and-real-world-examples.md)
 * [11. Best Practices and Tips for Effective EDA](course-content/best-practices-and-tips-for-effective-eda.md)
 * [12. Future Trends and Emerging Technologies in EDA](course-content/future-trends-and-emerging-technologies-in-eda.md)
-* [📑 Content](eda-concept/content/README.md)
-  * [Kaggle](eda-concept/content/kaggle.md)
-  * [Github](eda-concept/content/github.md)
 
 ## Dataset
 
