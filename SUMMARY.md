@@ -7,6 +7,7 @@
 * [1. Introduction](course-content/introduction.md)
   * [EDA: Uncovering Insights and Patterns](course-content/introduction/eda-insights.md)
   * [Why EDA?](course-content/basic-concept/why-eda.md)
+  * [Importance of EDA](course-content/importance-of-eda.md)
   * [A Comprehensive Examination](course-content/basic-concept/a-comprehensive-examination.md)
   * [Code & Practice](course-content/basic-concept/code-and-practice.md)
   * [Basic Concept](course-content/basic-concept/basic-concept.md)
