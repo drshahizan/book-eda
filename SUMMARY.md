@@ -17,30 +17,38 @@
 * [📑 Content](eda-concept/content/README.md)
   * [Kaggle](eda-concept/content/kaggle.md)
   * [Github](eda-concept/content/github.md)
+* [Introduction](course-content/introduction.md)
+* [Fundamentals](course-content/fundamentals.md)
+* [Data Cleaning and Preprocessing](course-content/data-cleaning-and-preprocessing.md)
+* [EDA Techniques and Approaches](course-content/eda-techniques-and-approaches.md)
+* [Data Visualization for EDA](course-content/data-visualization-for-eda.md)
+* [Statistical Measures and Hypothesis Testing in EDA](course-content/statistical-measures-and-hypothesis-testing-in-eda.md)
+* [Best Practices and Tips for Effective EDA](course-content/best-practices-and-tips-for-effective-eda.md)
+* [Future Trends and Emerging Technologies in EDA](course-content/future-trends-and-emerging-technologies-in-eda.md)
 
 ## Dataset
 
 * [ℹ Kaggle](dataset/kaggle.md)
 
-## Tools
+## Tools and Software
 
-* [✨ Data Analysis Tools](tools/data-analysis-tools.md)
-* [🐍 Python Library](tools/python/README.md)
-  * [🐼 Pandas](tools/python/pandas.md)
-  * [🧊 Numpy](tools/python/numpy.md)
-  * [📊 Matplotlib](tools/python/matplotlib.md)
-  * [📈 Seaborn](tools/python/seaborn.md)
-  * [📶 Plotly](tools/python/plotly.md)
-  * [🤹 SciPy](tools/python/scipy.md)
-  * [💫 Statsmodels](tools/python/statsmodels.md)
-  * [👂 Scikit-learn](tools/python/scikit-learn.md)
-  * [🗳 Yellowbrick](tools/python/yellowbrick.md)
-* [⛏ Python tools](tools/python-tools.md)
-* [® ® The R Project](tools/the-r-project.md)
-* [🌀 Data Exploration](tools/exploration.md)
-* [🎯 Data Quality](tools/data-quality.md)
-* [📔 Data Profiling](tools/data-profiling.md)
-* [📺 Visualization](tools/visualization.md)
+* [✨ Data Analysis Tools](tools-and-software/data-analysis-tools.md)
+* [🐍 Python Library](tools-and-software/python/README.md)
+  * [🐼 Pandas](tools-and-software/python/pandas.md)
+  * [🧊 Numpy](tools-and-software/python/numpy.md)
+  * [📊 Matplotlib](tools-and-software/python/matplotlib.md)
+  * [📈 Seaborn](tools-and-software/python/seaborn.md)
+  * [📶 Plotly](tools-and-software/python/plotly.md)
+  * [🤹 SciPy](tools-and-software/python/scipy.md)
+  * [💫 Statsmodels](tools-and-software/python/statsmodels.md)
+  * [👂 Scikit-learn](tools-and-software/python/scikit-learn.md)
+  * [🗳 Yellowbrick](tools-and-software/python/yellowbrick.md)
+* [⛏ Python tools](tools-and-software/python-tools.md)
+* [® ® ® The R Project](tools-and-software/the-r-project.md)
+* [🌀 Data Exploration](tools-and-software/exploration.md)
+* [🎯 Data Quality](tools-and-software/data-quality.md)
+* [📔 Data Profiling](tools-and-software/data-profiling.md)
+* [📺 Visualization](tools-and-software/visualization.md)
 
 ## Tech Exploration
 
@@ -48,6 +56,7 @@
 * [☁ Github](tech-exploration/github.md)
 * [🔬 Lab](tech-exploration/lab.md)
 * [💼 Case Study](tech-exploration/case-study.md)
+* [Case Studies and Real-World Examples](tech-exploration/case-studies-and-real-world-examples.md)
 
 ## Reference
 
