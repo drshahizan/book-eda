@@ -3,3 +3,5 @@
 Google Colab
 
 Jupyter Notebook
+
+JupyterLab
