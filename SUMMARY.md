@@ -3,15 +3,16 @@
 * [👋 Welcome!](README.md)
 
 ## Course Content
+
 * [1. Introduction](course-content/introduction.md)
 * [2. Fundamentals](course-content/fundamentals.md)
+* [3. Dataset Selection and Understanding](course-content/3.-dataset-selection-and-understanding.md)
 * [4. Data Cleaning and Preprocessing](course-content/data-cleaning-and-preprocessing.md)
 * [5. EDA Techniques and Approaches](course-content/eda-techniques-and-approaches.md)
 * [6. Data Visualization for EDA](course-content/data-visualization-for-eda.md)
 * [7. Statistical Measures and Hypothesis Testing in EDA](course-content/statistical-measures-and-hypothesis-testing-in-eda.md)
 * [11. Best Practices and Tips for Effective EDA](course-content/best-practices-and-tips-for-effective-eda.md)
 * [12. Future Trends and Emerging Technologies in EDA](course-content/future-trends-and-emerging-technologies-in-eda.md)
-  
 * [Lifecycle](course-content/lifecycle/README.md)
   * [Data Science](course-content/lifecycle/data-science.md)
   * [EDA](course-content/lifecycle/eda.md)
@@ -44,7 +45,7 @@
   * [👂 Scikit-learn](tools-and-software/python/scikit-learn.md)
   * [🗳 Yellowbrick](tools-and-software/python/yellowbrick.md)
 * [⛏ Python tools](tools-and-software/python-tools.md)
-* [® ® ® The R Project](tools-and-software/the-r-project.md)
+* [® ® ® ® The R Project](tools-and-software/the-r-project.md)
 * [🌀 Data Exploration](tools-and-software/exploration.md)
 * [🎯 Data Quality](tools-and-software/data-quality.md)
 * [📔 Data Profiling](tools-and-software/data-profiling.md)
