@@ -13,6 +13,7 @@
   * [Kaggle](eda-concept/content/kaggle.md)
   * [Github](eda-concept/content/github.md)
   * [A Comprehensive Examination](eda-concept/content/a-comprehensive-examination.md)
+* [Lifecycle](course-content/lifecycle.md)
 
 ## Dataset
 
@@ -32,12 +33,11 @@
   * [👂 Scikit-learn](tools/python/scikit-learn.md)
   * [🗳 Yellowbrick](tools/python/yellowbrick.md)
 * [⛏ Python tools](tools/python-tools.md)
-* [® The R Project](tools/the-r-project.md)
+* [® ® The R Project](tools/the-r-project.md)
 * [🌀 Data Exploration](tools/exploration.md)
 * [🎯 Data Quality](tools/data-quality.md)
 * [📔 Data Profiling](tools/data-profiling.md)
 * [📺 Visualization](tools/visualization.md)
-
 
 ## Tech Exploration
 
