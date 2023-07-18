@@ -10,6 +10,7 @@
   * [A Comprehensive Examination](course-content/basic-concept/a-comprehensive-examination.md)
   * [Code & Practice](course-content/basic-concept/code-and-practice.md)
   * [Basic Concept](course-content/basic-concept/basic-concept.md)
+* [Importance of EDA](course-content/importance-of-eda.md)
 * [2. Fundamentals](course-content/fundamentals.md)
   * [Lifecycle](course-content/lifecycle/README.md)
   * [Data Science](course-content/lifecycle/data-science.md)
