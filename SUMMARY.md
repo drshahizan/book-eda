@@ -34,7 +34,7 @@
 * [🌀 Data Exploration](tools/exploration.md)
 * [🎯 Data Quality](tools/data-quality.md)
 * [📔 Data Profiling](tools/data-profiling.md)
-* [® ® The R Project](tools/the-r-project.md)
+* [® The R Project](tools/the-r-project.md)
 
 ## Tech Exploration
 
