@@ -2,7 +2,7 @@
 
 * [👋 Welcome!](README.md)
 
-## EDA Concept
+## Course Content
 
 * [📑 Content](eda-concept/content/README.md)
   * [EDA: Uncovering Insights and Patterns](eda-concept/content/what-eda.md)
