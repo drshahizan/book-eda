@@ -36,6 +36,7 @@
 * [📔 Data Profiling](tools/data-profiling.md)
 * [® The R Project](tools/the-r-project.md)
 * [📺 Visualization](tools/visualization.md)
+* [Data Analysis Tools](tools/data-analysis-tools.md)
 
 ## Tech Exploration
 
