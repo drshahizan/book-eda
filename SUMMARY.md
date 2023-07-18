@@ -9,6 +9,9 @@
   * [Data Science](course-content/lifecycle/data-science.md)
   * [EDA](course-content/lifecycle/eda.md)
 * [Data Cleaning and Preprocessing](course-content/data-cleaning-and-preprocessing.md)
+* [Statistical Measures and Hypothesis Testing in EDA](course-content/statistical-measures-and-hypothesis-testing-in-eda.md)
+* [Best Practices and Tips for Effective EDA](course-content/best-practices-and-tips-for-effective-eda.md)
+* [Future Trends and Emerging Technologies in EDA](course-content/future-trends-and-emerging-technologies-in-eda.md)
 * [EDA Techniques and Approaches](course-content/eda-techniques-and-approaches.md)
 * [Data Visualization for EDA](course-content/data-visualization-for-eda.md)
 * [Basic Concept](course-content/basic-concept/README.md)
@@ -21,9 +24,6 @@
 * [📑 Content](eda-concept/content/README.md)
   * [Kaggle](eda-concept/content/kaggle.md)
   * [Github](eda-concept/content/github.md)
-* [Statistical Measures and Hypothesis Testing in EDA](course-content/statistical-measures-and-hypothesis-testing-in-eda.md)
-* [Best Practices and Tips for Effective EDA](course-content/best-practices-and-tips-for-effective-eda.md)
-* [Future Trends and Emerging Technologies in EDA](course-content/future-trends-and-emerging-technologies-in-eda.md)
 
 ## Dataset
 
