@@ -5,15 +5,18 @@
 ## Course Content
 
 * [📑 Content](eda-concept/content/README.md)
-  * [EDA: Uncovering Insights and Patterns](eda-concept/content/what-eda.md)
-  * [Why EDA?](eda-concept/content/why-eda.md)
-  * [Types of EDA](eda-concept/content/types-of-eda.md)
-  * [Basic Concept](eda-concept/content/basic-concept.md)
-  * [Code & Practice](eda-concept/content/code-and-practice.md)
   * [Kaggle](eda-concept/content/kaggle.md)
   * [Github](eda-concept/content/github.md)
-  * [A Comprehensive Examination](eda-concept/content/a-comprehensive-examination.md)
-* [Lifecycle](course-content/lifecycle.md)
+* [Lifecycle](course-content/lifecycle/README.md)
+  * [Data Science](course-content/lifecycle/data-science.md)
+  * [EDA](course-content/lifecycle/eda.md)
+* [Basic Concept](course-content/basic-concept/README.md)
+  * [EDA: Uncovering Insights and Patterns](course-content/basic-concept/what-eda.md)
+  * [Why EDA?](course-content/basic-concept/why-eda.md)
+  * [Types of EDA](course-content/basic-concept/types-of-eda.md)
+  * [A Comprehensive Examination](course-content/basic-concept/a-comprehensive-examination.md)
+  * [Code & Practice](course-content/basic-concept/code-and-practice.md)
+  * [Basic Concept](course-content/basic-concept/basic-concept.md)
 
 ## Dataset
 

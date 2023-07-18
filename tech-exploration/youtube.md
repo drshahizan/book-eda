@@ -1,4 +1,4 @@
-# Youtube
+# 🎬 Youtube
 
 * [Exploratory Data Analysis Tutorial | What Is EDA | How EDA Works | EDA In Python | Intellipaat](https://www.youtube.com/watch?v=oS12x4GjLjM)
 * [Live Day 1-Live Session On EDA And Feature Engineering- Zomato Dataset](https://www.youtube.com/watch?v=F-X82zhIfBo\&t=91s)
