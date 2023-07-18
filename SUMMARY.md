@@ -11,6 +11,7 @@
 * [5. EDA Techniques and Approaches](course-content/eda-techniques-and-approaches.md)
 * [6. Data Visualization for EDA](course-content/data-visualization-for-eda.md)
 * [7. Statistical Measures and Hypothesis Testing in EDA](course-content/statistical-measures-and-hypothesis-testing-in-eda.md)
+* [9. Case Studies and Real-World Examples](tech-exploration/case-studies-and-real-world-examples.md)
 * [11. Best Practices and Tips for Effective EDA](course-content/best-practices-and-tips-for-effective-eda.md)
 * [12. Future Trends and Emerging Technologies in EDA](course-content/future-trends-and-emerging-technologies-in-eda.md)
 * [Lifecycle](course-content/lifecycle/README.md)
@@ -57,7 +58,6 @@
 * [☁ Github](tech-exploration/github.md)
 * [🔬 Lab](tech-exploration/lab.md)
 * [💼 Case Study](tech-exploration/case-study.md)
-* [Case Studies and Real-World Examples](tech-exploration/case-studies-and-real-world-examples.md)
 
 ## Reference
 
