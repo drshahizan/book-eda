@@ -10,7 +10,7 @@
   * [EDA](course-content/lifecycle/eda.md)
 * [4. Data Cleaning and Preprocessing](course-content/data-cleaning-and-preprocessing.md)
 * [7. Statistical Measures and Hypothesis Testing in EDA](course-content/statistical-measures-and-hypothesis-testing-in-eda.md)
-* [Best Practices and Tips for Effective EDA](course-content/best-practices-and-tips-for-effective-eda.md)
+* [11. Best Practices and Tips for Effective EDA](course-content/best-practices-and-tips-for-effective-eda.md)
 * [Future Trends and Emerging Technologies in EDA](course-content/future-trends-and-emerging-technologies-in-eda.md)
 * [5. EDA Techniques and Approaches](course-content/eda-techniques-and-approaches.md)
 * [6. Data Visualization for EDA](course-content/data-visualization-for-eda.md)
