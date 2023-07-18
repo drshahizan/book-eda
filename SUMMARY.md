@@ -20,6 +20,7 @@
 
 ## Tools
 
+* [✨ Data Analysis Tools](tools/data-analysis-tools.md)
 * [🐍 Python Library](tools/python/README.md)
   * [🐼 Pandas](tools/python/pandas.md)
   * [🧊 Numpy](tools/python/numpy.md)
@@ -31,12 +32,12 @@
   * [👂 Scikit-learn](tools/python/scikit-learn.md)
   * [🗳 Yellowbrick](tools/python/yellowbrick.md)
 * [⛏ Python tools](tools/python-tools.md)
+* [® The R Project](tools/the-r-project.md)
 * [🌀 Data Exploration](tools/exploration.md)
 * [🎯 Data Quality](tools/data-quality.md)
 * [📔 Data Profiling](tools/data-profiling.md)
-* [® The R Project](tools/the-r-project.md)
 * [📺 Visualization](tools/visualization.md)
-* [✨ Data Analysis Tools](tools/data-analysis-tools.md)
+
 
 ## Tech Exploration
 
