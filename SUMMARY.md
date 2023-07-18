@@ -3,10 +3,14 @@
 * [👋 Welcome!](README.md)
 
 ## Course Content
-
+* [Introduction](course-content/introduction.md)
+* [Fundamentals](course-content/fundamentals.md)
 * [Lifecycle](course-content/lifecycle/README.md)
   * [Data Science](course-content/lifecycle/data-science.md)
   * [EDA](course-content/lifecycle/eda.md)
+* [Data Cleaning and Preprocessing](course-content/data-cleaning-and-preprocessing.md)
+* [EDA Techniques and Approaches](course-content/eda-techniques-and-approaches.md)
+* [Data Visualization for EDA](course-content/data-visualization-for-eda.md)
 * [Basic Concept](course-content/basic-concept/README.md)
   * [EDA: Uncovering Insights and Patterns](course-content/basic-concept/what-eda.md)
   * [Why EDA?](course-content/basic-concept/why-eda.md)
@@ -17,11 +21,6 @@
 * [📑 Content](eda-concept/content/README.md)
   * [Kaggle](eda-concept/content/kaggle.md)
   * [Github](eda-concept/content/github.md)
-* [Introduction](course-content/introduction.md)
-* [Fundamentals](course-content/fundamentals.md)
-* [Data Cleaning and Preprocessing](course-content/data-cleaning-and-preprocessing.md)
-* [EDA Techniques and Approaches](course-content/eda-techniques-and-approaches.md)
-* [Data Visualization for EDA](course-content/data-visualization-for-eda.md)
 * [Statistical Measures and Hypothesis Testing in EDA](course-content/statistical-measures-and-hypothesis-testing-in-eda.md)
 * [Best Practices and Tips for Effective EDA](course-content/best-practices-and-tips-for-effective-eda.md)
 * [Future Trends and Emerging Technologies in EDA](course-content/future-trends-and-emerging-technologies-in-eda.md)
