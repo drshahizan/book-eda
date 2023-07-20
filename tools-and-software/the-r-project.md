@@ -18,6 +18,15 @@ Automated Exploratory Data Analysis packages that will be described consist of D
 
 ## DataExplorer
 
+{% tabs %}
+{% tab title="🔗 Website" %}
+{% embed url="https://cran.r-project.org/web/packages/DataExplorer" %}
+{% endtab %}
+{% tab title="🧰 Github" %}
+{% embed url="https://github.com/boxuancui/DataExplorer" %}
+{% endtab %}
+{% endtabs %}
+
 🔗 [GitHub](https://github.com/boxuancui/DataExplorer) | [Website](https://cran.r-project.org/web/packages/DataExplorer/)
 
 Automated data exploration process for analytic tasks and predictive modeling, so that users could focus on understanding data and extracting insights. The package scans and analyzes each variable, and visualizes them with typical graphical techniques. Common data processing methods are also available to treat and format data. This library automatically scans the dataset for variables, performs data profiling, and provides many useful functions to create various charts on both discrete and continuous features in the dataset.
@@ -46,6 +55,15 @@ You can also refer to the [package documentation](https://cran.r-project.org/pac
 
 ## GGally
 
+{% tabs %}
+{% tab title="🔗 Website" %}
+{% embed url="https://cran.r-project.org/web/packages/GGally/index.html" %}
+{% endtab %}
+{% tab title="🧰 Github" %}
+{% embed url="https://github.com/ggobi/ggally/tree/master" %}
+{% endtab %}
+{% endtabs %}
+
 🔗 [GitHub](https://github.com/ggobi/ggally/tree/master) | [Website](https://cran.r-project.org/web/packages/GGally/index.html)
 
 [`ggplot2`](https://ggplot2.tidyverse.org/) is a plotting system for R based on the grammar of graphics. [`GGally`](https://ggobi.github.io/ggally/) extends ggplot2 by adding several functions to reduce the complexity of combining geoms with transformed data. Some of these functions include a pairwise plot matrix, a scatterplot plot matrix, a parallel coordinates plot, a survival plot, and several functions to plot networks. When using the ggplot() function to create charts, the 'geom()' object must be used to determine the plot type. In the case of the gGally package, however, it includes pre-built features such as:
@@ -71,6 +89,15 @@ install.packages("GGally")
 ```
 
 ## SmartEDA
+
+{% tabs %}
+{% tab title="🔗 Website" %}
+{% embed url="https://cran.r-project.org/web/packages/SmartEDA" %}
+{% endtab %}
+{% tab title="🧰 Github" %}
+{% embed url="https://github.com/daya6489/SmartEDA" %}
+{% endtab %}
+{% endtabs %}
 
 🔗 [GitHub](https://github.com/daya6489/SmartEDA/) | [Website](https://cran.r-project.org/web/packages/SmartEDA/)
 
@@ -100,6 +127,15 @@ From the .html report, we can see that it contains several plots generated with 
 
 ## tableone
 
+{% tabs %}
+{% tab title="🔗 Website" %}
+{% embed url="https://cran.r-project.org/web/packages/tableone/" %}
+{% endtab %}
+{% tab title="🧰 Github" %}
+{% embed url="https://github.com/kaz-yos/tableone" %}
+{% endtab %}
+{% endtabs %}
+
 🔗 [GitHub](https://github.com/kaz-yos/tableone) | [Website](https://cran.r-project.org/web/packages/tableone/)
 
 An R package to create “Table 1”, description of baseline characteristics
@@ -114,6 +150,15 @@ There are two ways to use this package.
 tableone was inspired by descriptive statistics functions in Deducer , a Java-based GUI package by Ian Fellows. This package does not require GUI or Java, and intended for command-line users.
 
 ## dataMaid
+
+{% tabs %}
+{% tab title="🔗 Website" %}
+{% embed url="https://cran.r-project.org/web/packages/dataMaid/index.html" %}
+{% endtab %}
+{% tab title="🧰 Github" %}
+{% embed url="https://github.com/ekstroem/dataMaid" %}
+{% endtab %}
+{% endtabs %}
 
 🔗 [GitHub](https://github.com/ekstroem/dataMaid) | [Website](https://cran.r-project.org/web/packages/dataMaid/index.html)
 
