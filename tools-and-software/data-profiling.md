@@ -10,9 +10,8 @@ Now that the data has been examined and some initial cleaning has taken place, i
 
 {% tabs %}
 {% tab title="Web" %}
-
-{% endtab %}
 {% embed url="https://www.metabase.com/" %}
+{% endtab %}
 {% tab title="Github" %}
 {% embed url="https://github.com/metabase/metabase" %}
 {% endtab %}
