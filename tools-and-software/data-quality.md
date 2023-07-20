@@ -28,7 +28,7 @@ Cleanlab’s Chief Scientist & Co-Founder, Jonas Mueller, will present more abou
 {% embed url="https://docs.greatexpectations.io/docs/" %}
 {% endtab %}
 {% tab title="🧰 Github" %}
-{% embed url="https://github.com/great-expectations/great\_expectations" %}
+{% embed url="https://github.com/great-expectations/great_expectations" %}
 {% endtab %}
 {% endtabs %}
 
