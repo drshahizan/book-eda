@@ -6,7 +6,7 @@ Data exploration is the initial act of getting to know your data and what you’
 
 {% tabs %}
 {% tab title="🔗 Website" %}
-{% embed url="https://ydata-profiling.ydata.ai/docs/master/index.html" %}
+{% embed url="https://ydata-profiling.ydata.ai" %}
 {% endtab %}
 {% tab title="🧰 Github" %}
 {% embed url="https://github.com/ydataai/ydata-profiling" %}
