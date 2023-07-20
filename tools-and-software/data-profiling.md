@@ -9,12 +9,12 @@ Now that the data has been examined and some initial cleaning has taken place, i
 
 
 {% tabs %}
-{% tab title="First Tab" %}
+{% tab title="Web" %}
 
 {% endtab %}
-
-{% tab title="Second Tab" %}
-
+{% embed url="https://www.metabase.com/" %}
+{% tab title="Github" %}
+{% embed url="https://github.com/metabase/metabase" %}
 {% endtab %}
 {% endtabs %}
 
