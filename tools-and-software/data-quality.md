@@ -4,6 +4,15 @@ Now that you’ve learned more about your data and cleaned it up, it’s time to
 
 ## **Cleanlab**
 
+{% tabs %}
+{% tab title="🔗 Website" %}
+{% embed url="https://cleanlab.ai" %}
+{% endtab %}
+{% tab title="🧰 Github" %}
+{% embed url="https://github.com/cleanlab/cleanlab" %}
+{% endtab %}
+{% endtabs %}
+
 🔗 [GitHub](https://github.com/cleanlab/cleanlab) | [Website](https://cleanlab.ai/)
 
 Cleanlab is focused on data-centric AI (DCAI), providing algorithms/interfaces to help companies (across all industries) improve the quality of their datasets and diagnose/fix various issues in them. This tool automatically detects problems in an ML dataset. This data-centric AI package facilitates machine learning with messy, real-world data by providing clean labels for robust training and flagging errors in your data.
@@ -14,6 +23,15 @@ Cleanlab’s Chief Scientist & Co-Founder, Jonas Mueller, will present more abou
 
 ## **Great Expectations**
 
+{% tabs %}
+{% tab title="🔗 Website" %}
+{% embed url="https://docs.greatexpectations.io/docs/" %}
+{% endtab %}
+{% tab title="🧰 Github" %}
+{% embed url="https://github.com/great-expectations/great\_expectations" %}
+{% endtab %}
+{% endtabs %}
+
 🔗 [GitHub](https://github.com/great-expectations/great\_expectations) | [Website](https://docs.greatexpectations.io/docs/)
 
 Great Expectations (GX) helps data teams build a shared understanding of their data through quality testing, documentation, and profiling. With [Great Expectations](https://opendatascience.com/building-a-robust-data-pipeline-with-the-dag-stack-dbt-airflow-and-great-expectations/), data teams can express what they “expect” from their data using simple assertions. Great Expectations provides support for different data backends such as flat file formats, SQL databases, Pandas dataframes and Sparks, and comes with built-in notification and data documentation functionality.
@@ -23,6 +41,15 @@ Sam Bail, technical lead at Superconductive (the core maintainers behind Great E
 <figure><img src="https://miro.medium.com/v2/resize:fit:1400/0*XY3zqOpw-XEZCSI_.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## **VisiData**
+
+{% tabs %}
+{% tab title="🔗 Website" %}
+{% embed url="https://www.visidata.org" %}
+{% endtab %}
+{% tab title="🧰 Github" %}
+{% embed url="https://github.com/saulpw/visidata" %}
+{% endtab %}
+{% endtabs %}
 
 🔗 [GitHub](https://github.com/saulpw/visidata) | [Website](https://www.visidata.org/)
 
