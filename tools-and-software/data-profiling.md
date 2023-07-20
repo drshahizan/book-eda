@@ -4,13 +4,11 @@ Now that the data has been examined and some initial cleaning has taken place, i
 
 ## **Metabase**
 
-🔗 [GitHub](https://github.com/metabase/metabase) | [Website](https://www.metabase.com/)
-
 {% tabs %}
-{% tab title="🔗 Web" %}
+{% tab title="🔗 Website" %}
 {% embed url="https://www.metabase.com" %}
 {% endtab %}
-{% tab title="🧰Github" %}
+{% tab title="🧰 Github" %}
 {% embed url="https://github.com/metabase/metabase" %}
 {% endtab %}
 {% endtabs %}
