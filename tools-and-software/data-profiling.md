@@ -8,7 +8,7 @@ Now that the data has been examined and some initial cleaning has taken place, i
 
 {% tabs %}
 {% tab title="Web" %}
-{% embed url="[https://github.com/metabase/metabase](https://www.metabase.com/)" %}
+{% embed url="https://www.metabase.com" %}
 {% endtab %}
 {% tab title="Github" %}
 {% embed url="https://github.com/metabase/metabase" %}
