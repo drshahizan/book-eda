@@ -26,15 +26,20 @@ Metabase is an easy-to-use data exploration tool that allows even non-technical 
 {% endtab %}
 {% endtabs %}
 
-🔗 [GitHub](https://github.com/lightdash/lightdash) | [Website](https://www.lightdash.com/)
-
 A popular open-source business intelligence tool, Lightdash is designed for [dbt](https://www.getdbt.com/) (data build tool), and allows data analysts and engineers to control all of their business intelligence tools in a single place, bridging the gap between the transformation and visualization layers. The tool is a full-stack BI platform, so analysts can write their metrics in-house, enabling the entire business to work with the data with ease.
 
 <figure><img src="https://miro.medium.com/v2/resize:fit:1400/0*5weA6rNKaOn1QpnK.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## **Perspective**
 
-🔗 [GitHub](https://github.com/finos/perspective) | [Website](https://perspective.finos.org/)
+{% tabs %}
+{% tab title="🔗 Website" %}
+{% embed url="https://perspective.finos.org" %}
+{% endtab %}
+{% tab title="🧰 Github" %}
+{% embed url="https://github.com/finos/perspective" %}
+{% endtab %}
+{% endtabs %}
 
 Perspective is an interactive analytics and data visualization component, which is especially well-suited for large and/or streaming datasets. This tool allows users to create easily-configurable reports, dashboards, notebooks, and applications.
 
@@ -42,7 +47,14 @@ Perspective is an interactive analytics and data visualization component, which 
 
 ## **Apache Doris**
 
-🔗 [GitHub](https://github.com/apache/doris) | [Website](https://doris.apache.org/)
+{% tabs %}
+{% tab title="🔗 Website" %}
+{% embed url="https://doris.apache.org" %}
+{% endtab %}
+{% tab title="🧰 Github" %}
+{% embed url="https://github.com/apache/doris" %}
+{% endtab %}
+{% endtabs %}
 
 Built on an MPP (massively parallel processing) architecture, this tool from Apache is a high-performance, real-time analytics database, known for speed and ease of use. Apache Doris can better meet the scenarios of report analysis, ad-hoc query, unified data warehouse, Data Lake Query Acceleration, etc. Users can build user behavior analysis, AB test platform, log retrieval analysis, user portrait analysis, order analysis, and other applications on top of this.
 
