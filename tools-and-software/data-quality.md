@@ -13,8 +13,6 @@ Now that you’ve learned more about your data and cleaned it up, it’s time to
 {% endtab %}
 {% endtabs %}
 
-🔗 [GitHub](https://github.com/cleanlab/cleanlab) | [Website](https://cleanlab.ai/)
-
 Cleanlab is focused on data-centric AI (DCAI), providing algorithms/interfaces to help companies (across all industries) improve the quality of their datasets and diagnose/fix various issues in them. This tool automatically detects problems in an ML dataset. This data-centric AI package facilitates machine learning with messy, real-world data by providing clean labels for robust training and flagging errors in your data.
 
 Cleanlab’s Chief Scientist & Co-Founder, Jonas Mueller, will present more about the tool at ODSC East coming this May, in a session called “[Improving ML Datasets with Cleanlab, a Standard Framework for Data-Centric AI](https://odsc.com/speakers/improving-ml-datasets-with-cleanlab-a-standard-framework-for-data-centric-ai/?\_\_hstc=39712252.8eec8d7f5738faf6416f0c6bad9fe9a5.1634042255273.1676485537499.1676487889182.1013&\_\_hssc=39712252.5.1676487889182&\_\_hsfp=901111203).”
@@ -32,8 +30,6 @@ Cleanlab’s Chief Scientist & Co-Founder, Jonas Mueller, will present more abou
 {% endtab %}
 {% endtabs %}
 
-🔗 [GitHub](https://github.com/great-expectations/great\_expectations) | [Website](https://docs.greatexpectations.io/docs/)
-
 Great Expectations (GX) helps data teams build a shared understanding of their data through quality testing, documentation, and profiling. With [Great Expectations](https://opendatascience.com/building-a-robust-data-pipeline-with-the-dag-stack-dbt-airflow-and-great-expectations/), data teams can express what they “expect” from their data using simple assertions. Great Expectations provides support for different data backends such as flat file formats, SQL databases, Pandas dataframes and Sparks, and comes with built-in notification and data documentation functionality.
 
 Sam Bail, technical lead at Superconductive (the core maintainers behind Great Expectations), delivered a talk about building a robust data pipeline during ODSC East 2021. [You can watch it on demand here](https://www.youtube.com/watch?v=u48R6XyKo9o\&ab\_channel=OpenDataScience).
@@ -50,8 +46,6 @@ Sam Bail, technical lead at Superconductive (the core maintainers behind Great E
 {% embed url="https://github.com/saulpw/visidata" %}
 {% endtab %}
 {% endtabs %}
-
-🔗 [GitHub](https://github.com/saulpw/visidata) | [Website](https://www.visidata.org/)
 
 VisiData is a free, open-source tool that lets you quickly open, explore, summarize, and analyze datasets in your computer’s terminal. VisiData works with CSV files, Excel spreadsheets, SQL databases, and many other data sources. It combines the clarity of a spreadsheet, the efficiency of the terminal, and the power of Python, into a lightweight utility that can handle millions of rows with ease.
 
