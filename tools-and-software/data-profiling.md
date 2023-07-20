@@ -7,7 +7,7 @@ Now that the data has been examined and some initial cleaning has taken place, i
 🔗 [GitHub](https://github.com/metabase/metabase) | [Website](https://www.metabase.com/)
 
 {% tabs %}
-{% tab title="Web" %}
+{% tab title="#HOME Web" %}
 [GitHub](https://github.com/metabase/metabase)
 {% endtab %}
 {% tab title="Github" %}
