@@ -13,8 +13,6 @@ Data exploration is the initial act of getting to know your data and what you’
 {% endtab %}
 {% endtabs %}
 
-🔗 [GitHub](https://github.com/ydataai/ydata-profiling) | [Website](https://ydata-profiling.ydata.ai/docs/master/index.html)
-
 `ydata-profiling` primary goal is to provide a one-line Exploratory Data Analysis (EDA) experience in a consistent and fast solution. Like pandas `df.describe()` function, that is so handy, ydata-profiling delivers an extended analysis of a DataFrame while allowing the data analysis to be exported in different formats such as **html** and **json**.
 
 The package outputs a simple and digested analysis of a dataset, including **time-series** and **text**.
@@ -32,8 +30,6 @@ The package outputs a simple and digested analysis of a dataset, including **tim
 {% endtab %}
 {% endtabs %}
 
-🔗 [GitHub](https://github.com/fbdesignpro/sweetviz) | [Website](https://pypi.org/project/sweetviz/)
-
 Sweetviz is an open-source Python library that generates beautiful, high-density visualizations to kickstart EDA (Exploratory Data Analysis) with just two lines of code. Output is a fully self-contained HTML application. The system is built around quickly visualizing target values and comparing datasets. Its goal is to help with a quick analysis of target characteristics, training vs testing data, and other such data characterization tasks.
 
 <figure><img src="https://miro.medium.com/v2/resize:fit:1400/0*JIYeDsgh2B8CzwD5" alt="" width="563"><figcaption></figcaption></figure>
@@ -49,8 +45,6 @@ Sweetviz is an open-source Python library that generates beautiful, high-density
 {% endtab %}
 {% endtabs %}
 
-🔗 [GitHub](https://github.com/apache/superset) | [Website](https://superset.apache.org/)
-
 Apache Superset is a must-try project for any ML engineer, data scientist, or data analyst. Features include an intuitive interface for visualizing datasets and building interactive dashboards. Performance is impressive, has an impressive integration library, and solid security and authentication. The no-code visualization builds are a handy feature. Apache Superset remains popular thanks to how well it gives you control over your data.
 
 <figure><img src="https://miro.medium.com/v2/resize:fit:1400/0*ynYCj7QykMWhlGGw.jpg" alt="" width="563"><figcaption></figcaption></figure>
@@ -65,8 +59,6 @@ Apache Superset is a must-try project for any ML engineer, data scientist, or da
 {% embed url="https://github.com/algorithm-visualizer/algorithm-visualizer" %}
 {% endtab %}
 {% endtabs %}
-
-🔗 [GitHub](https://github.com/algorithm-visualizer/algorithm-visualizer) | [Website](https://algorithm-visualizer.org/)
 
 Algorithm Visualizer is an interactive online platform that visualizes algorithms from code. It offers visualization tools in various languages including JavaScript, Java, and C++. The project was inspired by a group of coders looking to visualize what they’re working on, thus creating a tool that can show algorithms and descriptions of algorithms in real time.
 
