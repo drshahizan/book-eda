@@ -6,13 +6,25 @@ Now that the data has been examined and some initial cleaning has taken place, i
 
 🔗 [GitHub](https://github.com/metabase/metabase) | [Website](https://www.metabase.com/)
 
+{% tabs %}
+{% tab title="Apple" %}
+This is an apple 🍎
+{% endtab %}
 
+{% tab title="Orange" %}
+This is an orange 🍊
+{% endtab %}
+
+{% tab title="Banana" %}
+This is a banana 🍌
+{% endtab %}
+{% endtabs %}
 
 {% tabs %}
-{% tab title=":octocat: Web" %}
+{% tab title="Web" %}
 {% embed url="https://www.metabase.com/" %}
 {% endtab %}
-{% tab title="💣 Github" %}
+{% tab title="Github" %}
 {% embed url="https://github.com/metabase/metabase" %}
 {% endtab %}
 {% endtabs %}
