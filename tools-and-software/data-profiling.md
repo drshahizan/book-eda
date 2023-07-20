@@ -17,6 +17,15 @@ Metabase is an easy-to-use data exploration tool that allows even non-technical 
 
 ## **Lightdash**
 
+{% tabs %}
+{% tab title="🔗 Website" %}
+{% embed url="https://www.lightdash.com" %}
+{% endtab %}
+{% tab title="🧰 Github" %}
+{% embed url="https://github.com/lightdash/lightdash" %}
+{% endtab %}
+{% endtabs %}
+
 🔗 [GitHub](https://github.com/lightdash/lightdash) | [Website](https://www.lightdash.com/)
 
 A popular open-source business intelligence tool, Lightdash is designed for [dbt](https://www.getdbt.com/) (data build tool), and allows data analysts and engineers to control all of their business intelligence tools in a single place, bridging the gap between the transformation and visualization layers. The tool is a full-stack BI platform, so analysts can write their metrics in-house, enabling the entire business to work with the data with ease.
