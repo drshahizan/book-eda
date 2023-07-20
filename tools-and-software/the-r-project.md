@@ -27,8 +27,6 @@ Automated Exploratory Data Analysis packages that will be described consist of D
 {% endtab %}
 {% endtabs %}
 
-🔗 [GitHub](https://github.com/boxuancui/DataExplorer) | [Website](https://cran.r-project.org/web/packages/DataExplorer/)
-
 Automated data exploration process for analytic tasks and predictive modeling, so that users could focus on understanding data and extracting insights. The package scans and analyzes each variable, and visualizes them with typical graphical techniques. Common data processing methods are also available to treat and format data. This library automatically scans the dataset for variables, performs data profiling, and provides many useful functions to create various charts on both discrete and continuous features in the dataset.
 
 Let us look at the code we need to install and use the DataExplorer library
@@ -64,8 +62,6 @@ You can also refer to the [package documentation](https://cran.r-project.org/pac
 {% endtab %}
 {% endtabs %}
 
-🔗 [GitHub](https://github.com/ggobi/ggally/tree/master) | [Website](https://cran.r-project.org/web/packages/GGally/index.html)
-
 [`ggplot2`](https://ggplot2.tidyverse.org/) is a plotting system for R based on the grammar of graphics. [`GGally`](https://ggobi.github.io/ggally/) extends ggplot2 by adding several functions to reduce the complexity of combining geoms with transformed data. Some of these functions include a pairwise plot matrix, a scatterplot plot matrix, a parallel coordinates plot, a survival plot, and several functions to plot networks. When using the ggplot() function to create charts, the 'geom()' object must be used to determine the plot type. In the case of the gGally package, however, it includes pre-built features such as:
 
 * `ggally_density()` – To plot Density Plot.
@@ -98,8 +94,6 @@ install.packages("GGally")
 {% embed url="https://github.com/daya6489/SmartEDA" %}
 {% endtab %}
 {% endtabs %}
-
-🔗 [GitHub](https://github.com/daya6489/SmartEDA/) | [Website](https://cran.r-project.org/web/packages/SmartEDA/)
 
 SmartEDA is a comprehensive programme for automating most EDA activities including descriptive statistics, data visualisation, custom tables, and HTML reports.
 
@@ -136,8 +130,6 @@ From the .html report, we can see that it contains several plots generated with 
 {% endtab %}
 {% endtabs %}
 
-🔗 [GitHub](https://github.com/kaz-yos/tableone) | [Website](https://cran.r-project.org/web/packages/tableone/)
-
 An R package to create “Table 1”, description of baseline characteristics
 
 Table 1 is a common format to show summary statistics of data that is used in medical research papers. You can use a various data wrangling mehods such as Group By, Summarize, etc. to calculate such statistics. But, in R, there is a package called ‘tableone’, which is designed to generate the Table 1 information. This means, you can quickly use the package to generate Table 1 information in Exploratory.
@@ -159,8 +151,6 @@ tableone was inspired by descriptive statistics functions in Deducer , a Java-ba
 {% embed url="https://github.com/ekstroem/dataMaid" %}
 {% endtab %}
 {% endtabs %}
-
-🔗 [GitHub](https://github.com/ekstroem/dataMaid) | [Website](https://cran.r-project.org/web/packages/dataMaid/index.html)
 
 The dataMaid package creates a report in different formats, such as PDF, DOCX, or HTML. The generated report checks and neatly simply summarizes the dataset. It is a good tool for checking errors in the dataset.
 
