@@ -17,10 +17,6 @@ Now that the data has been examined and some initial cleaning has taken place, i
 {% endtab %}
 {% endtabs %}
 
-{% embed url="https://www.metabase.com/" %}
-
-{% embed url="https://github.com/metabase/metabase" %}
-
 Metabase is an easy-to-use data exploration tool that allows even non-technical users to ask questions and gain insights. This business intelligence and user experience tool allows you to build interactive dashboards, models for cleaning tables, and set up alerts to notify users when your data changes. You can even connect directly to 20+ data sources to work with data within minutes.
 
 ## **Lightdash**
