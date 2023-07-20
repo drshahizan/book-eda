@@ -4,6 +4,15 @@ Data exploration is the initial act of getting to know your data and what you’
 
 ## **ydata-profiling**
 
+{% tabs %}
+{% tab title="🔗 Website" %}
+{% embed url="https://ydata-profiling.ydata.ai/docs/master/index.html" %}
+{% endtab %}
+{% tab title="🧰 Github" %}
+{% embed url="https://github.com/ydataai/ydata-profiling" %}
+{% endtab %}
+{% endtabs %}
+
 🔗 [GitHub](https://github.com/ydataai/ydata-profiling) | [Website](https://ydata-profiling.ydata.ai/docs/master/index.html)
 
 `ydata-profiling` primary goal is to provide a one-line Exploratory Data Analysis (EDA) experience in a consistent and fast solution. Like pandas `df.describe()` function, that is so handy, ydata-profiling delivers an extended analysis of a DataFrame while allowing the data analysis to be exported in different formats such as **html** and **json**.
@@ -14,6 +23,15 @@ The package outputs a simple and digested analysis of a dataset, including **tim
 
 ## **Sweetviz**
 
+{% tabs %}
+{% tab title="🔗 Website" %}
+{% embed url="https://pypi.org/project/sweetviz" %}
+{% endtab %}
+{% tab title="🧰 Github" %}
+{% embed url="https://github.com/fbdesignpro/sweetviz" %}
+{% endtab %}
+{% endtabs %}
+
 🔗 [GitHub](https://github.com/fbdesignpro/sweetviz) | [Website](https://pypi.org/project/sweetviz/)
 
 Sweetviz is an open-source Python library that generates beautiful, high-density visualizations to kickstart EDA (Exploratory Data Analysis) with just two lines of code. Output is a fully self-contained HTML application. The system is built around quickly visualizing target values and comparing datasets. Its goal is to help with a quick analysis of target characteristics, training vs testing data, and other such data characterization tasks.
@@ -22,6 +40,15 @@ Sweetviz is an open-source Python library that generates beautiful, high-density
 
 ## **Apache Superset**
 
+{% tabs %}
+{% tab title="🔗 Website" %}
+{% embed url="https://superset.apache.org" %}
+{% endtab %}
+{% tab title="🧰 Github" %}
+{% embed url="https://github.com/apache/superset" %}
+{% endtab %}
+{% endtabs %}
+
 🔗 [GitHub](https://github.com/apache/superset) | [Website](https://superset.apache.org/)
 
 Apache Superset is a must-try project for any ML engineer, data scientist, or data analyst. Features include an intuitive interface for visualizing datasets and building interactive dashboards. Performance is impressive, has an impressive integration library, and solid security and authentication. The no-code visualization builds are a handy feature. Apache Superset remains popular thanks to how well it gives you control over your data.
@@ -29,6 +56,15 @@ Apache Superset is a must-try project for any ML engineer, data scientist, or da
 <figure><img src="https://miro.medium.com/v2/resize:fit:1400/0*ynYCj7QykMWhlGGw.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## **Algorithm-visualizer**
+
+{% tabs %}
+{% tab title="🔗 Website" %}
+{% embed url="https://algorithm-visualizer.org" %}
+{% endtab %}
+{% tab title="🧰 Github" %}
+{% embed url="https://github.com/algorithm-visualizer/algorithm-visualizer" %}
+{% endtab %}
+{% endtabs %}
 
 🔗 [GitHub](https://github.com/algorithm-visualizer/algorithm-visualizer) | [Website](https://algorithm-visualizer.org/)
 
