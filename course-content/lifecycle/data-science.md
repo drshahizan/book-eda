@@ -2,11 +2,11 @@
 
 ## What is Data Science?
 
-As the name implies, data science is the area of study that investigates enormous volumes of information using modern tools and techniques to find unseen patterns, derive meaningful information, and make business decisions based on that information. Predictive models are built using complex machine learning algorithms in data science. The data used for analysis can come from many different sources and be presented in various formats.
+**Data science** is the field of study that explores vast volumes of **information** using cutting-edge tools and techniques to discover concealed **patterns**, extract valuable **insights**, and formulate **business decisions** based on that knowledge. **Predictive models** are constructed using sophisticated **machine learning algorithms** in data science. The **data** utilized for analysis can originate from diverse **sources** and be presented in various **formats**.
 
 ## What is a Data Science Life Cycle?
 
-The Data Science Lifecycle is an extensive step-by-step guide that illustrates how machine learning and other analytical techniques can be used to generate insights and predictions from data to accomplish a business objective.
+The **Data Science Life Cycle** refers to the step-by-step process involved in solving real-world problems and extracting meaningful insights from data using data science methodologies. It encompasses a series of stages that guide data scientists and analysts throughout the entire data-driven project, ensuring a systematic and organized approach to data analysis and decision-making.
 
 Several processes are taken during the entire process, including data preparation, cleaning, modeling, and model evaluation. The process is lengthy and could take several months to finish.
 
