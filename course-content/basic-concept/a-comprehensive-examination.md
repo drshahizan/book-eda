@@ -111,3 +111,5 @@ By thoroughly examining these aspects, valuable insights can be gleaned, leading
 ## Conclusion
 
 A comprehensive examination of essential analysis considerations enhances the quality and reliability of data analysis. By focusing on the dataset's shape, missing values, numerical and categorical variables, distributions, outliers, and the relationship between features, analysts can derive meaningful insights and make informed decisions. Considering these factors ensures robust analysis and enables data-driven decision-making.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
