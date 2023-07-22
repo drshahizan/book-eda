@@ -1,31 +1,22 @@
 # Data Science
 
-### What is Data Science?
+## What is Data Science?
 
 As the name implies, data science is the area of study that investigates enormous volumes of information using modern tools and techniques to find unseen patterns, derive meaningful information, and make business decisions based on that information. Predictive models are built using complex machine learning algorithms in data science. The data used for analysis can come from many different sources and be presented in various formats.
 
-### What is a Data Science Life Cycle?
+## What is a Data Science Life Cycle?
 
 The Data Science Lifecycle is an extensive step-by-step guide that illustrates how machine learning and other analytical techniques can be used to generate insights and predictions from data to accomplish a business objective.
 
 Several processes are taken during the entire process, including data preparation, cleaning, modeling, and model evaluation. The process is lengthy and could take several months to finish.
 
-### Data Science Life Cycle
+## Data Science Life Cycle
 
 The life cycle of data science contains the following steps:
 
-1. Understating the Business problem
-2. Preparing the data
-3. Exploratory Data Analysis (EDA)
-4. Modeling the data
-5. Evaluating the model
-6. Deploying the model
+<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*DjIccrMeRWmrC_mCUOGDhw.png" alt="" height="394" width="700"><figcaption><p>Data Science life cycle (Sivaraj, 2020)</p></figcaption></figure>
 
-![Lifecycle 01-1](https://www.odinschool.com/hs-fs/hubfs/Lifecycle%2001-1.png?width=588\&height=588\&name=Lifecycle%2001-1.png)
-
-Now, let’s understand every step in detail.
-
-#### Understanding the Business problem
+### Understanding the Business problem
 
 The "why" question served as the catalyst for many world advances.
 
@@ -40,7 +31,7 @@ In short, to define the business problem for the data science project following 
 * Determine the project's risks, taking ethical issues into account.&#x20;
 * Create and distribute a flexible, high-level project plan.
 
-#### Preparing the data
+### Preparing the data
 
 The second phase of the data science life cycle is data preparation. This is to prepare the data to understand the business problem and extract information to solve the problem.
 
@@ -53,7 +44,7 @@ The second phase of the data science life cycle is data preparation. This is to 
 * Errors are dealt with by being removed.
 * Use the box plots for detecting outliers and handling them.
 
-#### Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 
 Before really developing the model, this step entails understanding the solution and the variables that may affect it. To understand data and data features better, we create heat maps, bar graphs, and charting.
 
@@ -61,13 +52,13 @@ We need to keep a few factors in mind when analyzing the data, including checkin
 
 70% of the data science project life cycle time is spent on this step. We can extract lots of information with the proper EDA.
 
-#### Modeling the data
+### Modeling the data
 
 This is the most important step of the life cycle of data science. This tells a lot about a data science project. This phase is about selecting the right model type, depending on whether the issue is classification, regression, or clustering. Following the selection of the model family, we must carefully select and implement algorithms to be used inside that family.
 
 There are numerous hyperparameters. Therefore, we should determine the model's ideal hyperparameter values. We don't want to overfit. So hyperparameter tuning is important in model building. This hyperparameter tuning makes the model predict correctly.
 
-#### Evaluating the model
+### Evaluating the model
 
 We built a model in the previous phase. But isn't our model effective? Therefore, we must determine our model's existing status to improve it.
 
@@ -96,7 +87,7 @@ Metrics that are used to evaluate the models are:
 
 With the help of this step, we choose the right model for our business problem. Based on this step, we create the model best suits our needs.
 
-#### Deploying the model
+### Deploying the model
 
 We have reached the end of our life cycle. In this step, the delivery method that will be used to distribute the model to users or another system is created.
 
