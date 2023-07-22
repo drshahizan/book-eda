@@ -127,3 +127,5 @@ Any shortcuts used during the minimally viable model phase are updated to system
 The many phases of the data science life cycle should be carefully considered. The entire effort is wasted if any step is carried out incorrectly because it will have an impact on the following phase.
 
 For instance, improper data collection will result in information loss and a model that is not perfect. The model won't function effectively if the data is not adequately cleaned. The model will fall short in the real world if it is not adequately examined. Each phase, from business comprehension to model deployment, should receive the appropriate consideration, time, and effort.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
