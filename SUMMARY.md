@@ -22,11 +22,11 @@
 * [4. Data Cleaning and Preprocessing](course-content/data-cleaning-and-preprocessing.md)
 * [5. Techniques and Approaches](course-content/eda-techniques-and-approaches.md)
   * [Types of EDA](course-content/basic-concept/types-of-eda.md)
-* [6. Data Visualization](course-content/data-visualization.md)
-* [7. Statistical Measures and Hypothesis Testing](course-content/statistical-measures.md)
-* [9. Case Studies](course-content/case-studies.md)
+* [6. Data Visualization](course-content/data-visualization-for-eda.md)
+* [7. Statistical Measures and Hypothesis Testing](course-content/statistical-measures-and-hypothesis-testing-in-eda.md)
+* [9. Case Studies](tech-exploration/case-studies-and-real-world-examples.md)
 * [11. Best Practices and Tips for Effective EDA](course-content/best-practices-and-tips-for-effective-eda.md)
-* [12. Future Trends and Emerging Technologies](course-content/future-trends.md)
+* [12. Future Trends and Emerging Technologies](course-content/future-trends-and-emerging-technologies-in-eda.md)
 
 ## Dataset
 
