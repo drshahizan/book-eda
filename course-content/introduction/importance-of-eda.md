@@ -23,3 +23,5 @@ Exploratory Data Analysis (EDA) is a fundamental and critical step in the data s
 10. **Iterative Process**: EDA is often iterative, meaning that data scientists may conduct multiple rounds of exploration as they gain new insights, leading to a deeper understanding of the data and continuous improvement of the analysis.
 
 Exploratory Data Analysis is a powerful tool that empowers data scientists to comprehend and explore the underlying patterns and characteristics of data. It aids in data quality assessment, informs modeling decisions, and supports evidence-based decision-making in various domains and industries. EDA sets the foundation for successful data analysis and the development of robust data-driven solutions.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
