@@ -20,13 +20,13 @@
   * [Kaggle](eda-concept/content/kaggle.md)
   * [Github](eda-concept/content/github.md)
 * [4. Data Cleaning and Preprocessing](course-content/data-cleaning-and-preprocessing.md)
-* [5. EDA Techniques and Approaches](course-content/eda-techniques-and-approaches.md)
+* [5. Techniques and Approaches](course-content/eda-techniques-and-approaches.md)
   * [Types of EDA](course-content/basic-concept/types-of-eda.md)
-* [6. Data Visualization for EDA](course-content/data-visualization-for-eda.md)
-* [7. Statistical Measures and Hypothesis Testing in EDA](course-content/statistical-measures-and-hypothesis-testing-in-eda.md)
-* [9. Case Studies and Real-World Examples](tech-exploration/case-studies-and-real-world-examples.md)
+* [6. Data Visualization](course-content/data-visualization.md)
+* [7. Statistical Measures and Hypothesis Testing](course-content/statistical-measures.md)
+* [9. Case Studies](course-content/case-studies.md)
 * [11. Best Practices and Tips for Effective EDA](course-content/best-practices-and-tips-for-effective-eda.md)
-* [12. Future Trends and Emerging Technologies in EDA](course-content/future-trends-and-emerging-technologies-in-eda.md)
+* [12. Future Trends and Emerging Technologies](course-content/future-trends.md)
 
 ## Dataset
 
@@ -46,7 +46,7 @@
   * [👂 Scikit-learn](tools-and-software/python/scikit-learn.md)
   * [🗳 Yellowbrick](tools-and-software/python/yellowbrick.md)
 * [⛏ Python tools](tools-and-software/python-tools.md)
-* [The R Project](tools-and-software/the-r-project.md)
+* [® The R Project](tools-and-software/the-r-project.md)
 * [🌀 Data Exploration](tools-and-software/exploration.md)
 * [🎯 Data Quality](tools-and-software/data-quality.md)
 * [📔 Data Profiling](tools-and-software/data-profiling.md)
