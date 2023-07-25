@@ -20,9 +20,7 @@ Exploratory Data Analysis (EDA) holds significant importance in the field of Dat
 
 In summary, EDA plays a foundational role in the data analysis process. It provides critical insights, validates assumptions, helps identify data issues, and guides subsequent analysis and modeling steps. By leveraging EDA effectively, data scientists and analysts can make more informed decisions, extract valuable insights, and unlock the full potential of their data.
 
-
-
-
+## EDA Life Cycle
 
 The EDA life cycle typically involves several steps, which can be summarized as follows:
 
