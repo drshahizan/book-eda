@@ -2,7 +2,7 @@
 
 Exploratory Data Analysis (EDA) is a critical step in the data analysis process, where analysts or data scientists examine and summarize the main characteristics and patterns of the data before proceeding with more formal statistical analyses or modeling. The EDA life cycle typically involves several steps, which can be summarized as follows:
 
-Certainly! Let's delve into the step-by-step details of the Exploratory Data Analysis (EDA) life cycle:
+Let's delve into the step-by-step details of the Exploratory Data Analysis (EDA) life cycle:
 
 1. **Data Collection**: This initial step involves gathering data from various sources, such as databases, APIs, spreadsheets, or files. The data collected should be relevant to the analysis objective and cover the necessary time period or scope. It is essential to ensure data quality during collection, as inaccurate or incomplete data can lead to erroneous conclusions.
 2. **Data Cleaning**: Raw data often contains errors, missing values, duplicate entries, or inconsistencies. Data cleaning aims to rectify these issues to ensure that the data is accurate and suitable for analysis. Common tasks in this step include:
