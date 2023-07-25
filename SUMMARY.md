@@ -25,7 +25,7 @@
 * [6. Data Visualization](course-content/data-visualization-for-eda.md)
 * [7. Statistical Measures and Hypothesis Testing](course-content/statistical-measures-and-hypothesis-testing-in-eda.md)
 * [9. Case Studies](tech-exploration/case-studies-and-real-world-examples.md)
-* [11. Best Practices and Tips for Effective EDA](course-content/best-practices-and-tips-for-effective-eda.md)
+* [11. Best Practices and Tips for Effective EDA](course-content/best-practices-eda.md)
 * [12. Future Trends and Emerging Technologies](course-content/future-trends-and-emerging-technologies-in-eda.md)
 
 ## Dataset
