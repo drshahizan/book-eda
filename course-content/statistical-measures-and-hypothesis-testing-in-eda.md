@@ -1,6 +1,8 @@
 # 7. Statistical Measures and Hypothesis Testing
 
-**Statistical Measures in Exploratory Data Analysis (EDA):**
+Exploratory Data Analysis (EDA) is a crucial initial step in the data analysis process that involves examining and understanding the characteristics of a dataset. It employs a combination of statistical measures and hypothesis testing to uncover patterns, relationships, and trends within the data. EDA plays a pivotal role in gaining insights, identifying outliers, and formulating hypotheses for further analysis.
+
+## **Statistical Measures**
 
 1. **Measures of Central Tendency:**
    * Mean: The arithmetic average of a set of numerical values. It represents the central value around which the data points tend to cluster.
@@ -19,7 +21,7 @@
 5. **Covariance:**
    * Covariance: Measures the degree to which two numerical variables vary together. A positive covariance indicates that both variables increase or decrease together, while a negative covariance indicates an inverse relationship.
 
-**Hypothesis Testing in Exploratory Data Analysis (EDA):**
+## **Hypothesis Testing**
 
 Hypothesis testing is a critical aspect of EDA that allows data analysts to make inferences about the population based on sample data. The process involves setting up null and alternative hypotheses and using statistical tests to determine the validity of the hypotheses. Some common hypothesis tests in EDA include:
 
