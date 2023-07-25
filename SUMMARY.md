@@ -46,7 +46,7 @@
   * [👂 Scikit-learn](tools-and-software/python/scikit-learn.md)
   * [🗳 Yellowbrick](tools-and-software/python/yellowbrick.md)
 * [⛏ Python tools](tools-and-software/python-tools.md)
-* [® The R Project](tools-and-software/the-r-project.md)
+* [® ® The R Project](tools-and-software/the-r-project.md)
 * [🌀 Data Exploration](tools-and-software/exploration.md)
 * [🎯 Data Quality](tools-and-software/data-quality.md)
 * [📔 Data Profiling](tools-and-software/data-profiling.md)
