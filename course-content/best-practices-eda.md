@@ -21,3 +21,5 @@ Effective Exploratory Data Analysis (EDA) is crucial for understanding data and 
 17. **Data Privacy and Security**: Be mindful of data privacy and security. Avoid sharing sensitive information in publicly accessible EDA reports or repositories.
 
 By following these best practices and tips, you can conduct effective Exploratory Data Analysis that provides valuable insights and sets a solid foundation for further analysis and decision-making.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
