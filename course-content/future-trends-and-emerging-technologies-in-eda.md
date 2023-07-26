@@ -19,3 +19,5 @@ As technology and data science continue to evolve, several future trends and eme
 15. **Quantum Computing Impact**: Quantum computing, when more mature, may bring about new algorithms and approaches to data analysis. Quantum algorithms could potentially revolutionize EDA, solving problems that are currently computationally intractable for classical computers.
 
 These future trends and emerging technologies in EDA reflect the continuous advancement of data science and its applications. Embracing these innovations will empower data analysts to tackle increasingly complex data challenges and extract valuable insights from diverse and vast datasets.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
