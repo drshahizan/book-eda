@@ -77,3 +77,5 @@ The process of data visualization in EDA typically involves the following steps:
 6. **Iterate and Refine**: Iterate through the visualization process, refining visualizations based on feedback and insights.
 
 In conclusion, data visualization is an indispensable tool in Exploratory Data Analysis. It enables data analysts to explore data effectively, detect patterns, identify relationships, and communicate complex findings effectively, laying the foundation for deeper analysis and informed decision-making. With a wide range of visualization tools and techniques available, EDA empowers data professionals to uncover the underlying structure and characteristics of the data, leading to data-driven insights and actionable knowledge.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
